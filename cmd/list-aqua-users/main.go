@@ -44,11 +44,23 @@ func core(logger zerolog.Logger) error {
 		return results[i].Star > results[j].Star
 	})
 
-	fmt.Printf(`_The last updated time: %s_
+	if runID := os.Getenv("GITHUB_RUN_ID"); runID != "" {
+		fmt.Printf(`_The last updated time: [%s](%s/%s/actions/runs/%s)_
+
+Repository | :star: The number of GitHub stars
+--- | ---
+`,
+			time.Now().Format(time.RFC3339),
+			os.Getenv("GITHUB_SERVER_URL"),
+			os.Getenv("GITHUB_REPOSITORY"),
+			runID)
+	} else {
+		fmt.Printf(`_The last updated time: %s_
 
 Repository | :star: The number of GitHub stars
 --- | ---
 `, time.Now().Format(time.RFC3339))
+	}
 
 	for _, result := range results {
 		fmt.Printf("[%s](https://github.com/%s) | [%d](https://github.com/%s/stargazers)\n", result.Repo, result.Repo, result.Star, result.Repo)
