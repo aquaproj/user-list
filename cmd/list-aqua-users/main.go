@@ -19,7 +19,7 @@ import (
 )
 
 func main() {
-	logger := log.Output(zerolog.ConsoleWriter{Out: os.Stderr}).Level(zerolog.InfoLevel).With().Str("program", "search-repo-by-code").Logger()
+	logger := log.Output(zerolog.ConsoleWriter{Out: os.Stderr}).Level(zerolog.InfoLevel).With().Str("program", "list-aqua-users").Logger()
 
 	if err := core(logger); err != nil {
 		log.Fatal().Err(err).Send()
@@ -44,7 +44,7 @@ func core(logger zerolog.Logger) error {
 		return results[i].Star > results[j].Star
 	})
 
-	fmt.Printf(`__The last updated time: %s__\n 
+	fmt.Printf(`_The last updated time: %s_
 
 Repository | The number of stars
 --- | ---
