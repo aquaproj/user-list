@@ -15,6 +15,12 @@ jobs:
         with:
           go-version: 1.20.6
 
+      - id: generate_token
+        uses: tibdex/github-app-token@021a2405c7f990db57f5eae5397423dcc554159c # v1
+        with:
+          app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+          private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+
       - uses: aquaproj/aqua-installer@36dc5833b04eb63f06e3bb818aa6b7a6e6db99a9 # v2.1.2
         # Install ghcp
         with:
@@ -30,6 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{github.token}}
       - run: cat docs/HEADER.md result.md docs/FOOTER.md > README.md
       - run: |
-          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" README.md
+          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" -b "update-list-$(date +%Y%m%d%H%M%S)" README.md
         env:
-          GITHUB_TOKEN: ${{github.token}}
+          GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}

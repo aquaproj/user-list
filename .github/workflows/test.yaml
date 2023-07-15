@@ -7,6 +7,8 @@ permissions: {}
 
 jobs:
   test:
+    if: |
+      ! startsWith(github.head_ref, 'update-list-')
     uses: suzuki-shunsuke/go-test-full-workflow/.github/workflows/test.yaml@363126b27a86b64fc8e7fe88dbc90e254060cce2 # v0.2.2
     with:
       aqua_version: v2.9.0
@@ -17,3 +19,16 @@ jobs:
     permissions:
       pull-requests: write
       contents: read # To checkout private repository
+
+  status-check:
+    runs-on: ubuntu-latest
+    if: |
+      startsWith(github.head_ref, 'update-list-')
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - run: gh -R "$GITHUB_REPOSITORY" pr merge --squash --auto --delete-branch "$PR_NUMBER"
+        env:
+          GITHUB_TOKEN: ${{github.token}}
+          PR_NUMBER: ${{github.event.pull_request.number}}
