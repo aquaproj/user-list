@@ -14,6 +14,17 @@ jobs:
       - uses: actions/setup-go@4d34df0c2316fe8122ab82dc22947d607c0c91f9 # v4.0.0
         with:
           go-version: 1.20.6
+
+      - uses: aquaproj/aqua-installer@294926f94b4233f202a2f03875c604f840cfed70 # v2.1.1
+        # Install ghcp
+        with:
+          aqua_version: v2.9.0
+        env:
+          AQUA_GITHUB_TOKEN: ${{github.token}}
+      - run: ghcp -v
+        env:
+          GITHUB_TOKEN: ${{github.token}}
+
       - run: go run ./cmd/list-aqua-users | tee result.md
         env:
           GITHUB_TOKEN: ${{github.token}}
