@@ -12,8 +12,8 @@ jobs:
       aqua_version: v2.9.0
       go-version: 1.20.5
     secrets:
-      gh_app_id: ${{secrets.APP_ID}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY}}
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
     permissions:
       pull-requests: write
       contents: read # To checkout private repository
