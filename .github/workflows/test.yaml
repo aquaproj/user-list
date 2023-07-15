@@ -11,6 +11,7 @@ jobs:
       ghalint: ${{steps.changes.outputs.ghalint}}
       go-mod-tidy: ${{steps.changes.outputs.go-mod-tidy}}
       test: ${{steps.changes.outputs.test}}
+      update-readme: ${{steps.changes.outputs.update-readme}}
     runs-on: ubuntu-latest
     permissions: {}
     steps:
@@ -46,6 +47,11 @@ jobs:
               - aqua/imports/golangci-lint.yaml
               - .github/workflows/test.yaml
               - .github/workflows/wc-test.yaml
+            update-readme:
+              - README.md
+              - docs/HEADER.md
+              - docs/LIST.md
+              - docs/FOOTER.md
 
   enable-automerge:
     uses: ./.github/workflows/wc-enable-auto-merge.yaml
@@ -89,6 +95,7 @@ jobs:
       - ghalint
       - test
       - go-mod-tidy
+      - update-readme
 
   renovate-config-validator:
     uses: ./.github/workflows/wc-renovate-config-validator.yaml
@@ -118,6 +125,15 @@ jobs:
     if: needs.path-filter.outputs.test == 'true'
     needs: path-filter
     permissions: {}
+
+  update-readme:
+    uses: ./.github/workflows/wc-update-readme.yaml
+    if: needs.path-filter.outputs.update-readme == 'true'
+    needs: path-filter
+    permissions: {}
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
 
   go-mod-tidy:
     uses: ./.github/workflows/wc-go-mod-tidy.yaml

@@ -1,0 +1,51 @@
+name: Update README.md
+on:
+  workflow_call:
+    secrets:
+      gh_app_id:
+        required: true
+      gh_app_private_key:
+        required: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
+
+      - id: generate_token
+        uses: tibdex/github-app-token@021a2405c7f990db57f5eae5397423dcc554159c # v1.7.0
+        with:
+          app_id: ${{secrets.gh_app_id}}
+          private_key: ${{secrets.gh_app_private_key}}
+
+      - uses: aquaproj/aqua-installer@36dc5833b04eb63f06e3bb818aa6b7a6e6db99a9 # v2.1.2
+        # Install ghcp
+        with:
+          aqua_version: v2.9.0
+        env:
+          AQUA_GITHUB_TOKEN: ${{github.token}}
+      - run: ghcp -v
+        env:
+          GITHUB_TOKEN: ${{github.token}}
+
+      - run: cat docs/HEADER.md docs/LIST.md docs/FOOTER.md > README.md
+
+      - run: |
+          if git diff --exit-code README.md; then
+            exit 0
+          fi
+
+          branch=${GITHUB_HEAD_REF:$GITHUB_REF_NAME}
+          if [ -z "$branch" ]; then
+            echo "::error ::branch is empty"
+            exit 1
+          fi
+          ghcp commit \
+            -r "$GITHUB_REPOSITORY" \
+            -m "docs: update README.md" \
+            -b "$branch" \
+            README.md
+        env:
+          GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}

@@ -51,7 +51,7 @@ func core(logger zerolog.Logger) error {
 	})
 
 	if runID := os.Getenv("GITHUB_RUN_ID"); runID != "" {
-		fmt.Printf(`_The last updated time: [%s](%s/%s/actions/runs/%s)_
+		fmt.Printf(`_The last update: [%s](%s/%s/actions/runs/%s)_
 
 The number of repositories: %d
 
@@ -65,7 +65,7 @@ Repository | :star: The number of GitHub stars
 			len(results),
 		)
 	} else {
-		fmt.Printf(`_The last updated time: %s_
+		fmt.Printf(`_The last update: %s_
 
 The number of repositories: %d
 

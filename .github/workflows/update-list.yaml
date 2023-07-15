@@ -1,14 +1,13 @@
-name: "+ Update aqua users list of README"
+name: "+ Update aqua user list"
 on:
   workflow_dispatch: {}
   schedule:
     - cron: "0 0 * * *" # daily
 
 jobs:
-  update-readme:
+  update-list:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Push a commit to the main branch
+    permissions: {}
     steps:
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
       - uses: actions/setup-go@fac708d6674e30b6ba41289acaab6d4b75aa0753 # v4.0.1
@@ -31,20 +30,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{github.token}}
 
-      - run: go run ./cmd/list-aqua-users | tee result.md
+      - run: go run ./cmd/list-aqua-users | tee docs/LIST.md
         env:
           GITHUB_TOKEN: ${{github.token}}
-      - run: cat docs/HEADER.md result.md docs/FOOTER.md > README.md
+      - run: cat docs/HEADER.md docs/LIST.md docs/FOOTER.md > README.md
       - id: create-branch
         run: |
           branch=update-list-$(date +%Y%m%d%H%M%S)
           echo "branch=$branch" >> "$GITHUB_OUTPUT"
-          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" -b "$branch" README.md
+          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update the user list" -b "$branch" README.md docs/LIST.md
         env:
           GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}
       - run: |
           body="This pull request is created by [GitHub Actions]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)."
-          gh pr create -t "docs: update README.md" -H "$BRANCH" -b "$body"
+          gh pr create -t "docs: update the user list" -H "$BRANCH" -b "$body"
         env:
           BRANCH: ${{steps.create-branch.outputs.branch}}
           GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}
