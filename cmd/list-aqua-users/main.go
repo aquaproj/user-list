@@ -41,7 +41,13 @@ func core(logger zerolog.Logger) error {
 		results = append(results, result)
 	}
 	sort.Slice(results, func(i, j int) bool {
-		return results[i].Star > results[j].Star
+		if results[i].Star > results[j].Star {
+			return true
+		}
+		if results[i].Star < results[j].Star {
+			return false
+		}
+		return results[i].Repo < results[j].Repo
 	})
 
 	if runID := os.Getenv("GITHUB_RUN_ID"); runID != "" {
