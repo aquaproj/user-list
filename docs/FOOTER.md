@@ -1,6 +1,6 @@
 ## How is the list generated?
 
-The list is updated by GitHub Actions hourly.
+The list is updated by GitHub Actions daily.
 
 https://github.com/aquaproj/list-aqua-users/actions/workflows/update-readme.yaml
 

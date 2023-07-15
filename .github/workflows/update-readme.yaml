@@ -2,7 +2,7 @@ name: Update aqua users list of README
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *" # Hourly
+    - cron: "0 0 * * *" # daily
 
 jobs:
   update-readme:
