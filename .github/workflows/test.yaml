@@ -95,6 +95,7 @@ jobs:
       - ghalint
       - test
       - go-mod-tidy
+      - update-readme
 
   renovate-config-validator:
     uses: ./.github/workflows/wc-renovate-config-validator.yaml
