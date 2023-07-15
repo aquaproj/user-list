@@ -1,4 +1,4 @@
-module github.com/aquaproj/list-aqua-users
+module github.com/aquaproj/user-list
 
 go 1.20
 
