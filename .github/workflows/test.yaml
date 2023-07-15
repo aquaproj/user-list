@@ -1,19 +1,130 @@
 ---
 name: test
-
 on: pull_request
-
 permissions: {}
-
 jobs:
+  path-filter:
+    # Get changed files to filter jobs
+    outputs:
+      update-aqua-checksums: ${{steps.changes.outputs.update-aqua-checksums}}
+      renovate-config-validator: ${{steps.changes.outputs.renovate-config-validator}}
+      ghalint: ${{steps.changes.outputs.ghalint}}
+      go-mod-tidy: ${{steps.changes.outputs.go-mod-tidy}}
+      test: ${{steps.changes.outputs.test}}
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - uses: dorny/paths-filter@4512585405083f25c027a35db413c2b3b9006d50 # v2.11.1
+        id: changes
+        with:
+          filters: |
+            update-aqua-checksums:
+              - aqua/aqua.yaml
+              - aqua/imports/*.yaml
+              - aqua/aqua-checksums.json
+              - .github/workflows/test.yaml
+              - .github/workflows/wc-update-aqua-checksums.yaml
+            renovate-config-validator:
+              - renovate.json5
+              - .github/workflows/test.yaml
+              - .github/workflows/wc-renovate-config-validator.yaml
+            ghalint:
+              - .github/workflows/*.yaml
+              - aqua/aqua.yaml
+              - aqua/imports/ghalint.yaml
+              - ghalint.yaml
+            go-mod-tidy:
+              - go.mod
+              - go.sum
+              - "**.go"
+              - .github/workflows/test.yaml
+              - .github/workflows/wc-go-mod-tidy.yaml
+            test:
+              - go.mod
+              - go.sum
+              - "**.go"
+              - aqua/imports/golangci-lint.yaml
+              - .github/workflows/test.yaml
+              - .github/workflows/wc-test.yaml
+
+  enable-automerge:
+    uses: ./.github/workflows/wc-enable-auto-merge.yaml
+    needs:
+      - status-check
+    permissions:
+      contents: write # For enable automerge
+      pull-requests: write # For enable automerge
+    # "! failure() && ! cancelled()" is required. success() returns false if dependent jobs are skipped.
+    # https://github.com/community/community/discussions/45058
+    # By default success() is used so we have to override success() by "! failure() && ! cancelled()"
+    if: |
+      ! failure() && ! cancelled() && github.event.pull_request.user.login == 'renovate[bot]' && contains(github.event.pull_request.body, ' **Automerge**: Enabled.')
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+
+  enable-automerge-update-list:
+    uses: ./.github/workflows/wc-enable-auto-merge.yaml
+    needs:
+      - status-check
+    permissions:
+      contents: write # For enable automerge
+      pull-requests: write # For enable automerge
+    # "! failure() && ! cancelled()" is required. success() returns false if dependent jobs are skipped.
+    # https://github.com/community/community/discussions/45058
+    # By default success() is used so we have to override success() by "! failure() && ! cancelled()"
+    if: |
+      ! failure() && ! cancelled() && startsWith(github.head_ref, 'update-list-')
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+
+  status-check:
+    uses: ./.github/workflows/wc-status-check.yaml
+    permissions: {}
+    if: failure()
+    needs:
+      - renovate-config-validator
+      - update-aqua-checksums
+      - ghalint
+      - test
+      - go-mod-tidy
+
+  renovate-config-validator:
+    uses: ./.github/workflows/wc-renovate-config-validator.yaml
+    needs: path-filter
+    if: needs.path-filter.outputs.renovate-config-validator == 'true'
+    permissions:
+      contents: read
+
+  update-aqua-checksums:
+    needs: path-filter
+    if: needs.path-filter.outputs.update-aqua-checksums == 'true'
+    uses: ./.github/workflows/wc-update-aqua-checksums.yaml
+    permissions:
+      contents: read
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+
+  ghalint:
+    needs: path-filter
+    if: needs.path-filter.outputs.ghalint == 'true'
+    uses: ./.github/workflows/wc-ghalint.yaml
+    permissions: {}
+
   test:
-    uses: suzuki-shunsuke/go-test-full-workflow/.github/workflows/test.yaml@363126b27a86b64fc8e7fe88dbc90e254060cce2 # v0.2.2
-    with:
-      aqua_version: v2.9.0
-      go-version: 1.20.6
+    uses: ./.github/workflows/wc-test.yaml
+    if: needs.path-filter.outputs.test == 'true'
+    needs: path-filter
+    permissions: {}
+
+  go-mod-tidy:
+    uses: ./.github/workflows/wc-go-mod-tidy.yaml
+    needs: path-filter
+    if: needs.path-filter.outputs.go-mod-tidy == 'true'
     secrets:
       gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
       gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
     permissions:
-      pull-requests: write
-      contents: read # To checkout private repository
+      contents: read
