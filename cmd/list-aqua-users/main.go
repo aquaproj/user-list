@@ -46,12 +46,12 @@ func core(logger zerolog.Logger) error {
 
 	fmt.Printf(`_The last updated time: %s_
 
-Repository | The number of stars
+Repository | :star: The number of GitHub stars
 --- | ---
 `, time.Now().Format(time.RFC3339))
 
 	for _, result := range results {
-		fmt.Printf("[%s](https://github.com/%s) | %d\n", result.Repo, result.Repo, result.Star)
+		fmt.Printf("[%s](https://github.com/%s) | [%d](https://github.com/%s/stargazers)\n", result.Repo, result.Repo, result.Star, result.Repo)
 	}
 	fmt.Println("")
 
