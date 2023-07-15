@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-07-15T11:18:53Z](https://github.com/aquaproj/user-list/actions/runs/5561945318)_
+_The last update: [2023-07-15T12:58:53Z](https://github.com/aquaproj/user-list/actions/runs/5562329182)_
 
 The number of repositories: 247
 
 Repository | :star: The number of GitHub stars
 --- | ---
 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18039](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [375](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [376](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [296](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [189](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [119](https://github.com/budimanjojo/dotfiles/stargazers)
@@ -26,8 +26,8 @@ Repository | :star: The number of GitHub stars
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [50](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
-[gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [21](https://github.com/gha-trigger/gha-trigger/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [20](https://github.com/cybozu-go/accurate/stargazers)
+[gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [20](https://github.com/gha-trigger/gha-trigger/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [18](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [17](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [15](https://github.com/DelineaXPM/dsv-cli/stargazers)
