@@ -1,4 +1,4 @@
-name: Update aqua users list of README
+name: "+ Update aqua users list of README"
 on:
   workflow_dispatch: {}
   schedule:
@@ -35,7 +35,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{github.token}}
       - run: cat docs/HEADER.md result.md docs/FOOTER.md > README.md
-      - run: |
-          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" -b "update-list-$(date +%Y%m%d%H%M%S)" README.md
+      - id: create-branch
+        run: |
+          branch=update-list-$(date +%Y%m%d%H%M%S)
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" -b "$branch" README.md
         env:
+          GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}
+      - run: |
+          body="This pull request is created by [GitHub Actions]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)."
+          gh pr create -t "docs: update README.md" -H "$BRANCH" -b "$body"
+        env:
+          BRANCH: ${{steps.create-branch.outputs.branch}}
           GITHUB_TOKEN: ${{steps.generate_token.outputs.token}}
