@@ -1,0 +1,24 @@
+name: Update aqua users list of README
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Push a commit to the main branch
+    steps:
+      - uses: actions/checkout@8f4b7f84864484a7bf31766abe9204da3cbe65b3 # v3.5.0
+      - uses: actions/setup-go@4d34df0c2316fe8122ab82dc22947d607c0c91f9 # v4.0.0
+        with:
+          go-version: 1.20.6
+      - run: go run ./cmd/list-aqua-users | tee result.md
+        env:
+          GITHUB_TOKEN: ${{github.token}}
+      - run: cat docs/HEADER.md result.md docs/FOOTER.md > README.md
+      - run: |
+          ghcp commit -r "$GITHUB_REPOSITORY" -m "docs: update README.md" README.md
+        env:
+          GITHUB_TOKEN: ${{github.token}}

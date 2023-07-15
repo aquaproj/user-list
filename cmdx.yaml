@@ -1,0 +1,24 @@
+---
+# the configuration file of cmdx - task runner
+# https://github.com/suzuki-shunsuke/cmdx
+tasks:
+  - name: test
+    short: t
+    description: test
+    usage: test
+    script: go test ./... -race -covermode=atomic
+  - name: vet
+    short: v
+    description: go vet
+    usage: go vet
+    script: go vet ./...
+  - name: lint
+    short: l
+    description: lint the go code
+    usage: lint the go code
+    script: golangci-lint run
+  - name: install
+    short: i
+    description: Build and install list-aqua-users
+    usage: Build and install list-aqua-users by "go install" command
+    script: go install ./cmd/list-aqua-users
