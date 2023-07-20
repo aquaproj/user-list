@@ -10,15 +10,15 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-07-19T02:36:15Z](https://github.com/aquaproj/user-list/actions/runs/5594329789)_
+_The last update: [2023-07-20T01:13:11Z](https://github.com/aquaproj/user-list/actions/runs/5605717381)_
 
-The number of repositories: 249
+The number of repositories: 247
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18064](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [396](https://github.com/aquaproj/aqua/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [298](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18075](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [397](https://github.com/aquaproj/aqua/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [299](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [190](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [120](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [70](https://github.com/suzuki-shunsuke/github-comment/stargazers)
@@ -258,8 +258,6 @@ Repository | :star: The number of GitHub stars
 [takumin/packer-plugin-playground](https://github.com/takumin/packer-plugin-playground) | [0](https://github.com/takumin/packer-plugin-playground/stargazers)
 [takutakahashi/config](https://github.com/takutakahashi/config) | [0](https://github.com/takutakahashi/config/stargazers)
 [uesyn/dotfiles](https://github.com/uesyn/dotfiles) | [0](https://github.com/uesyn/dotfiles/stargazers)
-[ultra-supara/gha-ci](https://github.com/ultra-supara/gha-ci) | [0](https://github.com/ultra-supara/gha-ci/stargazers)
-[ultra-supara/gha-emw](https://github.com/ultra-supara/gha-emw) | [0](https://github.com/ultra-supara/gha-emw/stargazers)
 [yappiii/dotfiles](https://github.com/yappiii/dotfiles) | [0](https://github.com/yappiii/dotfiles/stargazers)
 [ymkz/dotfiles](https://github.com/ymkz/dotfiles) | [0](https://github.com/ymkz/dotfiles/stargazers)
 [zhanglimao/trivy](https://github.com/zhanglimao/trivy) | [0](https://github.com/zhanglimao/trivy/stargazers)
