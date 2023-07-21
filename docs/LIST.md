@@ -1,14 +1,14 @@
-_The last update: [2023-07-20T01:13:11Z](https://github.com/aquaproj/user-list/actions/runs/5605717381)_
+_The last update: [2023-07-21T01:14:17Z](https://github.com/aquaproj/user-list/actions/runs/5617492041)_
 
-The number of repositories: 247
+The number of repositories: 246
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18075](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [397](https://github.com/aquaproj/aqua/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [299](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18079](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [399](https://github.com/aquaproj/aqua/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [300](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [190](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [120](https://github.com/budimanjojo/dotfiles/stargazers)
+[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [121](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [70](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [58](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
@@ -234,7 +234,6 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-go-codeclimate](https://github.com/suzuki-shunsuke/test-go-codeclimate) | [0](https://github.com/suzuki-shunsuke/test-go-codeclimate/stargazers)
 [tadayosi/issues](https://github.com/tadayosi/issues) | [0](https://github.com/tadayosi/issues/stargazers)
 [tak23753/sample-terraform](https://github.com/tak23753/sample-terraform) | [0](https://github.com/tak23753/sample-terraform/stargazers)
-[takokun778/goapptemplate](https://github.com/takokun778/goapptemplate) | [0](https://github.com/takokun778/goapptemplate/stargazers)
 [takokun778/gotagnews](https://github.com/takokun778/gotagnews) | [0](https://github.com/takokun778/gotagnews/stargazers)
 [takokun778/playgoround](https://github.com/takokun778/playgoround) | [0](https://github.com/takokun778/playgoround/stargazers)
 [takokun778/template-module](https://github.com/takokun778/template-module) | [0](https://github.com/takokun778/template-module/stargazers)
