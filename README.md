@@ -10,16 +10,17 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-07-23T01:18:21Z](https://github.com/aquaproj/user-list/actions/runs/5633708715)_
+_The last update: [2023-07-24T01:14:31Z](https://github.com/aquaproj/user-list/actions/runs/5639687968)_
 
-The number of repositories: 247
+The number of repositories: 249
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18108](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [402](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18116](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [403](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [300](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [190](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [135](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [121](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [70](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [58](https://github.com/aquaproj/aqua-registry/stargazers)
@@ -217,6 +218,7 @@ Repository | :star: The number of GitHub stars
 [korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
 [mananyuki/dotfiles](https://github.com/mananyuki/dotfiles) | [0](https://github.com/mananyuki/dotfiles/stargazers)
+[masterpointio/taskit](https://github.com/masterpointio/taskit) | [0](https://github.com/masterpointio/taskit/stargazers)
 [mikutas/argoproj-sandbox](https://github.com/mikutas/argoproj-sandbox) | [0](https://github.com/mikutas/argoproj-sandbox/stargazers)
 [mikutas/dotfiles](https://github.com/mikutas/dotfiles) | [0](https://github.com/mikutas/dotfiles/stargazers)
 [mikutas/grpc-go-helloworld](https://github.com/mikutas/grpc-go-helloworld) | [0](https://github.com/mikutas/grpc-go-helloworld/stargazers)
