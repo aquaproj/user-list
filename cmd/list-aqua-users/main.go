@@ -31,7 +31,10 @@ func core(logger zerolog.Logger) error {
 	defer stop()
 	gh := NewGitHub(ctx)
 	// query := "-user:suzuki-shunsuke -org:aquaproj aquaproj"
-	query := "aquaproj/aqua-registry"
+	// archived: https://docs.sourcegraph.com/code_search/reference/queries
+	// By default, archived repositories are excluded from the search result.
+	// archived:yes includes archived repositories in the search result.
+	query := "aquaproj/aqua-registry archived:yes"
 	excludedOwners := map[string]struct{}{}
 
 	resultMap, err := gh.SearchRepos(ctx, logger, query, excludedOwners)
