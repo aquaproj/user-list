@@ -10,13 +10,13 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-08-10T01:10:08Z](https://github.com/aquaproj/user-list/actions/runs/5815736533)_
+_The last update: [2023-08-11T00:56:38Z](https://github.com/aquaproj/user-list/actions/runs/5827695977)_
 
-The number of repositories: 261
+The number of repositories: 263
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18281](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18288](https://github.com/aquasecurity/trivy/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [432](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [303](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [192](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -251,6 +251,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/example-aqua-update-checksum](https://github.com/suzuki-shunsuke/example-aqua-update-checksum) | [0](https://github.com/suzuki-shunsuke/example-aqua-update-checksum/stargazers)
 [suzuki-shunsuke/example-cue-k8s](https://github.com/suzuki-shunsuke/example-cue-k8s) | [0](https://github.com/suzuki-shunsuke/example-cue-k8s/stargazers)
 [suzuki-shunsuke/example-earthly-terraform](https://github.com/suzuki-shunsuke/example-earthly-terraform) | [0](https://github.com/suzuki-shunsuke/example-earthly-terraform/stargazers)
+[suzuki-shunsuke/goreleaser-windows-test](https://github.com/suzuki-shunsuke/goreleaser-windows-test) | [0](https://github.com/suzuki-shunsuke/goreleaser-windows-test/stargazers)
 [suzuki-shunsuke/test-aqua-registry-2](https://github.com/suzuki-shunsuke/test-aqua-registry-2) | [0](https://github.com/suzuki-shunsuke/test-aqua-registry-2/stargazers)
 [suzuki-shunsuke/test-cosign-keyless-aqua](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua) | [0](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua/stargazers)
 [suzuki-shunsuke/test-cosign-keyless-aqua-installer](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua-installer) | [0](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua-installer/stargazers)
@@ -264,6 +265,7 @@ Repository | :star: The number of GitHub stars
 [takumin/boilerplate-golang-cli](https://github.com/takumin/boilerplate-golang-cli) | [0](https://github.com/takumin/boilerplate-golang-cli/stargazers)
 [takumin/gawsso](https://github.com/takumin/gawsso) | [0](https://github.com/takumin/gawsso/stargazers)
 [takumin/gjson](https://github.com/takumin/gjson) | [0](https://github.com/takumin/gjson/stargazers)
+[takumin/gyaml](https://github.com/takumin/gyaml) | [0](https://github.com/takumin/gyaml/stargazers)
 [takumin/packer-plugin-boilerplate](https://github.com/takumin/packer-plugin-boilerplate) | [0](https://github.com/takumin/packer-plugin-boilerplate/stargazers)
 [takumin/packer-plugin-debootstrap](https://github.com/takumin/packer-plugin-debootstrap) | [0](https://github.com/takumin/packer-plugin-debootstrap/stargazers)
 [takumin/packer-plugin-playground](https://github.com/takumin/packer-plugin-playground) | [0](https://github.com/takumin/packer-plugin-playground/stargazers)
