@@ -1,10 +1,10 @@
-_The last update: [2023-08-13T01:00:03Z](https://github.com/aquaproj/user-list/actions/runs/5844426280)_
+_The last update: [2023-08-14T00:58:02Z](https://github.com/aquaproj/user-list/actions/runs/5850597193)_
 
 The number of repositories: 263
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18308](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18310](https://github.com/aquasecurity/trivy/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [435](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [305](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [192](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -13,7 +13,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [71](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [59](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [53](https://github.com/megabyte-labs/install.doctor/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [54](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [20](https://github.com/cybozu-go/accurate/stargazers)
 [gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [20](https://github.com/gha-trigger/gha-trigger/stargazers)
