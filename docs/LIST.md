@@ -1,11 +1,11 @@
-_The last update: [2023-08-25T00:58:04Z](https://github.com/aquaproj/user-list/actions/runs/5970550304)_
+_The last update: [2023-08-26T00:55:40Z](https://github.com/aquaproj/user-list/actions/runs/5981815777)_
 
-The number of repositories: 268
+The number of repositories: 267
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18400](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [443](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18404](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [444](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [310](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [193](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [139](https://github.com/ddddddO/gtree/stargazers)
@@ -206,7 +206,6 @@ Repository | :star: The number of GitHub stars
 [kanade0404/client_backend_db_terraform](https://github.com/kanade0404/client_backend_db_terraform) | [0](https://github.com/kanade0404/client_backend_db_terraform/stargazers)
 [kanade0404/template](https://github.com/kanade0404/template) | [0](https://github.com/kanade0404/template/stargazers)
 [kazukt/dotfiles](https://github.com/kazukt/dotfiles) | [0](https://github.com/kazukt/dotfiles/stargazers)
-[khulnasoft/vul](https://github.com/khulnasoft/vul) | [0](https://github.com/khulnasoft/vul/stargazers)
 [korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
 [m22r/terraform-demo](https://github.com/m22r/terraform-demo) | [0](https://github.com/m22r/terraform-demo/stargazers)
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
