@@ -10,20 +10,20 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-08-26T00:55:40Z](https://github.com/aquaproj/user-list/actions/runs/5981815777)_
+_The last update: [2023-08-27T01:01:00Z](https://github.com/aquaproj/user-list/actions/runs/5987966788)_
 
-The number of repositories: 267
+The number of repositories: 268
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18404](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [444](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18408](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [445](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [310](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [193](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [139](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [140](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [127](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [71](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [59](https://github.com/aquaproj/aqua-registry/stargazers)
+[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [60](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [55](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
@@ -213,6 +213,7 @@ Repository | :star: The number of GitHub stars
 [hituzi-no-sippo/tp](https://github.com/hituzi-no-sippo/tp) | [0](https://github.com/hituzi-no-sippo/tp/stargazers)
 [honahuku/ansible](https://github.com/honahuku/ansible) | [0](https://github.com/honahuku/ansible/stargazers)
 [honahuku/infra](https://github.com/honahuku/infra) | [0](https://github.com/honahuku/infra/stargazers)
+[honahuku/kashiwagi](https://github.com/honahuku/kashiwagi) | [0](https://github.com/honahuku/kashiwagi/stargazers)
 [jinugasachio/terraform-workspace-type](https://github.com/jinugasachio/terraform-workspace-type) | [0](https://github.com/jinugasachio/terraform-workspace-type/stargazers)
 [joeblew99/gio-htmx](https://github.com/joeblew99/gio-htmx) | [0](https://github.com/joeblew99/gio-htmx/stargazers)
 [kanade0404/client_backend_db_terraform](https://github.com/kanade0404/client_backend_db_terraform) | [0](https://github.com/kanade0404/client_backend_db_terraform/stargazers)
