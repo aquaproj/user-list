@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-08-28T00:58:37Z](https://github.com/aquaproj/user-list/actions/runs/5994291466)_
+_The last update: [2023-08-29T00:58:15Z](https://github.com/aquaproj/user-list/actions/runs/6006636450)_
 
-The number of repositories: 269
+The number of repositories: 270
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18411](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [446](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18425](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [447](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [310](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [193](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [141](https://github.com/ddddddO/gtree/stargazers)
@@ -138,6 +138,7 @@ Repository | :star: The number of GitHub stars
 [suzutan/infra](https://github.com/suzutan/infra) | [2](https://github.com/suzutan/infra/stargazers)
 [takumin/ykmgr](https://github.com/takumin/ykmgr) | [2](https://github.com/takumin/ykmgr/stargazers)
 [techblog-szksh-cloud/techblog-szksh-cloud.github.io](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io) | [2](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io/stargazers)
+[tsuzu-home/k8s](https://github.com/tsuzu-home/k8s) | [2](https://github.com/tsuzu-home/k8s/stargazers)
 [yuya-takeyama/blog.yuyat.jp](https://github.com/yuya-takeyama/blog.yuyat.jp) | [2](https://github.com/yuya-takeyama/blog.yuyat.jp/stargazers)
 [44smkn/google-apps-scripts](https://github.com/44smkn/google-apps-scripts) | [1](https://github.com/44smkn/google-apps-scripts/stargazers)
 [CrystalMethod/dotfiles](https://github.com/CrystalMethod/dotfiles) | [1](https://github.com/CrystalMethod/dotfiles/stargazers)
