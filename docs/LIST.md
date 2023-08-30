@@ -1,23 +1,23 @@
-_The last update: [2023-08-29T00:58:15Z](https://github.com/aquaproj/user-list/actions/runs/6006636450)_
+_The last update: [2023-08-30T00:58:35Z](https://github.com/aquaproj/user-list/actions/runs/6019210945)_
 
-The number of repositories: 270
+The number of repositories: 272
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18425](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18436](https://github.com/aquasecurity/trivy/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [447](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [310](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [193](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [141](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [142](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [129](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [71](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [60](https://github.com/aquaproj/aqua-registry/stargazers)
+[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [61](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [55](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
+[hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [22](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [20](https://github.com/cybozu-go/accurate/stargazers)
 [gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [20](https://github.com/gha-trigger/gha-trigger/stargazers)
-[hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [19](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [17](https://github.com/4513ECHO/dotfiles/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [17](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [15](https://github.com/DelineaXPM/dsv-cli/stargazers)
@@ -193,6 +193,7 @@ Repository | :star: The number of GitHub stars
 [da-moon/chromeos-setup](https://github.com/da-moon/chromeos-setup) | [0](https://github.com/da-moon/chromeos-setup/stargazers)
 [dfroberg/dotfiles](https://github.com/dfroberg/dotfiles) | [0](https://github.com/dfroberg/dotfiles/stargazers)
 [evrone/terraform-yandex-iam](https://github.com/evrone/terraform-yandex-iam) | [0](https://github.com/evrone/terraform-yandex-iam/stargazers)
+[fujiwara/homebrew-tap](https://github.com/fujiwara/homebrew-tap) | [0](https://github.com/fujiwara/homebrew-tap/stargazers)
 [git-ogawa/docserver-controller](https://github.com/git-ogawa/docserver-controller) | [0](https://github.com/git-ogawa/docserver-controller/stargazers)
 [gosarami/markdown-view](https://github.com/gosarami/markdown-view) | [0](https://github.com/gosarami/markdown-view/stargazers)
 [grimoh/completion-gen-fish](https://github.com/grimoh/completion-gen-fish) | [0](https://github.com/grimoh/completion-gen-fish/stargazers)
@@ -208,6 +209,7 @@ Repository | :star: The number of GitHub stars
 [joeblew99/gio-htmx](https://github.com/joeblew99/gio-htmx) | [0](https://github.com/joeblew99/gio-htmx/stargazers)
 [kanade0404/client_backend_db_terraform](https://github.com/kanade0404/client_backend_db_terraform) | [0](https://github.com/kanade0404/client_backend_db_terraform/stargazers)
 [kanade0404/template](https://github.com/kanade0404/template) | [0](https://github.com/kanade0404/template/stargazers)
+[kayac/homebrew-tap](https://github.com/kayac/homebrew-tap) | [0](https://github.com/kayac/homebrew-tap/stargazers)
 [kazukt/dotfiles](https://github.com/kazukt/dotfiles) | [0](https://github.com/kazukt/dotfiles/stargazers)
 [korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
 [m22r/terraform-demo](https://github.com/m22r/terraform-demo) | [0](https://github.com/m22r/terraform-demo/stargazers)
