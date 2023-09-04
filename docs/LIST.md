@@ -1,15 +1,15 @@
-_The last update: [2023-09-03T01:01:29Z](https://github.com/aquaproj/user-list/actions/runs/6061525571)_
+_The last update: [2023-09-04T00:58:52Z](https://github.com/aquaproj/user-list/actions/runs/6067827765)_
 
 The number of repositories: 274
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18472](https://github.com/aquasecurity/trivy/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [452](https://github.com/aquaproj/aqua/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [312](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18479](https://github.com/aquasecurity/trivy/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [453](https://github.com/aquaproj/aqua/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [311](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [195](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [143](https://github.com/ddddddO/gtree/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [129](https://github.com/budimanjojo/dotfiles/stargazers)
+[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [130](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [71](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [60](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [56](https://github.com/zoetrope/kubebuilder-training/stargazers)
@@ -120,6 +120,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-renovate](https://github.com/suzuki-shunsuke/test-renovate) | [2](https://github.com/suzuki-shunsuke/test-renovate/stargazers)
 [suzuki-shunsuke/tfaction-docs](https://github.com/suzuki-shunsuke/tfaction-docs) | [2](https://github.com/suzuki-shunsuke/tfaction-docs/stargazers)
 [suzuki-shunsuke/tfcmt-docs](https://github.com/suzuki-shunsuke/tfcmt-docs) | [2](https://github.com/suzuki-shunsuke/tfcmt-docs/stargazers)
+[suzuki-shunsuke/trivy-config-action](https://github.com/suzuki-shunsuke/trivy-config-action) | [2](https://github.com/suzuki-shunsuke/trivy-config-action/stargazers)
 [suzuki-shunsuke/update-commit-status-action](https://github.com/suzuki-shunsuke/update-commit-status-action) | [2](https://github.com/suzuki-shunsuke/update-commit-status-action/stargazers)
 [suzuki-shunsuke/zap-error](https://github.com/suzuki-shunsuke/zap-error) | [2](https://github.com/suzuki-shunsuke/zap-error/stargazers)
 [suzuki-shunsuke/zerolog-error](https://github.com/suzuki-shunsuke/zerolog-error) | [2](https://github.com/suzuki-shunsuke/zerolog-error/stargazers)
@@ -161,7 +162,6 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-circleci](https://github.com/suzuki-shunsuke/test-circleci) | [1](https://github.com/suzuki-shunsuke/test-circleci/stargazers)
 [suzuki-shunsuke/test-renovate-3](https://github.com/suzuki-shunsuke/test-renovate-3) | [1](https://github.com/suzuki-shunsuke/test-renovate-3/stargazers)
 [suzuki-shunsuke/tfaction-go](https://github.com/suzuki-shunsuke/tfaction-go) | [1](https://github.com/suzuki-shunsuke/tfaction-go/stargazers)
-[suzuki-shunsuke/trivy-config-action](https://github.com/suzuki-shunsuke/trivy-config-action) | [1](https://github.com/suzuki-shunsuke/trivy-config-action/stargazers)
 [truxnell/dotfiles](https://github.com/truxnell/dotfiles) | [1](https://github.com/truxnell/dotfiles/stargazers)
 [vterdunov/frs-k8s-fleet](https://github.com/vterdunov/frs-k8s-fleet) | [1](https://github.com/vterdunov/frs-k8s-fleet/stargazers)
 [wbelucky/dotfiles-with-docker](https://github.com/wbelucky/dotfiles-with-docker) | [1](https://github.com/wbelucky/dotfiles-with-docker/stargazers)
