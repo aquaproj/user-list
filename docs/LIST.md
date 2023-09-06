@@ -1,10 +1,10 @@
-_The last update: [2023-09-05T00:57:27Z](https://github.com/aquaproj/user-list/actions/runs/6078910457)_
+_The last update: [2023-09-06T00:58:40Z](https://github.com/aquaproj/user-list/actions/runs/6091399078)_
 
 The number of repositories: 275
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18492](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18507](https://github.com/aquasecurity/trivy/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [454](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [311](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [196](https://github.com/suzuki-shunsuke/tfaction/stargazers)
