@@ -10,17 +10,17 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-09-16T00:57:12Z](https://github.com/aquaproj/user-list/actions/runs/6204263827)_
+_The last update: [2023-09-17T01:01:39Z](https://github.com/aquaproj/user-list/actions/runs/6210635068)_
 
 The number of repositories: 278
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18617](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18622](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [688](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [466](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [314](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [203](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [204](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [144](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [133](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [71](https://github.com/suzuki-shunsuke/github-comment/stargazers)
