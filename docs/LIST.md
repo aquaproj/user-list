@@ -1,12 +1,12 @@
-_The last update: [2023-10-10T00:59:25Z](https://github.com/aquaproj/user-list/actions/runs/6463357510)_
+_The last update: [2023-10-11T00:59:28Z](https://github.com/aquaproj/user-list/actions/runs/6476584332)_
 
-The number of repositories: 294
+The number of repositories: 296
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18886](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [710](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [488](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [18900](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [712](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [487](https://github.com/aquaproj/aqua/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [321](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [206](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [152](https://github.com/ddddddO/gtree/stargazers)
@@ -183,6 +183,7 @@ Repository | :star: The number of GitHub stars
 [CrystalMethod/aqua-meets-updatecli](https://github.com/CrystalMethod/aqua-meets-updatecli) | [0](https://github.com/CrystalMethod/aqua-meets-updatecli/stargazers)
 [MSHR-Dec/MSHR-Doc](https://github.com/MSHR-Dec/MSHR-Doc) | [0](https://github.com/MSHR-Dec/MSHR-Doc/stargazers)
 [Mozart409/.dotfiles](https://github.com/Mozart409/.dotfiles) | [0](https://github.com/Mozart409/.dotfiles/stargazers)
+[OrganizedMayhem/dotfiles](https://github.com/OrganizedMayhem/dotfiles) | [0](https://github.com/OrganizedMayhem/dotfiles/stargazers)
 [Rindrics/k8s-echo-two-envs](https://github.com/Rindrics/k8s-echo-two-envs) | [0](https://github.com/Rindrics/k8s-echo-two-envs/stargazers)
 [Sho2010/istio-action](https://github.com/Sho2010/istio-action) | [0](https://github.com/Sho2010/istio-action/stargazers)
 [Sho2010/istio-operator-set-extractor](https://github.com/Sho2010/istio-operator-set-extractor) | [0](https://github.com/Sho2010/istio-operator-set-extractor/stargazers)
@@ -249,6 +250,7 @@ Repository | :star: The number of GitHub stars
 [nakatanakatana/dotfiles](https://github.com/nakatanakatana/dotfiles) | [0](https://github.com/nakatanakatana/dotfiles/stargazers)
 [newtestorgmahi/trivy-test](https://github.com/newtestorgmahi/trivy-test) | [0](https://github.com/newtestorgmahi/trivy-test/stargazers)
 [orangekame3/dotfiles](https://github.com/orangekame3/dotfiles) | [0](https://github.com/orangekame3/dotfiles/stargazers)
+[otakakot/gonew](https://github.com/otakakot/gonew) | [0](https://github.com/otakakot/gonew/stargazers)
 [otakakot/ninshow](https://github.com/otakakot/ninshow) | [0](https://github.com/otakakot/ninshow/stargazers)
 [otakakot/playground-github-actions](https://github.com/otakakot/playground-github-actions) | [0](https://github.com/otakakot/playground-github-actions/stargazers)
 [piyushpurohit23/trivy](https://github.com/piyushpurohit23/trivy) | [0](https://github.com/piyushpurohit23/trivy/stargazers)
