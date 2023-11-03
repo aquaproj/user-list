@@ -1,13 +1,13 @@
-_The last update: [2023-11-02T00:59:53Z](https://github.com/aquaproj/user-list/actions/runs/6726927855)_
+_The last update: [2023-11-03T01:00:33Z](https://github.com/aquaproj/user-list/actions/runs/6739989740)_
 
-The number of repositories: 311
+The number of repositories: 312
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19164](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19172](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [746](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [538](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [361](https://github.com/so-dang-cool/dt/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [541](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [362](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [328](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [207](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [159](https://github.com/ddddddO/gtree/stargazers)
@@ -18,8 +18,8 @@ Repository | :star: The number of GitHub stars
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [55](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [32](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
+[cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [22](https://github.com/cybozu-go/accurate/stargazers)
 [gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [22](https://github.com/gha-trigger/gha-trigger/stargazers)
-[cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [21](https://github.com/cybozu-go/accurate/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [20](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [17](https://github.com/4513ECHO/dotfiles/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [16](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
@@ -200,6 +200,7 @@ Repository | :star: The number of GitHub stars
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [0](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-cd-playground](https://github.com/YunosukeY/k8s-cd-playground) | [0](https://github.com/YunosukeY/k8s-cd-playground/stargazers)
 [YunosukeY/k8s-playground-backend](https://github.com/YunosukeY/k8s-playground-backend) | [0](https://github.com/YunosukeY/k8s-playground-backend/stargazers)
+[YunosukeY/k8s-sec-playground](https://github.com/YunosukeY/k8s-sec-playground) | [0](https://github.com/YunosukeY/k8s-sec-playground/stargazers)
 [actions-marketplace-validations/DelineaXPM_dsv-github-action](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action) | [0](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action/stargazers)
 [actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator) | [0](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator/stargazers)
 [aereal/poc-protobuf-json-config](https://github.com/aereal/poc-protobuf-json-config) | [0](https://github.com/aereal/poc-protobuf-json-config/stargazers)
