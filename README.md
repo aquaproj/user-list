@@ -10,18 +10,18 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-11-29T01:03:36Z](https://github.com/aquaproj/user-list/actions/runs/7026584842)_
+_The last update: [2023-11-30T01:02:54Z](https://github.com/aquaproj/user-list/actions/runs/7040556343)_
 
 The number of repositories: 325
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19429](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [790](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [570](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19457](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [791](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [571](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [366](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [333](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [212](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [334](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [214](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [166](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [153](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [76](https://github.com/suzuki-shunsuke/github-comment/stargazers)
@@ -240,8 +240,8 @@ Repository | :star: The number of GitHub stars
 [fujiwara/homebrew-tap](https://github.com/fujiwara/homebrew-tap) | [0](https://github.com/fujiwara/homebrew-tap/stargazers)
 [git-ogawa/docserver-controller](https://github.com/git-ogawa/docserver-controller) | [0](https://github.com/git-ogawa/docserver-controller/stargazers)
 [gosarami/markdown-view](https://github.com/gosarami/markdown-view) | [0](https://github.com/gosarami/markdown-view/stargazers)
-[grimoh/completion-gen-fish](https://github.com/grimoh/completion-gen-fish) | [0](https://github.com/grimoh/completion-gen-fish/stargazers)
-[grimoh/dot](https://github.com/grimoh/dot) | [0](https://github.com/grimoh/dot/stargazers)
+[gr1m0h/completion-gen-fish](https://github.com/gr1m0h/completion-gen-fish) | [0](https://github.com/gr1m0h/completion-gen-fish/stargazers)
+[gr1m0h/dot](https://github.com/gr1m0h/dot) | [0](https://github.com/gr1m0h/dot/stargazers)
 [gunosy/public-helm-charts](https://github.com/gunosy/public-helm-charts) | [0](https://github.com/gunosy/public-helm-charts/stargazers)
 [higebu/aqua-config](https://github.com/higebu/aqua-config) | [0](https://github.com/higebu/aqua-config/stargazers)
 [hituzi-no-sippo/template-repository](https://github.com/hituzi-no-sippo/template-repository) | [0](https://github.com/hituzi-no-sippo/template-repository/stargazers)
