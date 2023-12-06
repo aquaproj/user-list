@@ -1,15 +1,15 @@
-_The last update: [2023-12-05T01:03:49Z](https://github.com/aquaproj/user-list/actions/runs/7094705632)_
+_The last update: [2023-12-06T01:04:25Z](https://github.com/aquaproj/user-list/actions/runs/7108716038)_
 
-The number of repositories: 327
+The number of repositories: 328
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19534](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [801](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19551](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [804](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [575](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [367](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [334](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [214](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [335](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [215](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [169](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [153](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [77](https://github.com/suzuki-shunsuke/github-comment/stargazers)
@@ -106,6 +106,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/example-update-checksum-public](https://github.com/aquaproj/example-update-checksum-public) | [2](https://github.com/aquaproj/example-update-checksum-public/stargazers)
 [aquaproj/generate-registry-deep](https://github.com/aquaproj/generate-registry-deep) | [2](https://github.com/aquaproj/generate-registry-deep/stargazers)
 [aquaproj/template-private-aqua-registry](https://github.com/aquaproj/template-private-aqua-registry) | [2](https://github.com/aquaproj/template-private-aqua-registry/stargazers)
+[arumakan1727/dotfiles](https://github.com/arumakan1727/dotfiles) | [2](https://github.com/arumakan1727/dotfiles/stargazers)
 [evrone/terraform-yandex-postgres](https://github.com/evrone/terraform-yandex-postgres) | [2](https://github.com/evrone/terraform-yandex-postgres/stargazers)
 [frezbo/dotfiles](https://github.com/frezbo/dotfiles) | [2](https://github.com/frezbo/dotfiles/stargazers)
 [gha-trigger/end-action](https://github.com/gha-trigger/end-action) | [2](https://github.com/gha-trigger/end-action/stargazers)
