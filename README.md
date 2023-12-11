@@ -10,15 +10,15 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-12-10T01:07:21Z](https://github.com/aquaproj/user-list/actions/runs/7154655797)_
+_The last update: [2023-12-11T01:03:57Z](https://github.com/aquaproj/user-list/actions/runs/7161546207)_
 
 The number of repositories: 331
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19598](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [813](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [578](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19605](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [815](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [580](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [372](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [336](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [215](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -112,6 +112,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/profile](https://github.com/suzuki-shunsuke/profile) | [3](https://github.com/suzuki-shunsuke/profile/stargazers)
 [suzuki-shunsuke/trivy-config-action](https://github.com/suzuki-shunsuke/trivy-config-action) | [3](https://github.com/suzuki-shunsuke/trivy-config-action/stargazers)
 [4513ECHO/aqua-picker](https://github.com/4513ECHO/aqua-picker) | [2](https://github.com/4513ECHO/aqua-picker/stargazers)
+[4513ECHO/sqlc-gen-deno-postgres](https://github.com/4513ECHO/sqlc-gen-deno-postgres) | [2](https://github.com/4513ECHO/sqlc-gen-deno-postgres/stargazers)
 [DelineaXPM/github-workflows](https://github.com/DelineaXPM/github-workflows) | [2](https://github.com/DelineaXPM/github-workflows/stargazers)
 [YunosukeY/policy-for-pss](https://github.com/YunosukeY/policy-for-pss) | [2](https://github.com/YunosukeY/policy-for-pss/stargazers)
 [aquaproj/aqua-proxy](https://github.com/aquaproj/aqua-proxy) | [2](https://github.com/aquaproj/aqua-proxy/stargazers)
@@ -129,6 +130,7 @@ Repository | :star: The number of GitHub stars
 [gha-trigger/step-summary-action](https://github.com/gha-trigger/step-summary-action) | [2](https://github.com/gha-trigger/step-summary-action/stargazers)
 [gosarami/pac-practice](https://github.com/gosarami/pac-practice) | [2](https://github.com/gosarami/pac-practice/stargazers)
 [int128/actions-runner-controller-in-actions](https://github.com/int128/actions-runner-controller-in-actions) | [2](https://github.com/int128/actions-runner-controller-in-actions/stargazers)
+[kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [2](https://github.com/kmdkuk/MCing/stargazers)
 [kyounger/dotfiles](https://github.com/kyounger/dotfiles) | [2](https://github.com/kyounger/dotfiles/stargazers)
 [quipper/actions-runner](https://github.com/quipper/actions-runner) | [2](https://github.com/quipper/actions-runner/stargazers)
 [sheldonhull/scripts-to-rule-them-all-go](https://github.com/sheldonhull/scripts-to-rule-them-all-go) | [2](https://github.com/sheldonhull/scripts-to-rule-them-all-go/stargazers)
@@ -158,7 +160,6 @@ Repository | :star: The number of GitHub stars
 [zoetrope/k8s-tools](https://github.com/zoetrope/k8s-tools) | [2](https://github.com/zoetrope/k8s-tools/stargazers)
 [2lambda123/trivy](https://github.com/2lambda123/trivy) | [1](https://github.com/2lambda123/trivy/stargazers)
 [44smkn/google-apps-scripts](https://github.com/44smkn/google-apps-scripts) | [1](https://github.com/44smkn/google-apps-scripts/stargazers)
-[4513ECHO/sqlc-gen-deno-postgres](https://github.com/4513ECHO/sqlc-gen-deno-postgres) | [1](https://github.com/4513ECHO/sqlc-gen-deno-postgres/stargazers)
 [CrystalMethod/aqua-meets-updatecli](https://github.com/CrystalMethod/aqua-meets-updatecli) | [1](https://github.com/CrystalMethod/aqua-meets-updatecli/stargazers)
 [CrystalMethod/dotfiles](https://github.com/CrystalMethod/dotfiles) | [1](https://github.com/CrystalMethod/dotfiles/stargazers)
 [IdiosApps/IdiosApps.github.io](https://github.com/IdiosApps/IdiosApps.github.io) | [1](https://github.com/IdiosApps/IdiosApps.github.io/stargazers)
@@ -181,7 +182,6 @@ Repository | :star: The number of GitHub stars
 [honahuku/manifest](https://github.com/honahuku/manifest) | [1](https://github.com/honahuku/manifest/stargazers)
 [int128/conftest-docker-hub-image-pull-secrets](https://github.com/int128/conftest-docker-hub-image-pull-secrets) | [1](https://github.com/int128/conftest-docker-hub-image-pull-secrets/stargazers)
 [itiB/dotfiles](https://github.com/itiB/dotfiles) | [1](https://github.com/itiB/dotfiles/stargazers)
-[kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [1](https://github.com/kmdkuk/MCing/stargazers)
 [little-forest/hasher](https://github.com/little-forest/hasher) | [1](https://github.com/little-forest/hasher/stargazers)
 [m1yam0t0/dotfiles](https://github.com/m1yam0t0/dotfiles) | [1](https://github.com/m1yam0t0/dotfiles/stargazers)
 [miscord-dev/cluster-api-byoh-both](https://github.com/miscord-dev/cluster-api-byoh-both) | [1](https://github.com/miscord-dev/cluster-api-byoh-both/stargazers)
