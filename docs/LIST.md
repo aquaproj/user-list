@@ -1,24 +1,24 @@
-_The last update: [2023-12-14T01:02:44Z](https://github.com/aquaproj/user-list/actions/runs/7203062969)_
+_The last update: [2023-12-15T01:04:25Z](https://github.com/aquaproj/user-list/actions/runs/7216552466)_
 
-The number of repositories: 334
+The number of repositories: 335
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19649](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19669](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [819](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [583](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [585](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [372](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [337](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [216](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [171](https://github.com/ddddddO/gtree/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [158](https://github.com/budimanjojo/dotfiles/stargazers)
+[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [159](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [77](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [63](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [59](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [57](https://github.com/megabyte-labs/install.doctor/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [33](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
-[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [27](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
+[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [28](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [23](https://github.com/cybozu-go/accurate/stargazers)
 [gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [22](https://github.com/gha-trigger/gha-trigger/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [22](https://github.com/suzuki-shunsuke/pinact/stargazers)
@@ -183,6 +183,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/example-renovate-issue-action](https://github.com/suzuki-shunsuke/example-renovate-issue-action) | [1](https://github.com/suzuki-shunsuke/example-renovate-issue-action/stargazers)
 [suzuki-shunsuke/example-sigstore-cosign](https://github.com/suzuki-shunsuke/example-sigstore-cosign) | [1](https://github.com/suzuki-shunsuke/example-sigstore-cosign/stargazers)
 [suzuki-shunsuke/ghcp](https://github.com/suzuki-shunsuke/ghcp) | [1](https://github.com/suzuki-shunsuke/ghcp/stargazers)
+[suzuki-shunsuke/go-jsonnet-native-functions](https://github.com/suzuki-shunsuke/go-jsonnet-native-functions) | [1](https://github.com/suzuki-shunsuke/go-jsonnet-native-functions/stargazers)
 [suzuki-shunsuke/go-test-full-workflow](https://github.com/suzuki-shunsuke/go-test-full-workflow) | [1](https://github.com/suzuki-shunsuke/go-test-full-workflow/stargazers)
 [suzuki-shunsuke/guide-github-action-renovate](https://github.com/suzuki-shunsuke/guide-github-action-renovate) | [1](https://github.com/suzuki-shunsuke/guide-github-action-renovate/stargazers)
 [suzuki-shunsuke/lintnet](https://github.com/suzuki-shunsuke/lintnet) | [1](https://github.com/suzuki-shunsuke/lintnet/stargazers)
