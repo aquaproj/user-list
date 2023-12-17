@@ -1,13 +1,13 @@
-_The last update: [2023-12-16T01:02:23Z](https://github.com/aquaproj/user-list/actions/runs/7228698661)_
+_The last update: [2023-12-17T01:07:41Z](https://github.com/aquaproj/user-list/actions/runs/7235374378)_
 
-The number of repositories: 336
+The number of repositories: 337
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19678](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19691](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [819](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [585](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [372](https://github.com/so-dang-cool/dt/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [374](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [216](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [171](https://github.com/ddddddO/gtree/stargazers)
@@ -25,9 +25,9 @@ Repository | :star: The number of GitHub stars
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [18](https://github.com/4513ECHO/dotfiles/stargazers)
 [ethanjli/dotfiles](https://github.com/ethanjli/dotfiles) | [17](https://github.com/ethanjli/dotfiles/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [16](https://github.com/DelineaXPM/dsv-cli/stargazers)
+[aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [16](https://github.com/aquaproj/aqua-installer/stargazers)
 [suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [16](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [16](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
-[aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [15](https://github.com/aquaproj/aqua-installer/stargazers)
 [odanado/dotfiles](https://github.com/odanado/dotfiles) | [14](https://github.com/odanado/dotfiles/stargazers)
 [aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [13](https://github.com/aquaproj/aqua-renovate-config/stargazers)
 [suzuki-shunsuke/cmdx](https://github.com/suzuki-shunsuke/cmdx) | [12](https://github.com/suzuki-shunsuke/cmdx/stargazers)
@@ -260,6 +260,7 @@ Repository | :star: The number of GitHub stars
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
 [mananyuki/dotfiles](https://github.com/mananyuki/dotfiles) | [0](https://github.com/mananyuki/dotfiles/stargazers)
 [masterpointio/taskit](https://github.com/masterpointio/taskit) | [0](https://github.com/masterpointio/taskit/stargazers)
+[matchan26/wordpress-infra](https://github.com/matchan26/wordpress-infra) | [0](https://github.com/matchan26/wordpress-infra/stargazers)
 [megabyte-labs/megabyte.space-docs](https://github.com/megabyte-labs/megabyte.space-docs) | [0](https://github.com/megabyte-labs/megabyte.space-docs/stargazers)
 [mikutas/dotfiles](https://github.com/mikutas/dotfiles) | [0](https://github.com/mikutas/dotfiles/stargazers)
 [mikutas/grpc-go-helloworld](https://github.com/mikutas/grpc-go-helloworld) | [0](https://github.com/mikutas/grpc-go-helloworld/stargazers)
