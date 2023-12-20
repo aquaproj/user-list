@@ -1,15 +1,15 @@
-_The last update: [2023-12-19T01:03:13Z](https://github.com/aquaproj/user-list/actions/runs/7255902032)_
+_The last update: [2023-12-20T00:52:06Z](https://github.com/aquaproj/user-list/actions/runs/7269459106)_
 
 The number of repositories: 337
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19704](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [823](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19720](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [827](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [586](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [374](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [219](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [220](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [173](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [160](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [77](https://github.com/suzuki-shunsuke/github-comment/stargazers)
@@ -198,6 +198,7 @@ Repository | :star: The number of GitHub stars
 [vterdunov/frs-k8s-fleet](https://github.com/vterdunov/frs-k8s-fleet) | [1](https://github.com/vterdunov/frs-k8s-fleet/stargazers)
 [wancup/dotfiles](https://github.com/wancup/dotfiles) | [1](https://github.com/wancup/dotfiles/stargazers)
 [wbelucky/dotfiles](https://github.com/wbelucky/dotfiles) | [1](https://github.com/wbelucky/dotfiles/stargazers)
+[wim-web/xpx](https://github.com/wim-web/xpx) | [1](https://github.com/wim-web/xpx/stargazers)
 [yamd1/dotfiles](https://github.com/yamd1/dotfiles) | [1](https://github.com/yamd1/dotfiles/stargazers)
 [zoetrope/sample-webhook](https://github.com/zoetrope/sample-webhook) | [1](https://github.com/zoetrope/sample-webhook/stargazers)
 [44smkn/dotfiles](https://github.com/44smkn/dotfiles) | [0](https://github.com/44smkn/dotfiles/stargazers)
@@ -332,7 +333,6 @@ Repository | :star: The number of GitHub stars
 [wim-web/resume](https://github.com/wim-web/resume) | [0](https://github.com/wim-web/resume/stargazers)
 [wim-web/tfoon](https://github.com/wim-web/tfoon) | [0](https://github.com/wim-web/tfoon/stargazers)
 [wim-web/tonneeeeel](https://github.com/wim-web/tonneeeeel) | [0](https://github.com/wim-web/tonneeeeel/stargazers)
-[wim-web/xpx](https://github.com/wim-web/xpx) | [0](https://github.com/wim-web/xpx/stargazers)
 [yappiii/dotfiles](https://github.com/yappiii/dotfiles) | [0](https://github.com/yappiii/dotfiles/stargazers)
 [ych-tnk/sandbox](https://github.com/ych-tnk/sandbox) | [0](https://github.com/ych-tnk/sandbox/stargazers)
 [ymkz/dotfiles](https://github.com/ymkz/dotfiles) | [0](https://github.com/ymkz/dotfiles/stargazers)
