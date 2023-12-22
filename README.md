@@ -10,20 +10,20 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-12-21T01:01:57Z](https://github.com/aquaproj/user-list/actions/runs/7282615039)_
+_The last update: [2023-12-22T01:02:08Z](https://github.com/aquaproj/user-list/actions/runs/7294896316)_
 
 The number of repositories: 341
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19736](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19744](https://github.com/aquasecurity/trivy/stargazers)
 [onedr0p/home-ops](https://github.com/onedr0p/home-ops) | [1458](https://github.com/onedr0p/home-ops/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [830](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [832](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [590](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [375](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [220](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [174](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [173](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [160](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [77](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [63](https://github.com/aquaproj/aqua-registry/stargazers)
@@ -85,6 +85,7 @@ Repository | :star: The number of GitHub stars
 [castaneai/openmatch-local-dev](https://github.com/castaneai/openmatch-local-dev) | [4](https://github.com/castaneai/openmatch-local-dev/stargazers)
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
 [guni1192/minecraft-operator](https://github.com/guni1192/minecraft-operator) | [4](https://github.com/guni1192/minecraft-operator/stargazers)
+[jenkinsci/thycotic-devops-secrets-vault-plugin](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin) | [4](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin/stargazers)
 [kkk777-7/k8s-slack-notifier](https://github.com/kkk777-7/k8s-slack-notifier) | [4](https://github.com/kkk777-7/k8s-slack-notifier/stargazers)
 [lkmgr/dotfiles](https://github.com/lkmgr/dotfiles) | [4](https://github.com/lkmgr/dotfiles/stargazers)
 [srynot4sale/dotfiles](https://github.com/srynot4sale/dotfiles) | [4](https://github.com/srynot4sale/dotfiles/stargazers)
@@ -103,7 +104,6 @@ Repository | :star: The number of GitHub stars
 [aquaproj/user-list](https://github.com/aquaproj/user-list) | [3](https://github.com/aquaproj/user-list/stargazers)
 [gha-trigger/commit-status-action](https://github.com/gha-trigger/commit-status-action) | [3](https://github.com/gha-trigger/commit-status-action/stargazers)
 [int128/typescript-k6](https://github.com/int128/typescript-k6) | [3](https://github.com/int128/typescript-k6/stargazers)
-[jenkinsci/thycotic-devops-secrets-vault-plugin](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin) | [3](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin/stargazers)
 [m-hamashita/dotfiles](https://github.com/m-hamashita/dotfiles) | [3](https://github.com/m-hamashita/dotfiles/stargazers)
 [mimikun/dotfiles](https://github.com/mimikun/dotfiles) | [3](https://github.com/mimikun/dotfiles/stargazers)
 [morning-night-guild/platform-app](https://github.com/morning-night-guild/platform-app) | [3](https://github.com/morning-night-guild/platform-app/stargazers)
