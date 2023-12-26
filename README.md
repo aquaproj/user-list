@@ -10,13 +10,13 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-12-25T01:03:38Z](https://github.com/aquaproj/user-list/actions/runs/7317929025)_
+_The last update: [2023-12-26T01:00:30Z](https://github.com/aquaproj/user-list/actions/runs/7325455082)_
 
-The number of repositories: 347
+The number of repositories: 348
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19766](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19775](https://github.com/aquasecurity/trivy/stargazers)
 [onedr0p/home-ops](https://github.com/onedr0p/home-ops) | [1461](https://github.com/onedr0p/home-ops/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [836](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [591](https://github.com/aquaproj/aqua/stargazers)
@@ -26,7 +26,7 @@ Repository | :star: The number of GitHub stars
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [173](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [160](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [77](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [63](https://github.com/aquaproj/aqua-registry/stargazers)
+[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [64](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [59](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [57](https://github.com/megabyte-labs/install.doctor/stargazers)
 [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) | [42](https://github.com/coolguy1771/home-ops/stargazers)
@@ -34,8 +34,8 @@ Repository | :star: The number of GitHub stars
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [33](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [29](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [23](https://github.com/cybozu-go/accurate/stargazers)
+[suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [23](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [gha-trigger/gha-trigger](https://github.com/gha-trigger/gha-trigger) | [22](https://github.com/gha-trigger/gha-trigger/stargazers)
-[suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [22](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [18](https://github.com/4513ECHO/dotfiles/stargazers)
 [ethanjli/dotfiles](https://github.com/ethanjli/dotfiles) | [17](https://github.com/ethanjli/dotfiles/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [16](https://github.com/DelineaXPM/dsv-cli/stargazers)
@@ -54,8 +54,8 @@ Repository | :star: The number of GitHub stars
 [castaneai/minimatch](https://github.com/castaneai/minimatch) | [9](https://github.com/castaneai/minimatch/stargazers)
 [lesiw/bump](https://github.com/lesiw/bump) | [9](https://github.com/lesiw/bump/stargazers)
 [ryoppippi/dotfiles](https://github.com/ryoppippi/dotfiles) | [9](https://github.com/ryoppippi/dotfiles/stargazers)
+[suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [9](https://github.com/suzuki-shunsuke/ghalint/stargazers)
 [suzuki-shunsuke/renovate-issue-action](https://github.com/suzuki-shunsuke/renovate-issue-action) | [9](https://github.com/suzuki-shunsuke/renovate-issue-action/stargazers)
-[suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [8](https://github.com/suzuki-shunsuke/ghalint/stargazers)
 [suzuki-shunsuke/tfaction-example](https://github.com/suzuki-shunsuke/tfaction-example) | [8](https://github.com/suzuki-shunsuke/tfaction-example/stargazers)
 [DelineaXPM/dsv-github-action](https://github.com/DelineaXPM/dsv-github-action) | [7](https://github.com/DelineaXPM/dsv-github-action/stargazers)
 [DelineaXPM/terraform-provider-dsv](https://github.com/DelineaXPM/terraform-provider-dsv) | [7](https://github.com/DelineaXPM/terraform-provider-dsv/stargazers)
@@ -136,6 +136,7 @@ Repository | :star: The number of GitHub stars
 [int128/actions-runner-controller-in-actions](https://github.com/int128/actions-runner-controller-in-actions) | [2](https://github.com/int128/actions-runner-controller-in-actions/stargazers)
 [kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [2](https://github.com/kmdkuk/MCing/stargazers)
 [kyounger/dotfiles](https://github.com/kyounger/dotfiles) | [2](https://github.com/kyounger/dotfiles/stargazers)
+[lilpacy/github-trend-public](https://github.com/lilpacy/github-trend-public) | [2](https://github.com/lilpacy/github-trend-public/stargazers)
 [quipper/actions-runner](https://github.com/quipper/actions-runner) | [2](https://github.com/quipper/actions-runner/stargazers)
 [sheldonhull/scripts-to-rule-them-all-go](https://github.com/sheldonhull/scripts-to-rule-them-all-go) | [2](https://github.com/sheldonhull/scripts-to-rule-them-all-go/stargazers)
 [suzuki-shunsuke/actionlint-workflow](https://github.com/suzuki-shunsuke/actionlint-workflow) | [2](https://github.com/suzuki-shunsuke/actionlint-workflow/stargazers)
@@ -274,7 +275,6 @@ Repository | :star: The number of GitHub stars
 [koki-develop/dotfiles](https://github.com/koki-develop/dotfiles) | [0](https://github.com/koki-develop/dotfiles/stargazers)
 [korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
 [lilpacy/dotfiles](https://github.com/lilpacy/dotfiles) | [0](https://github.com/lilpacy/dotfiles/stargazers)
-[lilpacy/github-trend-public](https://github.com/lilpacy/github-trend-public) | [0](https://github.com/lilpacy/github-trend-public/stargazers)
 [m22r/terraform-demo](https://github.com/m22r/terraform-demo) | [0](https://github.com/m22r/terraform-demo/stargazers)
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
 [mananyuki/dotfiles](https://github.com/mananyuki/dotfiles) | [0](https://github.com/mananyuki/dotfiles/stargazers)
@@ -349,6 +349,7 @@ Repository | :star: The number of GitHub stars
 [takumin/packer-plugin-debootstrap](https://github.com/takumin/packer-plugin-debootstrap) | [0](https://github.com/takumin/packer-plugin-debootstrap/stargazers)
 [takumin/packer-plugin-playground](https://github.com/takumin/packer-plugin-playground) | [0](https://github.com/takumin/packer-plugin-playground/stargazers)
 [takutakahashi/config](https://github.com/takutakahashi/config) | [0](https://github.com/takutakahashi/config/stargazers)
+[unique1188/towerk8s](https://github.com/unique1188/towerk8s) | [0](https://github.com/unique1188/towerk8s/stargazers)
 [watarukura/dotfiles](https://github.com/watarukura/dotfiles) | [0](https://github.com/watarukura/dotfiles/stargazers)
 [wim-web/dotfiles](https://github.com/wim-web/dotfiles) | [0](https://github.com/wim-web/dotfiles/stargazers)
 [wim-web/my_zenn](https://github.com/wim-web/my_zenn) | [0](https://github.com/wim-web/my_zenn/stargazers)
