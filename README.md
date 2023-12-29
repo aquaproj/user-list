@@ -10,16 +10,16 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-12-28T01:00:38Z](https://github.com/aquaproj/user-list/actions/runs/7343248526)_
+_The last update: [2023-12-29T00:52:19Z](https://github.com/aquaproj/user-list/actions/runs/7352572661)_
 
-The number of repositories: 346
+The number of repositories: 347
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19796](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [842](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [593](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [377](https://github.com/so-dang-cool/dt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19806](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [843](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [594](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [379](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [221](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [173](https://github.com/ddddddO/gtree/stargazers)
@@ -297,6 +297,7 @@ Repository | :star: The number of GitHub stars
 [murn0/renovate-automerge-workflow](https://github.com/murn0/renovate-automerge-workflow) | [0](https://github.com/murn0/renovate-automerge-workflow/stargazers)
 [murn0/renovate-config](https://github.com/murn0/renovate-config) | [0](https://github.com/murn0/renovate-config/stargazers)
 [murn0/test-auto-draft-release](https://github.com/murn0/test-auto-draft-release) | [0](https://github.com/murn0/test-auto-draft-release/stargazers)
+[naari3/bakatare-minna](https://github.com/naari3/bakatare-minna) | [0](https://github.com/naari3/bakatare-minna/stargazers)
 [nakatanakatana/dotfiles](https://github.com/nakatanakatana/dotfiles) | [0](https://github.com/nakatanakatana/dotfiles/stargazers)
 [natainakata/dotfiles](https://github.com/natainakata/dotfiles) | [0](https://github.com/natainakata/dotfiles/stargazers)
 [newtestorgmahi/trivy-test](https://github.com/newtestorgmahi/trivy-test) | [0](https://github.com/newtestorgmahi/trivy-test/stargazers)
