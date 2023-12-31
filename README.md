@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2023-12-30T01:00:16Z](https://github.com/aquaproj/user-list/actions/runs/7361042415)_
+_The last update: [2023-12-31T01:06:40Z](https://github.com/aquaproj/user-list/actions/runs/7367439597)_
 
 The number of repositories: 347
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19807](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [843](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19821](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [846](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [594](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [380](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -28,7 +28,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [65](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [59](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [57](https://github.com/megabyte-labs/install.doctor/stargazers)
-[coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) | [42](https://github.com/coolguy1771/home-ops/stargazers)
+[coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) | [43](https://github.com/coolguy1771/home-ops/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [33](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [29](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
@@ -228,7 +228,6 @@ Repository | :star: The number of GitHub stars
 [Sho2010/istio-operator-set-extractor](https://github.com/Sho2010/istio-operator-set-extractor) | [0](https://github.com/Sho2010/istio-operator-set-extractor/stargazers)
 [StudistCorporation/k8s-tutorial](https://github.com/StudistCorporation/k8s-tutorial) | [0](https://github.com/StudistCorporation/k8s-tutorial/stargazers)
 [Syu-fu/dotfiles](https://github.com/Syu-fu/dotfiles) | [0](https://github.com/Syu-fu/dotfiles/stargazers)
-[TrentScholl/home-ops](https://github.com/TrentScholl/home-ops) | [0](https://github.com/TrentScholl/home-ops/stargazers)
 [YasushiKobayashi/dotfiles](https://github.com/YasushiKobayashi/dotfiles) | [0](https://github.com/YasushiKobayashi/dotfiles/stargazers)
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [0](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-cd-playground](https://github.com/YunosukeY/k8s-cd-playground) | [0](https://github.com/YunosukeY/k8s-cd-playground/stargazers)
@@ -274,6 +273,7 @@ Repository | :star: The number of GitHub stars
 [koki-develop/dotfiles](https://github.com/koki-develop/dotfiles) | [0](https://github.com/koki-develop/dotfiles/stargazers)
 [korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
 [lilpacy/dotfiles](https://github.com/lilpacy/dotfiles) | [0](https://github.com/lilpacy/dotfiles/stargazers)
+[m1yam0t0/devcontainer-aqua-sample](https://github.com/m1yam0t0/devcontainer-aqua-sample) | [0](https://github.com/m1yam0t0/devcontainer-aqua-sample/stargazers)
 [m22r/terraform-demo](https://github.com/m22r/terraform-demo) | [0](https://github.com/m22r/terraform-demo/stargazers)
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
 [mananyuki/dotfiles](https://github.com/mananyuki/dotfiles) | [0](https://github.com/mananyuki/dotfiles/stargazers)
