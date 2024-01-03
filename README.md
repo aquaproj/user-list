@@ -10,25 +10,25 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-01-02T01:01:20Z](https://github.com/aquaproj/user-list/actions/runs/7381143011)_
+_The last update: [2024-01-03T01:02:35Z](https://github.com/aquaproj/user-list/actions/runs/7392236897)_
 
 The number of repositories: 349
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19827](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [846](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [594](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [380](https://github.com/so-dang-cool/dt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19835](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [847](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [593](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [379](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [222](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [175](https://github.com/ddddddO/gtree/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [159](https://github.com/budimanjojo/dotfiles/stargazers)
+[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [160](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [78](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [65](https://github.com/aquaproj/aqua-registry/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [59](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [57](https://github.com/megabyte-labs/install.doctor/stargazers)
-[coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) | [44](https://github.com/coolguy1771/home-ops/stargazers)
+[coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) | [45](https://github.com/coolguy1771/home-ops/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [33](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [29](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
@@ -236,7 +236,7 @@ Repository | :star: The number of GitHub stars
 [actions-marketplace-validations/DelineaXPM_dsv-github-action](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action) | [0](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action/stargazers)
 [actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator) | [0](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator/stargazers)
 [aereal/poc-protobuf-json-config](https://github.com/aereal/poc-protobuf-json-config) | [0](https://github.com/aereal/poc-protobuf-json-config/stargazers)
-[air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [0](https://github.com/air-hand/dotfiles/stargazers)
+[air-hand-org/dotfiles](https://github.com/air-hand-org/dotfiles) | [0](https://github.com/air-hand-org/dotfiles/stargazers)
 [arakkkkk/dotfiles](https://github.com/arakkkkk/dotfiles) | [0](https://github.com/arakkkkk/dotfiles/stargazers)
 [borley1211/dotfiles](https://github.com/borley1211/dotfiles) | [0](https://github.com/borley1211/dotfiles/stargazers)
 [cal324/apps](https://github.com/cal324/apps) | [0](https://github.com/cal324/apps/stargazers)
