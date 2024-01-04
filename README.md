@@ -10,16 +10,16 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-01-03T01:02:35Z](https://github.com/aquaproj/user-list/actions/runs/7392236897)_
+_The last update: [2024-01-04T01:02:42Z](https://github.com/aquaproj/user-list/actions/runs/7404214306)_
 
-The number of repositories: 349
+The number of repositories: 350
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19835](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [847](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19850](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [848](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [593](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [379](https://github.com/so-dang-cool/dt/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [381](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [338](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [222](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [175](https://github.com/ddddddO/gtree/stargazers)
@@ -159,6 +159,7 @@ Repository | :star: The number of GitHub stars
 [suzutan/infra](https://github.com/suzutan/infra) | [2](https://github.com/suzutan/infra/stargazers)
 [takumin/ykmgr](https://github.com/takumin/ykmgr) | [2](https://github.com/takumin/ykmgr/stargazers)
 [techblog-szksh-cloud/techblog-szksh-cloud.github.io](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io) | [2](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io/stargazers)
+[tosuke/dotfiles](https://github.com/tosuke/dotfiles) | [2](https://github.com/tosuke/dotfiles/stargazers)
 [tsuzu-home/k8s](https://github.com/tsuzu-home/k8s) | [2](https://github.com/tsuzu-home/k8s/stargazers)
 [uta8a/dotfiles](https://github.com/uta8a/dotfiles) | [2](https://github.com/uta8a/dotfiles/stargazers)
 [yuya-takeyama/blog.yuyat.jp](https://github.com/yuya-takeyama/blog.yuyat.jp) | [2](https://github.com/yuya-takeyama/blog.yuyat.jp/stargazers)
@@ -236,7 +237,7 @@ Repository | :star: The number of GitHub stars
 [actions-marketplace-validations/DelineaXPM_dsv-github-action](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action) | [0](https://github.com/actions-marketplace-validations/DelineaXPM_dsv-github-action/stargazers)
 [actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator) | [0](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator/stargazers)
 [aereal/poc-protobuf-json-config](https://github.com/aereal/poc-protobuf-json-config) | [0](https://github.com/aereal/poc-protobuf-json-config/stargazers)
-[air-hand-org/dotfiles](https://github.com/air-hand-org/dotfiles) | [0](https://github.com/air-hand-org/dotfiles/stargazers)
+[air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [0](https://github.com/air-hand/dotfiles/stargazers)
 [arakkkkk/dotfiles](https://github.com/arakkkkk/dotfiles) | [0](https://github.com/arakkkkk/dotfiles/stargazers)
 [borley1211/dotfiles](https://github.com/borley1211/dotfiles) | [0](https://github.com/borley1211/dotfiles/stargazers)
 [cal324/apps](https://github.com/cal324/apps) | [0](https://github.com/cal324/apps/stargazers)
