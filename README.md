@@ -10,16 +10,16 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-01-08T01:04:20Z](https://github.com/aquaproj/user-list/actions/runs/7441939344)_
+_The last update: [2024-01-09T01:04:30Z](https://github.com/aquaproj/user-list/actions/runs/7455212158)_
 
-The number of repositories: 353
+The number of repositories: 356
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19890](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [851](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [597](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [384](https://github.com/so-dang-cool/dt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [19899](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [854](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [598](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [385](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [339](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [222](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [175](https://github.com/ddddddO/gtree/stargazers)
@@ -104,6 +104,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/registry-tool](https://github.com/aquaproj/registry-tool) | [3](https://github.com/aquaproj/registry-tool/stargazers)
 [aquaproj/user-list](https://github.com/aquaproj/user-list) | [3](https://github.com/aquaproj/user-list/stargazers)
 [gha-trigger/commit-status-action](https://github.com/gha-trigger/commit-status-action) | [3](https://github.com/gha-trigger/commit-status-action/stargazers)
+[i544c-me/buicha-social](https://github.com/i544c-me/buicha-social) | [3](https://github.com/i544c-me/buicha-social/stargazers)
 [int128/typescript-k6](https://github.com/int128/typescript-k6) | [3](https://github.com/int128/typescript-k6/stargazers)
 [kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [3](https://github.com/kmdkuk/MCing/stargazers)
 [m-hamashita/dotfiles](https://github.com/m-hamashita/dotfiles) | [3](https://github.com/m-hamashita/dotfiles/stargazers)
@@ -223,6 +224,7 @@ Repository | :star: The number of GitHub stars
 [844196/man-hour](https://github.com/844196/man-hour) | [0](https://github.com/844196/man-hour/stargazers)
 [Amir-Ahmad/k8s-jsonnet-playground](https://github.com/Amir-Ahmad/k8s-jsonnet-playground) | [0](https://github.com/Amir-Ahmad/k8s-jsonnet-playground/stargazers)
 [CVEDB/gitscsn](https://github.com/CVEDB/gitscsn) | [0](https://github.com/CVEDB/gitscsn/stargazers)
+[Groupe-Hevea/tools-aquaproj](https://github.com/Groupe-Hevea/tools-aquaproj) | [0](https://github.com/Groupe-Hevea/tools-aquaproj/stargazers)
 [MSHR-Dec/MSHR-Doc](https://github.com/MSHR-Dec/MSHR-Doc) | [0](https://github.com/MSHR-Dec/MSHR-Doc/stargazers)
 [Mozart409/.dotfiles](https://github.com/Mozart409/.dotfiles) | [0](https://github.com/Mozart409/.dotfiles/stargazers)
 [OrganizedMayhem/dotfiles](https://github.com/OrganizedMayhem/dotfiles) | [0](https://github.com/OrganizedMayhem/dotfiles/stargazers)
@@ -267,6 +269,7 @@ Repository | :star: The number of GitHub stars
 [honahuku/infra](https://github.com/honahuku/infra) | [0](https://github.com/honahuku/infra/stargazers)
 [honahuku/kashiwagi](https://github.com/honahuku/kashiwagi) | [0](https://github.com/honahuku/kashiwagi/stargazers)
 [honahuku/nfs3bridge](https://github.com/honahuku/nfs3bridge) | [0](https://github.com/honahuku/nfs3bridge/stargazers)
+[ibuki2003/dotfiles](https://github.com/ibuki2003/dotfiles) | [0](https://github.com/ibuki2003/dotfiles/stargazers)
 [jinugasachio/terraform-workspace-type](https://github.com/jinugasachio/terraform-workspace-type) | [0](https://github.com/jinugasachio/terraform-workspace-type/stargazers)
 [joeblew99/gio-htmx](https://github.com/joeblew99/gio-htmx) | [0](https://github.com/joeblew99/gio-htmx/stargazers)
 [kanade0404/client_backend_db_terraform](https://github.com/kanade0404/client_backend_db_terraform) | [0](https://github.com/kanade0404/client_backend_db_terraform/stargazers)
