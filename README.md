@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-01-24T01:05:55Z](https://github.com/aquaproj/user-list/actions/runs/7633945622)_
+_The last update: [2024-01-25T01:05:32Z](https://github.com/aquaproj/user-list/actions/runs/7648380975)_
 
-The number of repositories: 371
+The number of repositories: 372
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20127](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [883](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20151](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [886](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [609](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [390](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [342](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -180,6 +180,7 @@ Repository | :star: The number of GitHub stars
 [dfroberg/dotfiles](https://github.com/dfroberg/dotfiles) | [1](https://github.com/dfroberg/dotfiles/stargazers)
 [entooone/dotfiles](https://github.com/entooone/dotfiles) | [1](https://github.com/entooone/dotfiles/stargazers)
 [evrone/terraform-yandex-iam](https://github.com/evrone/terraform-yandex-iam) | [1](https://github.com/evrone/terraform-yandex-iam/stargazers)
+[fujiwara/cfft](https://github.com/fujiwara/cfft) | [1](https://github.com/fujiwara/cfft/stargazers)
 [gha-trigger/end-action](https://github.com/gha-trigger/end-action) | [1](https://github.com/gha-trigger/end-action/stargazers)
 [gha-trigger/example-ci](https://github.com/gha-trigger/example-ci) | [1](https://github.com/gha-trigger/example-ci/stargazers)
 [gha-trigger/example-manual-workflow](https://github.com/gha-trigger/example-manual-workflow) | [1](https://github.com/gha-trigger/example-manual-workflow/stargazers)
@@ -252,6 +253,7 @@ Repository | :star: The number of GitHub stars
 [air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [0](https://github.com/air-hand/dotfiles/stargazers)
 [arakkkkk/dotfiles](https://github.com/arakkkkk/dotfiles) | [0](https://github.com/arakkkkk/dotfiles/stargazers)
 [borley1211/dotfiles](https://github.com/borley1211/dotfiles) | [0](https://github.com/borley1211/dotfiles/stargazers)
+[bpillatsch/dotfiles](https://github.com/bpillatsch/dotfiles) | [0](https://github.com/bpillatsch/dotfiles/stargazers)
 [cal324/apps](https://github.com/cal324/apps) | [0](https://github.com/cal324/apps/stargazers)
 [cappyzawa/markdown-view](https://github.com/cappyzawa/markdown-view) | [0](https://github.com/cappyzawa/markdown-view/stargazers)
 [corrupt952/beestrap](https://github.com/corrupt952/beestrap) | [0](https://github.com/corrupt952/beestrap/stargazers)
@@ -264,7 +266,6 @@ Repository | :star: The number of GitHub stars
 [dungdm93/dotfiles](https://github.com/dungdm93/dotfiles) | [0](https://github.com/dungdm93/dotfiles/stargazers)
 [ebesson/dotfiles](https://github.com/ebesson/dotfiles) | [0](https://github.com/ebesson/dotfiles/stargazers)
 [fuji8/learning-aqua-renovate-docker](https://github.com/fuji8/learning-aqua-renovate-docker) | [0](https://github.com/fuji8/learning-aqua-renovate-docker/stargazers)
-[fujiwara/cfft](https://github.com/fujiwara/cfft) | [0](https://github.com/fujiwara/cfft/stargazers)
 [fujiwara/homebrew-tap](https://github.com/fujiwara/homebrew-tap) | [0](https://github.com/fujiwara/homebrew-tap/stargazers)
 [git-ogawa/docserver-controller](https://github.com/git-ogawa/docserver-controller) | [0](https://github.com/git-ogawa/docserver-controller/stargazers)
 [gosarami/markdown-view](https://github.com/gosarami/markdown-view) | [0](https://github.com/gosarami/markdown-view/stargazers)
