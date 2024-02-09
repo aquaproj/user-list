@@ -3,7 +3,7 @@ module github.com/aquaproj/user-list
 go 1.20
 
 require (
-	github.com/google/go-github/v58 v58.0.0
+	github.com/google/go-github/v59 v59.0.0
 	github.com/rs/zerolog v1.32.0
 	github.com/shurcooL/githubv4 v0.0.0-20230704064427-599ae7bbf278
 	golang.org/x/oauth2 v0.17.0
