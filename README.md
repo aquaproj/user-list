@@ -10,16 +10,16 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-03-07T00:51:15Z](https://github.com/aquaproj/user-list/actions/runs/8181058473)_
+_The last update: [2024-03-08T00:58:46Z](https://github.com/aquaproj/user-list/actions/runs/8197059742)_
 
-The number of repositories: 388
+The number of repositories: 387
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20768](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [963](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [654](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [393](https://github.com/so-dang-cool/dt/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20781](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [965](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [655](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [394](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [353](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [228](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [185](https://github.com/ddddddO/gtree/stargazers)
@@ -170,6 +170,7 @@ Repository | :star: The number of GitHub stars
 [CrystalMethod/dotfiles](https://github.com/CrystalMethod/dotfiles) | [1](https://github.com/CrystalMethod/dotfiles/stargazers)
 [Groupe-Hevea/tools-aquaproj](https://github.com/Groupe-Hevea/tools-aquaproj) | [1](https://github.com/Groupe-Hevea/tools-aquaproj/stargazers)
 [IdiosApps/IdiosApps.github.io](https://github.com/IdiosApps/IdiosApps.github.io) | [1](https://github.com/IdiosApps/IdiosApps.github.io/stargazers)
+[YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [1](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground) | [1](https://github.com/YunosukeY/k8s-monitoring-playground/stargazers)
 [aquaproj/aqua-registry-updater](https://github.com/aquaproj/aqua-registry-updater) | [1](https://github.com/aquaproj/aqua-registry-updater/stargazers)
 [aquaproj/demo](https://github.com/aquaproj/demo) | [1](https://github.com/aquaproj/demo/stargazers)
@@ -247,7 +248,6 @@ Repository | :star: The number of GitHub stars
 [StudistCorporation/k8s-tutorial](https://github.com/StudistCorporation/k8s-tutorial) | [0](https://github.com/StudistCorporation/k8s-tutorial/stargazers)
 [Syu-fu/dotfiles](https://github.com/Syu-fu/dotfiles) | [0](https://github.com/Syu-fu/dotfiles/stargazers)
 [YasushiKobayashi/dotfiles](https://github.com/YasushiKobayashi/dotfiles) | [0](https://github.com/YasushiKobayashi/dotfiles/stargazers)
-[YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [0](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-cd-playground](https://github.com/YunosukeY/k8s-cd-playground) | [0](https://github.com/YunosukeY/k8s-cd-playground/stargazers)
 [YunosukeY/k8s-playground-backend](https://github.com/YunosukeY/k8s-playground-backend) | [0](https://github.com/YunosukeY/k8s-playground-backend/stargazers)
 [YunosukeY/k8s-sec-playground](https://github.com/YunosukeY/k8s-sec-playground) | [0](https://github.com/YunosukeY/k8s-sec-playground/stargazers)
@@ -317,7 +317,6 @@ Repository | :star: The number of GitHub stars
 [mikutas/kubectl-cronjob](https://github.com/mikutas/kubectl-cronjob) | [0](https://github.com/mikutas/kubectl-cronjob/stargazers)
 [mikutas/linkerd-installation](https://github.com/mikutas/linkerd-installation) | [0](https://github.com/mikutas/linkerd-installation/stargazers)
 [miscord-dev/mcp-otel-collector](https://github.com/miscord-dev/mcp-otel-collector) | [0](https://github.com/miscord-dev/mcp-otel-collector/stargazers)
-[mitsu-yuki/dotfiles](https://github.com/mitsu-yuki/dotfiles) | [0](https://github.com/mitsu-yuki/dotfiles/stargazers)
 [morning-night-dream/oidc](https://github.com/morning-night-dream/oidc) | [0](https://github.com/morning-night-dream/oidc/stargazers)
 [morning-night-guild/platform-infra](https://github.com/morning-night-guild/platform-infra) | [0](https://github.com/morning-night-guild/platform-infra/stargazers)
 [mouse484/dotfiles](https://github.com/mouse484/dotfiles) | [0](https://github.com/mouse484/dotfiles/stargazers)
