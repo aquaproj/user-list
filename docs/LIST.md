@@ -1,12 +1,12 @@
-_The last update: [2024-03-11T01:00:18Z](https://github.com/aquaproj/user-list/actions/runs/8226122342)_
+_The last update: [2024-03-12T00:59:51Z](https://github.com/aquaproj/user-list/actions/runs/8241914531)_
 
-The number of repositories: 391
+The number of repositories: 392
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20819](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [972](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [656](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20830](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [974](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [659](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [394](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [354](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [230](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -24,18 +24,18 @@ Repository | :star: The number of GitHub stars
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [26](https://github.com/cybozu-go/accurate/stargazers)
 [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [24](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [masterpointio/terraform-aws-ssm-agent](https://github.com/masterpointio/terraform-aws-ssm-agent) | [23](https://github.com/masterpointio/terraform-aws-ssm-agent/stargazers)
+[fujiwara/cfft](https://github.com/fujiwara/cfft) | [18](https://github.com/fujiwara/cfft/stargazers)
 [suzuki-shunsuke/cmdx](https://github.com/suzuki-shunsuke/cmdx) | [18](https://github.com/suzuki-shunsuke/cmdx/stargazers)
 [suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [18](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [17](https://github.com/4513ECHO/dotfiles/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [17](https://github.com/DelineaXPM/dsv-cli/stargazers)
 [ethanjli/dotfiles](https://github.com/ethanjli/dotfiles) | [17](https://github.com/ethanjli/dotfiles/stargazers)
-[fujiwara/cfft](https://github.com/fujiwara/cfft) | [17](https://github.com/fujiwara/cfft/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [17](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [16](https://github.com/aquaproj/aqua-installer/stargazers)
+[castaneai/minimatch](https://github.com/castaneai/minimatch) | [15](https://github.com/castaneai/minimatch/stargazers)
 [aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [13](https://github.com/aquaproj/aqua-renovate-config/stargazers)
 [odanado/dotfiles](https://github.com/odanado/dotfiles) | [13](https://github.com/odanado/dotfiles/stargazers)
 [DelineaXPM/dsv-k8s](https://github.com/DelineaXPM/dsv-k8s) | [12](https://github.com/DelineaXPM/dsv-k8s/stargazers)
-[castaneai/minimatch](https://github.com/castaneai/minimatch) | [12](https://github.com/castaneai/minimatch/stargazers)
 [ryoppippi/dotfiles](https://github.com/ryoppippi/dotfiles) | [12](https://github.com/ryoppippi/dotfiles/stargazers)
 [suzuki-shunsuke/circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [12](https://github.com/suzuki-shunsuke/circleci-config-merge/stargazers)
 [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [12](https://github.com/suzuki-shunsuke/ghalint/stargazers)
@@ -79,6 +79,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/user-list](https://github.com/aquaproj/user-list) | [4](https://github.com/aquaproj/user-list/stargazers)
 [castaneai/openmatch-local-dev](https://github.com/castaneai/openmatch-local-dev) | [4](https://github.com/castaneai/openmatch-local-dev/stargazers)
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
+[gaerfield/dotfiles](https://github.com/gaerfield/dotfiles) | [4](https://github.com/gaerfield/dotfiles/stargazers)
 [guni1192/minecraft-operator](https://github.com/guni1192/minecraft-operator) | [4](https://github.com/guni1192/minecraft-operator/stargazers)
 [jenkinsci/thycotic-devops-secrets-vault-plugin](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin) | [4](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin/stargazers)
 [kkk777-7/k8s-slack-notifier](https://github.com/kkk777-7/k8s-slack-notifier) | [4](https://github.com/kkk777-7/k8s-slack-notifier/stargazers)
@@ -222,9 +223,9 @@ Repository | :star: The number of GitHub stars
 [44smkn/terraform](https://github.com/44smkn/terraform) | [0](https://github.com/44smkn/terraform/stargazers)
 [844196/man-hour](https://github.com/844196/man-hour) | [0](https://github.com/844196/man-hour/stargazers)
 [844196/typespec-laravel](https://github.com/844196/typespec-laravel) | [0](https://github.com/844196/typespec-laravel/stargazers)
+[Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) | [0](https://github.com/Alexsaphir/K3s-Flux/stargazers)
 [Amir-Ahmad/k8s-jsonnet-playground](https://github.com/Amir-Ahmad/k8s-jsonnet-playground) | [0](https://github.com/Amir-Ahmad/k8s-jsonnet-playground/stargazers)
 [CVEDB/gitscsn](https://github.com/CVEDB/gitscsn) | [0](https://github.com/CVEDB/gitscsn/stargazers)
-[Homelab-SPH/K3s-Flux](https://github.com/Homelab-SPH/K3s-Flux) | [0](https://github.com/Homelab-SPH/K3s-Flux/stargazers)
 [Ishita82/trivy-GitAction](https://github.com/Ishita82/trivy-GitAction) | [0](https://github.com/Ishita82/trivy-GitAction/stargazers)
 [MSHR-Dec/MSHR-Doc](https://github.com/MSHR-Dec/MSHR-Doc) | [0](https://github.com/MSHR-Dec/MSHR-Doc/stargazers)
 [Mozart409/.dotfiles](https://github.com/Mozart409/.dotfiles) | [0](https://github.com/Mozart409/.dotfiles/stargazers)
