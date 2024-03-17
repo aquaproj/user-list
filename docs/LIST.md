@@ -1,16 +1,16 @@
-_The last update: [2024-03-16T01:00:05Z](https://github.com/aquaproj/user-list/actions/runs/8304103958)_
+_The last update: [2024-03-17T01:03:13Z](https://github.com/aquaproj/user-list/actions/runs/8311829772)_
 
-The number of repositories: 395
+The number of repositories: 396
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20896](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20902](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [975](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [665](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [666](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [396](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [354](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [231](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [185](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [186](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [177](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [84](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [70](https://github.com/aquaproj/aqua-registry/stargazers)
@@ -20,7 +20,7 @@ Repository | :star: The number of GitHub stars
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [34](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [33](https://github.com/suzuki-shunsuke/pinact/stargazers)
-[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [29](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
+[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [30](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [26](https://github.com/cybozu-go/accurate/stargazers)
 [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [24](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [masterpointio/terraform-aws-ssm-agent](https://github.com/masterpointio/terraform-aws-ssm-agent) | [23](https://github.com/masterpointio/terraform-aws-ssm-agent/stargazers)
@@ -351,6 +351,7 @@ Repository | :star: The number of GitHub stars
 [s3mPr1linux/TRIVY_FORK](https://github.com/s3mPr1linux/TRIVY_FORK) | [0](https://github.com/s3mPr1linux/TRIVY_FORK/stargazers)
 [scottames/dots](https://github.com/scottames/dots) | [0](https://github.com/scottames/dots/stargazers)
 [sheldonhull/az-pr](https://github.com/sheldonhull/az-pr) | [0](https://github.com/sheldonhull/az-pr/stargazers)
+[sheldonhull/daggerverse](https://github.com/sheldonhull/daggerverse) | [0](https://github.com/sheldonhull/daggerverse/stargazers)
 [sheldonhull/digital-garden](https://github.com/sheldonhull/digital-garden) | [0](https://github.com/sheldonhull/digital-garden/stargazers)
 [sheldonhull/vagrant](https://github.com/sheldonhull/vagrant) | [0](https://github.com/sheldonhull/vagrant/stargazers)
 [shirou/tfaction-test](https://github.com/shirou/tfaction-test) | [0](https://github.com/shirou/tfaction-test/stargazers)
