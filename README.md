@@ -10,17 +10,17 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-03-18T01:00:27Z](https://github.com/aquaproj/user-list/actions/runs/8319682480)_
+_The last update: [2024-03-19T01:01:21Z](https://github.com/aquaproj/user-list/actions/runs/8335844689)_
 
-The number of repositories: 398
+The number of repositories: 397
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20910](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [975](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [666](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20919](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [978](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [667](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [396](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [354](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [355](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [231](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [187](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [177](https://github.com/budimanjojo/dotfiles/stargazers)
@@ -204,6 +204,7 @@ Repository | :star: The number of GitHub stars
 [m1yam0t0/dotfiles](https://github.com/m1yam0t0/dotfiles) | [1](https://github.com/m1yam0t0/dotfiles/stargazers)
 [masterpointio/taskit](https://github.com/masterpointio/taskit) | [1](https://github.com/masterpointio/taskit/stargazers)
 [mdallaire/dotfiles](https://github.com/mdallaire/dotfiles) | [1](https://github.com/mdallaire/dotfiles/stargazers)
+[megabyte-labs/megabyte.space-docs](https://github.com/megabyte-labs/megabyte.space-docs) | [1](https://github.com/megabyte-labs/megabyte.space-docs/stargazers)
 [miscord-dev/cluster-api-byoh-both](https://github.com/miscord-dev/cluster-api-byoh-both) | [1](https://github.com/miscord-dev/cluster-api-byoh-both/stargazers)
 [nakamasato/github-actions-practice](https://github.com/nakamasato/github-actions-practice) | [1](https://github.com/nakamasato/github-actions-practice/stargazers)
 [nipuna-perera/dotfiles](https://github.com/nipuna-perera/dotfiles) | [1](https://github.com/nipuna-perera/dotfiles/stargazers)
@@ -313,11 +314,9 @@ Repository | :star: The number of GitHub stars
 [m22r/terraform-demo](https://github.com/m22r/terraform-demo) | [0](https://github.com/m22r/terraform-demo/stargazers)
 [mab/dotfiles](https://github.com/mab/dotfiles) | [0](https://github.com/mab/dotfiles/stargazers)
 [mananyuki/dotfiles](https://github.com/mananyuki/dotfiles) | [0](https://github.com/mananyuki/dotfiles/stargazers)
-[massat/bootstrap](https://github.com/massat/bootstrap) | [0](https://github.com/massat/bootstrap/stargazers)
 [masterpointio/terraform-datadog-users](https://github.com/masterpointio/terraform-datadog-users) | [0](https://github.com/masterpointio/terraform-datadog-users/stargazers)
 [masterpointio/terraform-module-template](https://github.com/masterpointio/terraform-module-template) | [0](https://github.com/masterpointio/terraform-module-template/stargazers)
 [matchan26/wordpress-infra](https://github.com/matchan26/wordpress-infra) | [0](https://github.com/matchan26/wordpress-infra/stargazers)
-[megabyte-labs/megabyte.space-docs](https://github.com/megabyte-labs/megabyte.space-docs) | [0](https://github.com/megabyte-labs/megabyte.space-docs/stargazers)
 [mikutas/dotfiles](https://github.com/mikutas/dotfiles) | [0](https://github.com/mikutas/dotfiles/stargazers)
 [mikutas/grpc-go-helloworld](https://github.com/mikutas/grpc-go-helloworld) | [0](https://github.com/mikutas/grpc-go-helloworld/stargazers)
 [mikutas/helm-cronjob](https://github.com/mikutas/helm-cronjob) | [0](https://github.com/mikutas/helm-cronjob/stargazers)
