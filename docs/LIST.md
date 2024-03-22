@@ -1,12 +1,12 @@
-_The last update: [2024-03-21T01:02:41Z](https://github.com/aquaproj/user-list/actions/runs/8368031550)_
+_The last update: [2024-03-22T00:59:16Z](https://github.com/aquaproj/user-list/actions/runs/8383835173)_
 
-The number of repositories: 399
+The number of repositories: 401
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20936](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [981](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [668](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [20953](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [984](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [669](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [397](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [357](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [231](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -14,7 +14,7 @@ Repository | :star: The number of GitHub stars
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [179](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [85](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [70](https://github.com/aquaproj/aqua-registry/stargazers)
-[zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [60](https://github.com/zoetrope/kubebuilder-training/stargazers)
+[zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [61](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [58](https://github.com/megabyte-labs/install.doctor/stargazers)
 [devxp-tech/gitops](https://github.com/devxp-tech/gitops) | [35](https://github.com/devxp-tech/gitops/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
@@ -168,6 +168,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/example-update-checksum](https://github.com/aquaproj/example-update-checksum) | [1](https://github.com/aquaproj/example-update-checksum/stargazers)
 [aquaproj/template-private-aqua-registry](https://github.com/aquaproj/template-private-aqua-registry) | [1](https://github.com/aquaproj/template-private-aqua-registry/stargazers)
 [aquaproj/test-aqua-renovate-config](https://github.com/aquaproj/test-aqua-renovate-config) | [1](https://github.com/aquaproj/test-aqua-renovate-config/stargazers)
+[corrupt952/dotfiles](https://github.com/corrupt952/dotfiles) | [1](https://github.com/corrupt952/dotfiles/stargazers)
 [corrupt952/revealer](https://github.com/corrupt952/revealer) | [1](https://github.com/corrupt952/revealer/stargazers)
 [corrupt952/sandbox](https://github.com/corrupt952/sandbox) | [1](https://github.com/corrupt952/sandbox/stargazers)
 [cybozu-go/necotiator](https://github.com/cybozu-go/necotiator) | [1](https://github.com/cybozu-go/necotiator/stargazers)
@@ -254,6 +255,7 @@ Repository | :star: The number of GitHub stars
 [bpillatsch/dotfiles](https://github.com/bpillatsch/dotfiles) | [0](https://github.com/bpillatsch/dotfiles/stargazers)
 [cal324/apps](https://github.com/cal324/apps) | [0](https://github.com/cal324/apps/stargazers)
 [cappyzawa/markdown-view](https://github.com/cappyzawa/markdown-view) | [0](https://github.com/cappyzawa/markdown-view/stargazers)
+[cbc02009/dotfiles](https://github.com/cbc02009/dotfiles) | [0](https://github.com/cbc02009/dotfiles/stargazers)
 [corrupt952/beestrap](https://github.com/corrupt952/beestrap) | [0](https://github.com/corrupt952/beestrap/stargazers)
 [corrupt952/closest](https://github.com/corrupt952/closest) | [0](https://github.com/corrupt952/closest/stargazers)
 [corrupt952/home](https://github.com/corrupt952/home) | [0](https://github.com/corrupt952/home/stargazers)
