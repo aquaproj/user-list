@@ -1,20 +1,20 @@
-_The last update: [2024-03-27T01:03:32Z](https://github.com/aquaproj/user-list/actions/runs/8445009110)_
+_The last update: [2024-03-28T01:04:15Z](https://github.com/aquaproj/user-list/actions/runs/8460796748)_
 
-The number of repositories: 405
+The number of repositories: 403
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21008](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [994](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21023](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [996](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [673](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [397](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [361](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [232](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [234](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [187](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [181](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [88](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [70](https://github.com/aquaproj/aqua-registry/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [66](https://github.com/megabyte-labs/install.doctor/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [67](https://github.com/megabyte-labs/install.doctor/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [61](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [38](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [devxp-tech/gitops](https://github.com/devxp-tech/gitops) | [35](https://github.com/devxp-tech/gitops/stargazers)
@@ -24,7 +24,7 @@ Repository | :star: The number of GitHub stars
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [28](https://github.com/cybozu-go/accurate/stargazers)
 [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [24](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [masterpointio/terraform-aws-ssm-agent](https://github.com/masterpointio/terraform-aws-ssm-agent) | [23](https://github.com/masterpointio/terraform-aws-ssm-agent/stargazers)
-[suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [21](https://github.com/suzuki-shunsuke/ghalint/stargazers)
+[suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [23](https://github.com/suzuki-shunsuke/ghalint/stargazers)
 [fujiwara/cfft](https://github.com/fujiwara/cfft) | [19](https://github.com/fujiwara/cfft/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [18](https://github.com/4513ECHO/dotfiles/stargazers)
 [castaneai/minimatch](https://github.com/castaneai/minimatch) | [18](https://github.com/castaneai/minimatch/stargazers)
@@ -116,6 +116,7 @@ Repository | :star: The number of GitHub stars
 [4513ECHO/aqua-picker](https://github.com/4513ECHO/aqua-picker) | [2](https://github.com/4513ECHO/aqua-picker/stargazers)
 [4513ECHO/sqlc-gen-deno-postgres](https://github.com/4513ECHO/sqlc-gen-deno-postgres) | [2](https://github.com/4513ECHO/sqlc-gen-deno-postgres/stargazers)
 [DelineaXPM/github-workflows](https://github.com/DelineaXPM/github-workflows) | [2](https://github.com/DelineaXPM/github-workflows/stargazers)
+[Taiki130/ecsexec](https://github.com/Taiki130/ecsexec) | [2](https://github.com/Taiki130/ecsexec/stargazers)
 [YunosukeY/policy-for-pss](https://github.com/YunosukeY/policy-for-pss) | [2](https://github.com/YunosukeY/policy-for-pss/stargazers)
 [aquaproj/aqua-proxy](https://github.com/aquaproj/aqua-proxy) | [2](https://github.com/aquaproj/aqua-proxy/stargazers)
 [aquaproj/example-update-checksum-public](https://github.com/aquaproj/example-update-checksum-public) | [2](https://github.com/aquaproj/example-update-checksum-public/stargazers)
@@ -162,14 +163,12 @@ Repository | :star: The number of GitHub stars
 [CrystalMethod/dotfiles](https://github.com/CrystalMethod/dotfiles) | [1](https://github.com/CrystalMethod/dotfiles/stargazers)
 [Groupe-Hevea/tools-aquaproj](https://github.com/Groupe-Hevea/tools-aquaproj) | [1](https://github.com/Groupe-Hevea/tools-aquaproj/stargazers)
 [IdiosApps/IdiosApps.github.io](https://github.com/IdiosApps/IdiosApps.github.io) | [1](https://github.com/IdiosApps/IdiosApps.github.io/stargazers)
-[Taiki130/ecsexec](https://github.com/Taiki130/ecsexec) | [1](https://github.com/Taiki130/ecsexec/stargazers)
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [1](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground) | [1](https://github.com/YunosukeY/k8s-monitoring-playground/stargazers)
 [air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [1](https://github.com/air-hand/dotfiles/stargazers)
 [aquaproj/aqua-registry-updater](https://github.com/aquaproj/aqua-registry-updater) | [1](https://github.com/aquaproj/aqua-registry-updater/stargazers)
 [aquaproj/demo](https://github.com/aquaproj/demo) | [1](https://github.com/aquaproj/demo/stargazers)
 [aquaproj/example-update-checksum](https://github.com/aquaproj/example-update-checksum) | [1](https://github.com/aquaproj/example-update-checksum/stargazers)
-[aquaproj/template-private-aqua-registry](https://github.com/aquaproj/template-private-aqua-registry) | [1](https://github.com/aquaproj/template-private-aqua-registry/stargazers)
 [aquaproj/test-aqua-renovate-config](https://github.com/aquaproj/test-aqua-renovate-config) | [1](https://github.com/aquaproj/test-aqua-renovate-config/stargazers)
 [corrupt952/dotfiles](https://github.com/corrupt952/dotfiles) | [1](https://github.com/corrupt952/dotfiles/stargazers)
 [corrupt952/revealer](https://github.com/corrupt952/revealer) | [1](https://github.com/corrupt952/revealer/stargazers)
@@ -371,7 +370,6 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/example-aqua-update-checksum](https://github.com/suzuki-shunsuke/example-aqua-update-checksum) | [0](https://github.com/suzuki-shunsuke/example-aqua-update-checksum/stargazers)
 [suzuki-shunsuke/example-cue-k8s](https://github.com/suzuki-shunsuke/example-cue-k8s) | [0](https://github.com/suzuki-shunsuke/example-cue-k8s/stargazers)
 [suzuki-shunsuke/example-earthly-terraform](https://github.com/suzuki-shunsuke/example-earthly-terraform) | [0](https://github.com/suzuki-shunsuke/example-earthly-terraform/stargazers)
-[suzuki-shunsuke/goreleaser-windows-test](https://github.com/suzuki-shunsuke/goreleaser-windows-test) | [0](https://github.com/suzuki-shunsuke/goreleaser-windows-test/stargazers)
 [suzuki-shunsuke/test-aqua-registry-2](https://github.com/suzuki-shunsuke/test-aqua-registry-2) | [0](https://github.com/suzuki-shunsuke/test-aqua-registry-2/stargazers)
 [suzuki-shunsuke/test-cosign-keyless-aqua](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua) | [0](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua/stargazers)
 [suzuki-shunsuke/test-cosign-keyless-aqua-installer](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua-installer) | [0](https://github.com/suzuki-shunsuke/test-cosign-keyless-aqua-installer/stargazers)
