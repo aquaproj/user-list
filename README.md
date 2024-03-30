@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-03-29T01:05:38Z](https://github.com/aquaproj/user-list/actions/runs/8475685786)_
+_The last update: [2024-03-30T00:59:27Z](https://github.com/aquaproj/user-list/actions/runs/8487184678)_
 
-The number of repositories: 403
+The number of repositories: 405
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21029](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1001](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21042](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1003](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [674](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [397](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [364](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -26,7 +26,7 @@ Repository | :star: The number of GitHub stars
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [182](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [88](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [70](https://github.com/aquaproj/aqua-registry/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [67](https://github.com/megabyte-labs/install.doctor/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [69](https://github.com/megabyte-labs/install.doctor/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [61](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [38](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [devxp-tech/gitops](https://github.com/devxp-tech/gitops) | [35](https://github.com/devxp-tech/gitops/stargazers)
@@ -229,6 +229,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-renovate-2](https://github.com/suzuki-shunsuke/test-renovate-2) | [1](https://github.com/suzuki-shunsuke/test-renovate-2/stargazers)
 [suzuki-shunsuke/tfaction-go](https://github.com/suzuki-shunsuke/tfaction-go) | [1](https://github.com/suzuki-shunsuke/tfaction-go/stargazers)
 [takumin/ykmgr](https://github.com/takumin/ykmgr) | [1](https://github.com/takumin/ykmgr/stargazers)
+[tinyrange/pkg2](https://github.com/tinyrange/pkg2) | [1](https://github.com/tinyrange/pkg2/stargazers)
 [truxnell/dotfiles](https://github.com/truxnell/dotfiles) | [1](https://github.com/truxnell/dotfiles/stargazers)
 [unterwegi/dotfiles](https://github.com/unterwegi/dotfiles) | [1](https://github.com/unterwegi/dotfiles/stargazers)
 [vterdunov/frs-k8s-fleet](https://github.com/vterdunov/frs-k8s-fleet) | [1](https://github.com/vterdunov/frs-k8s-fleet/stargazers)
@@ -351,6 +352,7 @@ Repository | :star: The number of GitHub stars
 [otakakot/gonew](https://github.com/otakakot/gonew) | [0](https://github.com/otakakot/gonew/stargazers)
 [otakakot/ninshow](https://github.com/otakakot/ninshow) | [0](https://github.com/otakakot/ninshow/stargazers)
 [otakakot/playground-github-actions](https://github.com/otakakot/playground-github-actions) | [0](https://github.com/otakakot/playground-github-actions/stargazers)
+[otakakot/repository-dispatch](https://github.com/otakakot/repository-dispatch) | [0](https://github.com/otakakot/repository-dispatch/stargazers)
 [otakakot/sample-go-four-layered-architecture](https://github.com/otakakot/sample-go-four-layered-architecture) | [0](https://github.com/otakakot/sample-go-four-layered-architecture/stargazers)
 [otakakot/sample-go-github-actions](https://github.com/otakakot/sample-go-github-actions) | [0](https://github.com/otakakot/sample-go-github-actions/stargazers)
 [otakakot/sample-kubernetes-secret](https://github.com/otakakot/sample-kubernetes-secret) | [0](https://github.com/otakakot/sample-kubernetes-secret/stargazers)
