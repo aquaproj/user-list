@@ -1,10 +1,10 @@
-_The last update: [2024-03-31T01:06:08Z](https://github.com/aquaproj/user-list/actions/runs/8494650452)_
+_The last update: [2024-04-01T01:07:52Z](https://github.com/aquaproj/user-list/actions/runs/8502280102)_
 
 The number of repositories: 405
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21050](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21058](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1004](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [674](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [397](https://github.com/so-dang-cool/dt/stargazers)
@@ -75,6 +75,7 @@ Repository | :star: The number of GitHub stars
 [cybozu-go/cat-gate](https://github.com/cybozu-go/cat-gate) | [5](https://github.com/cybozu-go/cat-gate/stargazers)
 [mimikun/dotfiles](https://github.com/mimikun/dotfiles) | [5](https://github.com/mimikun/dotfiles/stargazers)
 [srynot4sale/dotfiles](https://github.com/srynot4sale/dotfiles) | [5](https://github.com/srynot4sale/dotfiles/stargazers)
+[suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) | [5](https://github.com/suzuki-shunsuke/pinact-action/stargazers)
 [zoetrope/kubbernecker](https://github.com/zoetrope/kubbernecker) | [5](https://github.com/zoetrope/kubbernecker/stargazers)
 [DelineaXPM/ansible-core-collection](https://github.com/DelineaXPM/ansible-core-collection) | [4](https://github.com/DelineaXPM/ansible-core-collection/stargazers)
 [aquaproj/user-list](https://github.com/aquaproj/user-list) | [4](https://github.com/aquaproj/user-list/stargazers)
@@ -92,7 +93,6 @@ Repository | :star: The number of GitHub stars
 [sheldonhull/scripts-to-rule-them-all-go](https://github.com/sheldonhull/scripts-to-rule-them-all-go) | [4](https://github.com/sheldonhull/scripts-to-rule-them-all-go/stargazers)
 [suzuki-shunsuke/go-dataeq](https://github.com/suzuki-shunsuke/go-dataeq) | [4](https://github.com/suzuki-shunsuke/go-dataeq/stargazers)
 [suzuki-shunsuke/go-findconfig](https://github.com/suzuki-shunsuke/go-findconfig) | [4](https://github.com/suzuki-shunsuke/go-findconfig/stargazers)
-[suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) | [4](https://github.com/suzuki-shunsuke/pinact-action/stargazers)
 [suzuki-shunsuke/renovate-config](https://github.com/suzuki-shunsuke/renovate-config) | [4](https://github.com/suzuki-shunsuke/renovate-config/stargazers)
 [suzuki-shunsuke/terraform-aws-tfaction](https://github.com/suzuki-shunsuke/terraform-aws-tfaction) | [4](https://github.com/suzuki-shunsuke/terraform-aws-tfaction/stargazers)
 [sylus/dotfiles](https://github.com/sylus/dotfiles) | [4](https://github.com/sylus/dotfiles/stargazers)
@@ -152,6 +152,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/zerolog-error](https://github.com/suzuki-shunsuke/zerolog-error) | [2](https://github.com/suzuki-shunsuke/zerolog-error/stargazers)
 [suzutan/infra](https://github.com/suzutan/infra) | [2](https://github.com/suzutan/infra/stargazers)
 [techblog-szksh-cloud/techblog-szksh-cloud.github.io](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io) | [2](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io/stargazers)
+[tinyrange/pkg2](https://github.com/tinyrange/pkg2) | [2](https://github.com/tinyrange/pkg2/stargazers)
 [tosuke/dotfiles](https://github.com/tosuke/dotfiles) | [2](https://github.com/tosuke/dotfiles/stargazers)
 [uta8a/dotfiles](https://github.com/uta8a/dotfiles) | [2](https://github.com/uta8a/dotfiles/stargazers)
 [wim-web/xpx](https://github.com/wim-web/xpx) | [2](https://github.com/wim-web/xpx/stargazers)
@@ -217,7 +218,6 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-renovate-2](https://github.com/suzuki-shunsuke/test-renovate-2) | [1](https://github.com/suzuki-shunsuke/test-renovate-2/stargazers)
 [suzuki-shunsuke/tfaction-go](https://github.com/suzuki-shunsuke/tfaction-go) | [1](https://github.com/suzuki-shunsuke/tfaction-go/stargazers)
 [takumin/ykmgr](https://github.com/takumin/ykmgr) | [1](https://github.com/takumin/ykmgr/stargazers)
-[tinyrange/pkg2](https://github.com/tinyrange/pkg2) | [1](https://github.com/tinyrange/pkg2/stargazers)
 [truxnell/dotfiles](https://github.com/truxnell/dotfiles) | [1](https://github.com/truxnell/dotfiles/stargazers)
 [unterwegi/dotfiles](https://github.com/unterwegi/dotfiles) | [1](https://github.com/unterwegi/dotfiles/stargazers)
 [vterdunov/frs-k8s-fleet](https://github.com/vterdunov/frs-k8s-fleet) | [1](https://github.com/vterdunov/frs-k8s-fleet/stargazers)
