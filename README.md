@@ -10,23 +10,23 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-05-15T01:11:38Z](https://github.com/aquaproj/user-list/actions/runs/9088363903)_
+_The last update: [2024-05-16T01:07:33Z](https://github.com/aquaproj/user-list/actions/runs/9104810584)_
 
-The number of repositories: 422
+The number of repositories: 423
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21541](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1063](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [712](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21558](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1064](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [714](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [401](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [370](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [244](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [196](https://github.com/ddddddO/gtree/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [190](https://github.com/budimanjojo/dotfiles/stargazers)
+[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [191](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [92](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [81](https://github.com/DeNA/unity-meta-check/stargazers)
-[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [80](https://github.com/aquaproj/aqua-registry/stargazers)
+[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [81](https://github.com/aquaproj/aqua-registry/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [79](https://github.com/megabyte-labs/install.doctor/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [63](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [47](https://github.com/suzuki-shunsuke/pinact/stargazers)
@@ -35,19 +35,19 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [35](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [35](https://github.com/tfmigrator/cli/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [34](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
-[cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [30](https://github.com/cybozu-go/accurate/stargazers)
+[cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [31](https://github.com/cybozu-go/accurate/stargazers)
 [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [25](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [masterpointio/terraform-aws-ssm-agent](https://github.com/masterpointio/terraform-aws-ssm-agent) | [24](https://github.com/masterpointio/terraform-aws-ssm-agent/stargazers)
 [fujiwara/cfft](https://github.com/fujiwara/cfft) | [22](https://github.com/fujiwara/cfft/stargazers)
 [castaneai/minimatch](https://github.com/castaneai/minimatch) | [20](https://github.com/castaneai/minimatch/stargazers)
 [suzuki-shunsuke/cmdx](https://github.com/suzuki-shunsuke/cmdx) | [20](https://github.com/suzuki-shunsuke/cmdx/stargazers)
 [4513ECHO/dotfiles](https://github.com/4513ECHO/dotfiles) | [18](https://github.com/4513ECHO/dotfiles/stargazers)
+[aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [18](https://github.com/aquaproj/aqua-installer/stargazers)
 [ethanjli/dotfiles](https://github.com/ethanjli/dotfiles) | [18](https://github.com/ethanjli/dotfiles/stargazers)
 [suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [18](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [18](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [zephyros-dev/docker-koreader](https://github.com/zephyros-dev/docker-koreader) | [18](https://github.com/zephyros-dev/docker-koreader/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [17](https://github.com/DelineaXPM/dsv-cli/stargazers)
-[aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [17](https://github.com/aquaproj/aqua-installer/stargazers)
 [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) | [17](https://github.com/yasunori0418/dotfiles/stargazers)
 [ryoppippi/dotfiles](https://github.com/ryoppippi/dotfiles) | [14](https://github.com/ryoppippi/dotfiles/stargazers)
 [DelineaXPM/dsv-k8s](https://github.com/DelineaXPM/dsv-k8s) | [13](https://github.com/DelineaXPM/dsv-k8s/stargazers)
@@ -97,6 +97,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/terraform-aws-tfaction](https://github.com/suzuki-shunsuke/terraform-aws-tfaction) | [5](https://github.com/suzuki-shunsuke/terraform-aws-tfaction/stargazers)
 [zoetrope/kubbernecker](https://github.com/zoetrope/kubbernecker) | [5](https://github.com/zoetrope/kubbernecker/stargazers)
 [DelineaXPM/ansible-core-collection](https://github.com/DelineaXPM/ansible-core-collection) | [4](https://github.com/DelineaXPM/ansible-core-collection/stargazers)
+[Omochice/tataku.vim](https://github.com/Omochice/tataku.vim) | [4](https://github.com/Omochice/tataku.vim/stargazers)
 [aquaproj/user-list](https://github.com/aquaproj/user-list) | [4](https://github.com/aquaproj/user-list/stargazers)
 [castaneai/openmatch-local-dev](https://github.com/castaneai/openmatch-local-dev) | [4](https://github.com/castaneai/openmatch-local-dev/stargazers)
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
