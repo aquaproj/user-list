@@ -1,12 +1,12 @@
-_The last update: [2024-05-19T01:10:28Z](https://github.com/aquaproj/user-list/actions/runs/9143937735)_
+_The last update: [2024-05-20T01:07:26Z](https://github.com/aquaproj/user-list/actions/runs/9151932234)_
 
-The number of repositories: 427
+The number of repositories: 426
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21580](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21588](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1066](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [717](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [719](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [402](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [371](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [244](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -34,7 +34,6 @@ Repository | :star: The number of GitHub stars
 [aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [18](https://github.com/aquaproj/aqua-installer/stargazers)
 [suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [18](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [18](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
-[zephyros-dev/docker-koreader](https://github.com/zephyros-dev/docker-koreader) | [18](https://github.com/zephyros-dev/docker-koreader/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [17](https://github.com/DelineaXPM/dsv-cli/stargazers)
 [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) | [17](https://github.com/yasunori0418/dotfiles/stargazers)
 [ryoppippi/dotfiles](https://github.com/ryoppippi/dotfiles) | [14](https://github.com/ryoppippi/dotfiles/stargazers)
@@ -190,6 +189,7 @@ Repository | :star: The number of GitHub stars
 [corrupt952/sandbox](https://github.com/corrupt952/sandbox) | [1](https://github.com/corrupt952/sandbox/stargazers)
 [cybozu-go/necotiator](https://github.com/cybozu-go/necotiator) | [1](https://github.com/cybozu-go/necotiator/stargazers)
 [cybozu-go/nyamber](https://github.com/cybozu-go/nyamber) | [1](https://github.com/cybozu-go/nyamber/stargazers)
+[defaultcf/fanboxsync](https://github.com/defaultcf/fanboxsync) | [1](https://github.com/defaultcf/fanboxsync/stargazers)
 [devops-actions/github-actions-marketplace-news](https://github.com/devops-actions/github-actions-marketplace-news) | [1](https://github.com/devops-actions/github-actions-marketplace-news/stargazers)
 [dfroberg/dotfiles](https://github.com/dfroberg/dotfiles) | [1](https://github.com/dfroberg/dotfiles/stargazers)
 [entooone/dotfiles](https://github.com/entooone/dotfiles) | [1](https://github.com/entooone/dotfiles/stargazers)
@@ -287,7 +287,6 @@ Repository | :star: The number of GitHub stars
 [d-kuro/dotfiles](https://github.com/d-kuro/dotfiles) | [0](https://github.com/d-kuro/dotfiles/stargazers)
 [d-kuro/test](https://github.com/d-kuro/test) | [0](https://github.com/d-kuro/test/stargazers)
 [da-moon/chromeos-setup](https://github.com/da-moon/chromeos-setup) | [0](https://github.com/da-moon/chromeos-setup/stargazers)
-[defaultcf/fanboxsync](https://github.com/defaultcf/fanboxsync) | [0](https://github.com/defaultcf/fanboxsync/stargazers)
 [dungdm93/dotfiles](https://github.com/dungdm93/dotfiles) | [0](https://github.com/dungdm93/dotfiles/stargazers)
 [ebesson/dotfiles](https://github.com/ebesson/dotfiles) | [0](https://github.com/ebesson/dotfiles/stargazers)
 [elecdeer/dotfiles](https://github.com/elecdeer/dotfiles) | [0](https://github.com/elecdeer/dotfiles/stargazers)
