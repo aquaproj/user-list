@@ -10,17 +10,17 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-05-20T01:07:26Z](https://github.com/aquaproj/user-list/actions/runs/9151932234)_
+_The last update: [2024-05-21T01:06:04Z](https://github.com/aquaproj/user-list/actions/runs/9167156531)_
 
-The number of repositories: 426
+The number of repositories: 425
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21588](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1066](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21601](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1069](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [719](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [402](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [371](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [372](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [244](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [198](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [191](https://github.com/budimanjojo/dotfiles/stargazers)
@@ -355,7 +355,6 @@ Repository | :star: The number of GitHub stars
 [mitsu-yuki/dotfiles](https://github.com/mitsu-yuki/dotfiles) | [0](https://github.com/mitsu-yuki/dotfiles/stargazers)
 [morning-night-dream/oidc](https://github.com/morning-night-dream/oidc) | [0](https://github.com/morning-night-dream/oidc/stargazers)
 [morning-night-guild/platform-infra](https://github.com/morning-night-guild/platform-infra) | [0](https://github.com/morning-night-guild/platform-infra/stargazers)
-[mouse484/dotfiles](https://github.com/mouse484/dotfiles) | [0](https://github.com/mouse484/dotfiles/stargazers)
 [murn0/auto-add-labels-workflow](https://github.com/murn0/auto-add-labels-workflow) | [0](https://github.com/murn0/auto-add-labels-workflow/stargazers)
 [murn0/dotfiles](https://github.com/murn0/dotfiles) | [0](https://github.com/murn0/dotfiles/stargazers)
 [murn0/generate-release-workflow](https://github.com/murn0/generate-release-workflow) | [0](https://github.com/murn0/generate-release-workflow/stargazers)
