@@ -1,12 +1,12 @@
-_The last update: [2024-05-24T01:06:49Z](https://github.com/aquaproj/user-list/actions/runs/9217010589)_
+_The last update: [2024-05-25T01:07:00Z](https://github.com/aquaproj/user-list/actions/runs/9231688639)_
 
-The number of repositories: 429
+The number of repositories: 426
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21636](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1073](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [721](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21651](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1074](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [722](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [402](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [372](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [244](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -17,7 +17,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [81](https://github.com/aquaproj/aqua-registry/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [79](https://github.com/megabyte-labs/install.doctor/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [63](https://github.com/zoetrope/kubebuilder-training/stargazers)
-[suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [49](https://github.com/suzuki-shunsuke/pinact/stargazers)
+[suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [50](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [42](https://github.com/suzuki-shunsuke/ghalint/stargazers)
 [devxp-tech/gitops](https://github.com/devxp-tech/gitops) | [36](https://github.com/devxp-tech/gitops/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [35](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
@@ -143,7 +143,6 @@ Repository | :star: The number of GitHub stars
 [lintnet/go-jsonnet-native-functions](https://github.com/lintnet/go-jsonnet-native-functions) | [2](https://github.com/lintnet/go-jsonnet-native-functions/stargazers)
 [lintnet/lintnet](https://github.com/lintnet/lintnet) | [2](https://github.com/lintnet/lintnet/stargazers)
 [nakamasato/github-actions-practice](https://github.com/nakamasato/github-actions-practice) | [2](https://github.com/nakamasato/github-actions-practice/stargazers)
-[ousttrue/dotfiles](https://github.com/ousttrue/dotfiles) | [2](https://github.com/ousttrue/dotfiles/stargazers)
 [potsbo/dotfiles](https://github.com/potsbo/dotfiles) | [2](https://github.com/potsbo/dotfiles/stargazers)
 [suzuki-shunsuke/actionlint-workflow](https://github.com/suzuki-shunsuke/actionlint-workflow) | [2](https://github.com/suzuki-shunsuke/actionlint-workflow/stargazers)
 [suzuki-shunsuke/ci-info-action](https://github.com/suzuki-shunsuke/ci-info-action) | [2](https://github.com/suzuki-shunsuke/ci-info-action/stargazers)
@@ -174,7 +173,6 @@ Repository | :star: The number of GitHub stars
 [44smkn/google-apps-scripts](https://github.com/44smkn/google-apps-scripts) | [1](https://github.com/44smkn/google-apps-scripts/stargazers)
 [CrystalMethod/aqua-meets-updatecli](https://github.com/CrystalMethod/aqua-meets-updatecli) | [1](https://github.com/CrystalMethod/aqua-meets-updatecli/stargazers)
 [Groupe-Hevea/tools-aquaproj](https://github.com/Groupe-Hevea/tools-aquaproj) | [1](https://github.com/Groupe-Hevea/tools-aquaproj/stargazers)
-[IdiosApps/IdiosApps.github.io](https://github.com/IdiosApps/IdiosApps.github.io) | [1](https://github.com/IdiosApps/IdiosApps.github.io/stargazers)
 [Omochice/Omochice](https://github.com/Omochice/Omochice) | [1](https://github.com/Omochice/Omochice/stargazers)
 [Omochice/blog](https://github.com/Omochice/blog) | [1](https://github.com/Omochice/blog/stargazers)
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [1](https://github.com/YunosukeY/exsqus/stargazers)
@@ -204,6 +202,7 @@ Repository | :star: The number of GitHub stars
 [honahuku/manifest](https://github.com/honahuku/manifest) | [1](https://github.com/honahuku/manifest/stargazers)
 [int128/conftest-docker-hub-image-pull-secrets](https://github.com/int128/conftest-docker-hub-image-pull-secrets) | [1](https://github.com/int128/conftest-docker-hub-image-pull-secrets/stargazers)
 [itiB/dotfiles](https://github.com/itiB/dotfiles) | [1](https://github.com/itiB/dotfiles/stargazers)
+[james-s-w-clark/james-s-w-clark.github.io](https://github.com/james-s-w-clark/james-s-w-clark.github.io) | [1](https://github.com/james-s-w-clark/james-s-w-clark.github.io/stargazers)
 [joeblew99/gio-htmx](https://github.com/joeblew99/gio-htmx) | [1](https://github.com/joeblew99/gio-htmx/stargazers)
 [lintnet/examples](https://github.com/lintnet/examples) | [1](https://github.com/lintnet/examples/stargazers)
 [lintnet/lintnet.github.io](https://github.com/lintnet/lintnet.github.io) | [1](https://github.com/lintnet/lintnet.github.io/stargazers)
@@ -259,7 +258,6 @@ Repository | :star: The number of GitHub stars
 [OGKevin/dotfiles](https://github.com/OGKevin/dotfiles) | [0](https://github.com/OGKevin/dotfiles/stargazers)
 [Omochice/heart-of-crown-randomizer](https://github.com/Omochice/heart-of-crown-randomizer) | [0](https://github.com/Omochice/heart-of-crown-randomizer/stargazers)
 [Omochice/json-schema-validator](https://github.com/Omochice/json-schema-validator) | [0](https://github.com/Omochice/json-schema-validator/stargazers)
-[Omochice/oil-nerdfont](https://github.com/Omochice/oil-nerdfont) | [0](https://github.com/Omochice/oil-nerdfont/stargazers)
 [Omochice/toy-swift](https://github.com/Omochice/toy-swift) | [0](https://github.com/Omochice/toy-swift/stargazers)
 [OrganizedMayhem/dotfiles](https://github.com/OrganizedMayhem/dotfiles) | [0](https://github.com/OrganizedMayhem/dotfiles/stargazers)
 [PGUMA/go-project-template](https://github.com/PGUMA/go-project-template) | [0](https://github.com/PGUMA/go-project-template/stargazers)
@@ -358,7 +356,6 @@ Repository | :star: The number of GitHub stars
 [nakatanakatana/dotfiles](https://github.com/nakatanakatana/dotfiles) | [0](https://github.com/nakatanakatana/dotfiles/stargazers)
 [newbie1223/go_cli](https://github.com/newbie1223/go_cli) | [0](https://github.com/newbie1223/go_cli/stargazers)
 [newtestorgmahi/trivy-test](https://github.com/newtestorgmahi/trivy-test) | [0](https://github.com/newtestorgmahi/trivy-test/stargazers)
-[officel/config_aqua](https://github.com/officel/config_aqua) | [0](https://github.com/officel/config_aqua/stargazers)
 [orangekame3/dotfiles](https://github.com/orangekame3/dotfiles) | [0](https://github.com/orangekame3/dotfiles/stargazers)
 [otakakot/astrotbls](https://github.com/otakakot/astrotbls) | [0](https://github.com/otakakot/astrotbls/stargazers)
 [otakakot/ninshow](https://github.com/otakakot/ninshow) | [0](https://github.com/otakakot/ninshow/stargazers)
