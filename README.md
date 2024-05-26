@@ -10,13 +10,13 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-05-25T01:07:00Z](https://github.com/aquaproj/user-list/actions/runs/9231688639)_
+_The last update: [2024-05-26T01:10:08Z](https://github.com/aquaproj/user-list/actions/runs/9239512014)_
 
-The number of repositories: 426
+The number of repositories: 435
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21651](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21655](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1074](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [722](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [402](https://github.com/so-dang-cool/dt/stargazers)
@@ -48,9 +48,9 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [18](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [18](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) | [17](https://github.com/yasunori0418/dotfiles/stargazers)
+[aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [14](https://github.com/aquaproj/aqua-renovate-config/stargazers)
 [ryoppippi/dotfiles](https://github.com/ryoppippi/dotfiles) | [14](https://github.com/ryoppippi/dotfiles/stargazers)
 [DelineaXPM/dsv-k8s](https://github.com/DelineaXPM/dsv-k8s) | [13](https://github.com/DelineaXPM/dsv-k8s/stargazers)
-[aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [13](https://github.com/aquaproj/aqua-renovate-config/stargazers)
 [odanado/dotfiles](https://github.com/odanado/dotfiles) | [13](https://github.com/odanado/dotfiles/stargazers)
 [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) | [12](https://github.com/izumin5210/dotfiles/stargazers)
 [suzuki-shunsuke/circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [12](https://github.com/suzuki-shunsuke/circleci-config-merge/stargazers)
@@ -73,7 +73,6 @@ Repository | :star: The number of GitHub stars
 [DelineaXPM/dsv-sdk-go](https://github.com/DelineaXPM/dsv-sdk-go) | [6](https://github.com/DelineaXPM/dsv-sdk-go/stargazers)
 [DelineaXPM/python-dsv-sdk](https://github.com/DelineaXPM/python-dsv-sdk) | [6](https://github.com/DelineaXPM/python-dsv-sdk/stargazers)
 [DelineaXPM/terraform-provider-dsv](https://github.com/DelineaXPM/terraform-provider-dsv) | [6](https://github.com/DelineaXPM/terraform-provider-dsv/stargazers)
-[Omochice/renovate-config](https://github.com/Omochice/renovate-config) | [6](https://github.com/Omochice/renovate-config/stargazers)
 [ShotaKitazawa/dotfiles](https://github.com/ShotaKitazawa/dotfiles) | [6](https://github.com/ShotaKitazawa/dotfiles/stargazers)
 [adyranov/dotfiles](https://github.com/adyranov/dotfiles) | [6](https://github.com/adyranov/dotfiles/stargazers)
 [koyashiro/dotfiles](https://github.com/koyashiro/dotfiles) | [6](https://github.com/koyashiro/dotfiles/stargazers)
@@ -270,6 +269,16 @@ Repository | :star: The number of GitHub stars
 [OGKevin/dotfiles](https://github.com/OGKevin/dotfiles) | [0](https://github.com/OGKevin/dotfiles/stargazers)
 [Omochice/heart-of-crown-randomizer](https://github.com/Omochice/heart-of-crown-randomizer) | [0](https://github.com/Omochice/heart-of-crown-randomizer/stargazers)
 [Omochice/json-schema-validator](https://github.com/Omochice/json-schema-validator) | [0](https://github.com/Omochice/json-schema-validator/stargazers)
+[Omochice/tataku-collector-buffer](https://github.com/Omochice/tataku-collector-buffer) | [0](https://github.com/Omochice/tataku-collector-buffer/stargazers)
+[Omochice/tataku-collector-current_line](https://github.com/Omochice/tataku-collector-current_line) | [0](https://github.com/Omochice/tataku-collector-current_line/stargazers)
+[Omochice/tataku-emitter-nvim_floatwin](https://github.com/Omochice/tataku-emitter-nvim_floatwin) | [0](https://github.com/Omochice/tataku-emitter-nvim_floatwin/stargazers)
+[Omochice/tataku-emitter-window](https://github.com/Omochice/tataku-emitter-window) | [0](https://github.com/Omochice/tataku-emitter-window/stargazers)
+[Omochice/tataku-processor-deepl](https://github.com/Omochice/tataku-processor-deepl) | [0](https://github.com/Omochice/tataku-processor-deepl/stargazers)
+[Omochice/tataku-processor-eta](https://github.com/Omochice/tataku-processor-eta) | [0](https://github.com/Omochice/tataku-processor-eta/stargazers)
+[Omochice/tataku-processor-google_translate](https://github.com/Omochice/tataku-processor-google_translate) | [0](https://github.com/Omochice/tataku-processor-google_translate/stargazers)
+[Omochice/tataku-processor-intl_segmenter](https://github.com/Omochice/tataku-processor-intl_segmenter) | [0](https://github.com/Omochice/tataku-processor-intl_segmenter/stargazers)
+[Omochice/tataku-processor-ollama](https://github.com/Omochice/tataku-processor-ollama) | [0](https://github.com/Omochice/tataku-processor-ollama/stargazers)
+[Omochice/tataku-processor-split_by_displaywidth](https://github.com/Omochice/tataku-processor-split_by_displaywidth) | [0](https://github.com/Omochice/tataku-processor-split_by_displaywidth/stargazers)
 [Omochice/toy-swift](https://github.com/Omochice/toy-swift) | [0](https://github.com/Omochice/toy-swift/stargazers)
 [OrganizedMayhem/dotfiles](https://github.com/OrganizedMayhem/dotfiles) | [0](https://github.com/OrganizedMayhem/dotfiles/stargazers)
 [PGUMA/go-project-template](https://github.com/PGUMA/go-project-template) | [0](https://github.com/PGUMA/go-project-template/stargazers)
