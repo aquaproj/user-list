@@ -1,16 +1,16 @@
-_The last update: [2024-05-27T01:06:03Z](https://github.com/aquaproj/user-list/actions/runs/9247619160)_
+_The last update: [2024-05-28T01:04:40Z](https://github.com/aquaproj/user-list/actions/runs/9261935087)_
 
-The number of repositories: 433
+The number of repositories: 434
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21662](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1074](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21676](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1075](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [722](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [402](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [372](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [245](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [200](https://github.com/ddddddO/gtree/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [246](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [201](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [192](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [93](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [81](https://github.com/DeNA/unity-meta-check/stargazers)
@@ -174,6 +174,8 @@ Repository | :star: The number of GitHub stars
 [Groupe-Hevea/tools-aquaproj](https://github.com/Groupe-Hevea/tools-aquaproj) | [1](https://github.com/Groupe-Hevea/tools-aquaproj/stargazers)
 [Omochice/Omochice](https://github.com/Omochice/Omochice) | [1](https://github.com/Omochice/Omochice/stargazers)
 [Omochice/blog](https://github.com/Omochice/blog) | [1](https://github.com/Omochice/blog/stargazers)
+[Shion1305/kitakyusyu-hackathon-backend](https://github.com/Shion1305/kitakyusyu-hackathon-backend) | [1](https://github.com/Shion1305/kitakyusyu-hackathon-backend/stargazers)
+[Shion1305/lumos-profile-management](https://github.com/Shion1305/lumos-profile-management) | [1](https://github.com/Shion1305/lumos-profile-management/stargazers)
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [1](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground) | [1](https://github.com/YunosukeY/k8s-monitoring-playground/stargazers)
 [air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [1](https://github.com/air-hand/dotfiles/stargazers)
@@ -221,7 +223,6 @@ Repository | :star: The number of GitHub stars
 [seiyeah78/dotfiles](https://github.com/seiyeah78/dotfiles) | [1](https://github.com/seiyeah78/dotfiles/stargazers)
 [sheldonhull/algorithmswithgo.com](https://github.com/sheldonhull/algorithmswithgo.com) | [1](https://github.com/sheldonhull/algorithmswithgo.com/stargazers)
 [sheldonhull/dotfiles-starter](https://github.com/sheldonhull/dotfiles-starter) | [1](https://github.com/sheldonhull/dotfiles-starter/stargazers)
-[shion1305/lumos-profile-management](https://github.com/shion1305/lumos-profile-management) | [1](https://github.com/shion1305/lumos-profile-management/stargazers)
 [staticWagomU/dotfiles](https://github.com/staticWagomU/dotfiles) | [1](https://github.com/staticWagomU/dotfiles/stargazers)
 [suzuki-shunsuke/example-renovate-issue-action](https://github.com/suzuki-shunsuke/example-renovate-issue-action) | [1](https://github.com/suzuki-shunsuke/example-renovate-issue-action/stargazers)
 [suzuki-shunsuke/example-sigstore-cosign](https://github.com/suzuki-shunsuke/example-sigstore-cosign) | [1](https://github.com/suzuki-shunsuke/example-sigstore-cosign/stargazers)
