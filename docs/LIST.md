@@ -1,14 +1,14 @@
-_The last update: [2024-06-03T01:07:05Z](https://github.com/aquaproj/user-list/actions/runs/9342663877)_
+_The last update: [2024-06-04T01:08:51Z](https://github.com/aquaproj/user-list/actions/runs/9359516142)_
 
-The number of repositories: 442
+The number of repositories: 441
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21727](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1082](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21735](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1084](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [725](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [403](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [373](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [374](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [246](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [203](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [195](https://github.com/budimanjojo/dotfiles/stargazers)
@@ -33,7 +33,6 @@ Repository | :star: The number of GitHub stars
 [ethanjli/dotfiles](https://github.com/ethanjli/dotfiles) | [19](https://github.com/ethanjli/dotfiles/stargazers)
 [DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [18](https://github.com/DelineaXPM/dsv-cli/stargazers)
 [aquaproj/aqua-installer](https://github.com/aquaproj/aqua-installer) | [18](https://github.com/aquaproj/aqua-installer/stargazers)
-[suzuki-shunsuke/github-action-renovate-config-validator](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator) | [18](https://github.com/suzuki-shunsuke/github-action-renovate-config-validator/stargazers)
 [terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [18](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
 [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) | [17](https://github.com/yasunori0418/dotfiles/stargazers)
 [aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [14](https://github.com/aquaproj/aqua-renovate-config/stargazers)
@@ -48,9 +47,9 @@ Repository | :star: The number of GitHub stars
 [yuyaban/gitlab-comment](https://github.com/yuyaban/gitlab-comment) | [11](https://github.com/yuyaban/gitlab-comment/stargazers)
 [arrow2nd/dotfiles](https://github.com/arrow2nd/dotfiles) | [9](https://github.com/arrow2nd/dotfiles/stargazers)
 [lesiw/bump](https://github.com/lesiw/bump) | [9](https://github.com/lesiw/bump/stargazers)
+[lintnet/lintnet](https://github.com/lintnet/lintnet) | [9](https://github.com/lintnet/lintnet/stargazers)
 [suzuki-shunsuke/renovate-issue-action](https://github.com/suzuki-shunsuke/renovate-issue-action) | [9](https://github.com/suzuki-shunsuke/renovate-issue-action/stargazers)
 [yukimemi/dotfiles](https://github.com/yukimemi/dotfiles) | [9](https://github.com/yukimemi/dotfiles/stargazers)
-[lintnet/lintnet](https://github.com/lintnet/lintnet) | [8](https://github.com/lintnet/lintnet/stargazers)
 [sheldonhull/magetools](https://github.com/sheldonhull/magetools) | [8](https://github.com/sheldonhull/magetools/stargazers)
 [844196/dotfiles](https://github.com/844196/dotfiles) | [7](https://github.com/844196/dotfiles/stargazers)
 [DelineaXPM/dsv-github-action](https://github.com/DelineaXPM/dsv-github-action) | [7](https://github.com/DelineaXPM/dsv-github-action/stargazers)
