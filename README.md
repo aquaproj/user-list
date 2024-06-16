@@ -10,7 +10,7 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-06-15T01:08:11Z](https://github.com/aquaproj/user-list/actions/runs/9524241619)_
+_The last update: [2024-06-16T01:13:25Z](https://github.com/aquaproj/user-list/actions/runs/9532203725)_
 
 The number of repositories: 448
 
@@ -18,14 +18,14 @@ Repository | :star: The number of GitHub stars
 --- | ---
 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [21867](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1097](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [731](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [734](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [403](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [379](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [249](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [204](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [205](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [197](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [93](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [83](https://github.com/aquaproj/aqua-registry/stargazers)
+[aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [84](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [81](https://github.com/DeNA/unity-meta-check/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [80](https://github.com/megabyte-labs/install.doctor/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [63](https://github.com/zoetrope/kubebuilder-training/stargazers)
@@ -242,6 +242,7 @@ Repository | :star: The number of GitHub stars
 [nipuna-perera/dotfiles](https://github.com/nipuna-perera/dotfiles) | [1](https://github.com/nipuna-perera/dotfiles/stargazers)
 [ponkio-o/dotfiles](https://github.com/ponkio-o/dotfiles) | [1](https://github.com/ponkio-o/dotfiles/stargazers)
 [ponkio-o/ec2x](https://github.com/ponkio-o/ec2x) | [1](https://github.com/ponkio-o/ec2x/stargazers)
+[pyama2000/example-cqrs-event-store](https://github.com/pyama2000/example-cqrs-event-store) | [1](https://github.com/pyama2000/example-cqrs-event-store/stargazers)
 [ras0q/dotfiles-v2](https://github.com/ras0q/dotfiles-v2) | [1](https://github.com/ras0q/dotfiles-v2/stargazers)
 [sasakiy84/dotfiles](https://github.com/sasakiy84/dotfiles) | [1](https://github.com/sasakiy84/dotfiles/stargazers)
 [seiyeah78/dotfiles](https://github.com/seiyeah78/dotfiles) | [1](https://github.com/seiyeah78/dotfiles/stargazers)
@@ -300,6 +301,7 @@ Repository | :star: The number of GitHub stars
 [Sho2010/istio-operator-set-extractor](https://github.com/Sho2010/istio-operator-set-extractor) | [0](https://github.com/Sho2010/istio-operator-set-extractor/stargazers)
 [StudistCorporation/k8s-tutorial](https://github.com/StudistCorporation/k8s-tutorial) | [0](https://github.com/StudistCorporation/k8s-tutorial/stargazers)
 [Syu-fu/dotfiles](https://github.com/Syu-fu/dotfiles) | [0](https://github.com/Syu-fu/dotfiles/stargazers)
+[VirtualTech-DevOps/devops-23](https://github.com/VirtualTech-DevOps/devops-23) | [0](https://github.com/VirtualTech-DevOps/devops-23/stargazers)
 [YasushiKobayashi/dotfiles](https://github.com/YasushiKobayashi/dotfiles) | [0](https://github.com/YasushiKobayashi/dotfiles/stargazers)
 [YumaFuu/zenn](https://github.com/YumaFuu/zenn) | [0](https://github.com/YumaFuu/zenn/stargazers)
 [YunosukeY/k8s-cd-playground](https://github.com/YunosukeY/k8s-cd-playground) | [0](https://github.com/YunosukeY/k8s-cd-playground/stargazers)
@@ -310,7 +312,6 @@ Repository | :star: The number of GitHub stars
 [actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator) | [0](https://github.com/actions-marketplace-validations/suzuki-shunsuke_github-action-renovate-config-validator/stargazers)
 [aereal/poc-protobuf-json-config](https://github.com/aereal/poc-protobuf-json-config) | [0](https://github.com/aereal/poc-protobuf-json-config/stargazers)
 [air-hand/dind-on-k8s](https://github.com/air-hand/dind-on-k8s) | [0](https://github.com/air-hand/dind-on-k8s/stargazers)
-[arakkkkk/dotfiles](https://github.com/arakkkkk/dotfiles) | [0](https://github.com/arakkkkk/dotfiles/stargazers)
 [borley1211/dotfiles](https://github.com/borley1211/dotfiles) | [0](https://github.com/borley1211/dotfiles/stargazers)
 [boxp/arch](https://github.com/boxp/arch) | [0](https://github.com/boxp/arch/stargazers)
 [bpillatsch/dotfiles](https://github.com/bpillatsch/dotfiles) | [0](https://github.com/bpillatsch/dotfiles/stargazers)
@@ -405,7 +406,6 @@ Repository | :star: The number of GitHub stars
 [ponkio-o/tfaction-tutorial](https://github.com/ponkio-o/tfaction-tutorial) | [0](https://github.com/ponkio-o/tfaction-tutorial/stargazers)
 [pyama2000/demo-open-policy-agent](https://github.com/pyama2000/demo-open-policy-agent) | [0](https://github.com/pyama2000/demo-open-policy-agent/stargazers)
 [pyama2000/demo-opentelemetry](https://github.com/pyama2000/demo-opentelemetry) | [0](https://github.com/pyama2000/demo-opentelemetry/stargazers)
-[pyama2000/example-cqrs-event-store](https://github.com/pyama2000/example-cqrs-event-store) | [0](https://github.com/pyama2000/example-cqrs-event-store/stargazers)
 [pyama2000/xoon-proto](https://github.com/pyama2000/xoon-proto) | [0](https://github.com/pyama2000/xoon-proto/stargazers)
 [qawatake/dynamodb-sandbox](https://github.com/qawatake/dynamodb-sandbox) | [0](https://github.com/qawatake/dynamodb-sandbox/stargazers)
 [reiyw/dotfiles](https://github.com/reiyw/dotfiles) | [0](https://github.com/reiyw/dotfiles/stargazers)
