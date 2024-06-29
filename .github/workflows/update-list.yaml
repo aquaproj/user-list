@@ -6,6 +6,7 @@ on:
 
 jobs:
   update-list:
+    timeout-minutes: 30
     runs-on: ubuntu-latest
     permissions: {}
     steps:
