@@ -10,15 +10,15 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-07-13T01:09:33Z](https://github.com/aquaproj/user-list/actions/runs/9916068683)_
+_The last update: [2024-07-14T01:15:48Z](https://github.com/aquaproj/user-list/actions/runs/9924229423)_
 
-The number of repositories: 463
+The number of repositories: 466
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22175](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22178](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1118](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [761](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [762](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [408](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [385](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [254](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -271,6 +271,7 @@ Repository | :star: The number of GitHub stars
 [thaim/ansible-roles](https://github.com/thaim/ansible-roles) | [1](https://github.com/thaim/ansible-roles/stargazers)
 [truxnell/dotfiles](https://github.com/truxnell/dotfiles) | [1](https://github.com/truxnell/dotfiles/stargazers)
 [unterwegi/dotfiles](https://github.com/unterwegi/dotfiles) | [1](https://github.com/unterwegi/dotfiles/stargazers)
+[uta8a/infra](https://github.com/uta8a/infra) | [1](https://github.com/uta8a/infra/stargazers)
 [vterdunov/frs-k8s-fleet](https://github.com/vterdunov/frs-k8s-fleet) | [1](https://github.com/vterdunov/frs-k8s-fleet/stargazers)
 [wbelucky/dotfiles](https://github.com/wbelucky/dotfiles) | [1](https://github.com/wbelucky/dotfiles/stargazers)
 [yamd1/dotfiles](https://github.com/yamd1/dotfiles) | [1](https://github.com/yamd1/dotfiles/stargazers)
@@ -305,6 +306,7 @@ Repository | :star: The number of GitHub stars
 [OrganizedMayhem/dotfiles](https://github.com/OrganizedMayhem/dotfiles) | [0](https://github.com/OrganizedMayhem/dotfiles/stargazers)
 [PGUMA/go-project-template](https://github.com/PGUMA/go-project-template) | [0](https://github.com/PGUMA/go-project-template/stargazers)
 [Rindrics/k8s-echo-two-envs](https://github.com/Rindrics/k8s-echo-two-envs) | [0](https://github.com/Rindrics/k8s-echo-two-envs/stargazers)
+[RyosukeDTomita/template_repository_all](https://github.com/RyosukeDTomita/template_repository_all) | [0](https://github.com/RyosukeDTomita/template_repository_all/stargazers)
 [Sho2010/istio-action](https://github.com/Sho2010/istio-action) | [0](https://github.com/Sho2010/istio-action/stargazers)
 [Sho2010/istio-operator-set-extractor](https://github.com/Sho2010/istio-operator-set-extractor) | [0](https://github.com/Sho2010/istio-operator-set-extractor/stargazers)
 [StudistCorporation/k8s-tutorial](https://github.com/StudistCorporation/k8s-tutorial) | [0](https://github.com/StudistCorporation/k8s-tutorial/stargazers)
@@ -463,6 +465,7 @@ Repository | :star: The number of GitHub stars
 [tomoasleep/dotfiles](https://github.com/tomoasleep/dotfiles) | [0](https://github.com/tomoasleep/dotfiles/stargazers)
 [torana-us/terraform-modules](https://github.com/torana-us/terraform-modules) | [0](https://github.com/torana-us/terraform-modules/stargazers)
 [torana-us/tfdir](https://github.com/torana-us/tfdir) | [0](https://github.com/torana-us/tfdir/stargazers)
+[ut61z/hono_blog](https://github.com/ut61z/hono_blog) | [0](https://github.com/ut61z/hono_blog/stargazers)
 [watarukura/dotfiles](https://github.com/watarukura/dotfiles) | [0](https://github.com/watarukura/dotfiles/stargazers)
 [watarukura/zenn-content](https://github.com/watarukura/zenn-content) | [0](https://github.com/watarukura/zenn-content/stargazers)
 [wim-web/dotfiles](https://github.com/wim-web/dotfiles) | [0](https://github.com/wim-web/dotfiles/stargazers)
