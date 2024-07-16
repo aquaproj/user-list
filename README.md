@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-07-15T01:14:14Z](https://github.com/aquaproj/user-list/actions/runs/9932219901)_
+_The last update: [2024-07-16T01:15:48Z](https://github.com/aquaproj/user-list/actions/runs/9949043487)_
 
-The number of repositories: 469
+The number of repositories: 471
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22183](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1118](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22195](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1119](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [762](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [408](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [385](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -26,7 +26,7 @@ Repository | :star: The number of GitHub stars
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [203](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [96](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [87](https://github.com/aquaproj/aqua-registry/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [83](https://github.com/megabyte-labs/install.doctor/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [84](https://github.com/megabyte-labs/install.doctor/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [81](https://github.com/DeNA/unity-meta-check/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [68](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [64](https://github.com/zoetrope/kubebuilder-training/stargazers)
@@ -197,6 +197,7 @@ Repository | :star: The number of GitHub stars
 [RyosukeDTomita/devsecops-demo-aws-ecs](https://github.com/RyosukeDTomita/devsecops-demo-aws-ecs) | [1](https://github.com/RyosukeDTomita/devsecops-demo-aws-ecs/stargazers)
 [Shion1305/kitakyusyu-hackathon-backend](https://github.com/Shion1305/kitakyusyu-hackathon-backend) | [1](https://github.com/Shion1305/kitakyusyu-hackathon-backend/stargazers)
 [Shion1305/lumos-profile-management](https://github.com/Shion1305/lumos-profile-management) | [1](https://github.com/Shion1305/lumos-profile-management/stargazers)
+[XxxKMSxxX/Cryptra-Infra](https://github.com/XxxKMSxxX/Cryptra-Infra) | [1](https://github.com/XxxKMSxxX/Cryptra-Infra/stargazers)
 [YunosukeY/exsqus](https://github.com/YunosukeY/exsqus) | [1](https://github.com/YunosukeY/exsqus/stargazers)
 [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground) | [1](https://github.com/YunosukeY/k8s-monitoring-playground/stargazers)
 [air-hand/dotfiles](https://github.com/air-hand/dotfiles) | [1](https://github.com/air-hand/dotfiles/stargazers)
@@ -362,6 +363,7 @@ Repository | :star: The number of GitHub stars
 [ichisuke55/aqua-cfg](https://github.com/ichisuke55/aqua-cfg) | [0](https://github.com/ichisuke55/aqua-cfg/stargazers)
 [ishii1648/dotfiles](https://github.com/ishii1648/dotfiles) | [0](https://github.com/ishii1648/dotfiles/stargazers)
 [jfut/honox-shadcn-ui-themeprovider](https://github.com/jfut/honox-shadcn-ui-themeprovider) | [0](https://github.com/jfut/honox-shadcn-ui-themeprovider/stargazers)
+[jimmysharp/palworld_exporter](https://github.com/jimmysharp/palworld_exporter) | [0](https://github.com/jimmysharp/palworld_exporter/stargazers)
 [jinugasachio/terraform-workspace-type](https://github.com/jinugasachio/terraform-workspace-type) | [0](https://github.com/jinugasachio/terraform-workspace-type/stargazers)
 [jmauro/k8s-tools-container](https://github.com/jmauro/k8s-tools-container) | [0](https://github.com/jmauro/k8s-tools-container/stargazers)
 [ka2n/protoc-gen-valibot](https://github.com/ka2n/protoc-gen-valibot) | [0](https://github.com/ka2n/protoc-gen-valibot/stargazers)
