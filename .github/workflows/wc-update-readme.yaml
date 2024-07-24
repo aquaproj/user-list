@@ -22,7 +22,7 @@ jobs:
           private_key: ${{secrets.gh_app_private_key}}
           repositories: >-
             [
-              "${{github.event.repository.name}}",
+              "${{github.event.repository.name}}"
             ]
           permissions: >-
             {
