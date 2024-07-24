@@ -49,11 +49,11 @@ func getHTTPClientForGitHub(ctx context.Context, token string) *http.Client {
 func (gh *GitHub) SearchRepos(ctx context.Context, logger zerolog.Logger, query string, excludedOwners map[string]struct{}) (map[string]*Result, error) { //nolint:funlen,gocognit,cyclop
 	opts := &github.SearchOptions{
 		ListOptions: github.ListOptions{
-			PerPage: 100, //nolint:gomnd
+			PerPage: 100, //nolint:mnd
 		},
 	}
 	resultMap := map[string]*Result{}
-	for i := 0; i < 30; i++ {
+	for range 30 {
 		// API rate limit
 		// https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#considerations-for-code-search
 		// This endpoint requires you to authenticate and limits you to 10 requests per minute.
