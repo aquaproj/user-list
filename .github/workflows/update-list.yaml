@@ -22,7 +22,7 @@ jobs:
           private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
           repositories: >-
             [
-              "${{github.event.repository.name}}",
+              "${{github.event.repository.name}}"
             ]
           permissions: >-
             {
