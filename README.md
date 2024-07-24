@@ -10,13 +10,13 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-07-24T01:13:46Z](https://github.com/aquaproj/user-list/actions/runs/10068747449)_
+_The last update: [2024-07-24T05:36:23Z](https://github.com/aquaproj/user-list/actions/runs/10071110962)_
 
-The number of repositories: 471
+The number of repositories: 474
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22280](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22281](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1128](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [777](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [409](https://github.com/so-dang-cool/dt/stargazers)
@@ -117,6 +117,8 @@ Repository | :star: The number of GitHub stars
 [pyama2000/dotfiles](https://github.com/pyama2000/dotfiles) | [4](https://github.com/pyama2000/dotfiles/stargazers)
 [sheldonhull/scripts-to-rule-them-all-go](https://github.com/sheldonhull/scripts-to-rule-them-all-go) | [4](https://github.com/sheldonhull/scripts-to-rule-them-all-go/stargazers)
 [so-dang-cool/findup](https://github.com/so-dang-cool/findup) | [4](https://github.com/so-dang-cool/findup/stargazers)
+[suzuki-shunsuke/ghproj](https://github.com/suzuki-shunsuke/ghproj) | [4](https://github.com/suzuki-shunsuke/ghproj/stargazers)
+[suzuki-shunsuke/github-ci-monitor](https://github.com/suzuki-shunsuke/github-ci-monitor) | [4](https://github.com/suzuki-shunsuke/github-ci-monitor/stargazers)
 [suzuki-shunsuke/go-convmap](https://github.com/suzuki-shunsuke/go-convmap) | [4](https://github.com/suzuki-shunsuke/go-convmap/stargazers)
 [suzuki-shunsuke/go-dataeq](https://github.com/suzuki-shunsuke/go-dataeq) | [4](https://github.com/suzuki-shunsuke/go-dataeq/stargazers)
 [suzuki-shunsuke/go-findconfig](https://github.com/suzuki-shunsuke/go-findconfig) | [4](https://github.com/suzuki-shunsuke/go-findconfig/stargazers)
@@ -137,7 +139,6 @@ Repository | :star: The number of GitHub stars
 [lintnet-modules/terraform-aws](https://github.com/lintnet-modules/terraform-aws) | [3](https://github.com/lintnet-modules/terraform-aws/stargazers)
 [m-hamashita/dotfiles](https://github.com/m-hamashita/dotfiles) | [3](https://github.com/m-hamashita/dotfiles/stargazers)
 [morning-night-guild/platform-app](https://github.com/morning-night-guild/platform-app) | [3](https://github.com/morning-night-guild/platform-app/stargazers)
-[suzuki-shunsuke/ghproj](https://github.com/suzuki-shunsuke/ghproj) | [3](https://github.com/suzuki-shunsuke/ghproj/stargazers)
 [suzuki-shunsuke/github-action-format](https://github.com/suzuki-shunsuke/github-action-format) | [3](https://github.com/suzuki-shunsuke/github-action-format/stargazers)
 [suzuki-shunsuke/github-action-golangci-lint](https://github.com/suzuki-shunsuke/github-action-golangci-lint) | [3](https://github.com/suzuki-shunsuke/github-action-golangci-lint/stargazers)
 [suzuki-shunsuke/github-comment-metadata](https://github.com/suzuki-shunsuke/github-comment-metadata) | [3](https://github.com/suzuki-shunsuke/github-comment-metadata/stargazers)
@@ -170,6 +171,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/actionlint-workflow](https://github.com/suzuki-shunsuke/actionlint-workflow) | [2](https://github.com/suzuki-shunsuke/actionlint-workflow/stargazers)
 [suzuki-shunsuke/aws-elasticache-memcached](https://github.com/suzuki-shunsuke/aws-elasticache-memcached) | [2](https://github.com/suzuki-shunsuke/aws-elasticache-memcached/stargazers)
 [suzuki-shunsuke/aws-elasticache-redis](https://github.com/suzuki-shunsuke/aws-elasticache-redis) | [2](https://github.com/suzuki-shunsuke/aws-elasticache-redis/stargazers)
+[suzuki-shunsuke/aws-rds-aurora-postgresql](https://github.com/suzuki-shunsuke/aws-rds-aurora-postgresql) | [2](https://github.com/suzuki-shunsuke/aws-rds-aurora-postgresql/stargazers)
 [suzuki-shunsuke/ci-info-action](https://github.com/suzuki-shunsuke/ci-info-action) | [2](https://github.com/suzuki-shunsuke/ci-info-action/stargazers)
 [suzuki-shunsuke/github-action-actionlint](https://github.com/suzuki-shunsuke/github-action-actionlint) | [2](https://github.com/suzuki-shunsuke/github-action-actionlint/stargazers)
 [suzuki-shunsuke/github-action-shellcheck](https://github.com/suzuki-shunsuke/github-action-shellcheck) | [2](https://github.com/suzuki-shunsuke/github-action-shellcheck/stargazers)
@@ -266,6 +268,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/ghcp](https://github.com/suzuki-shunsuke/ghcp) | [1](https://github.com/suzuki-shunsuke/ghcp/stargazers)
 [suzuki-shunsuke/go-test-full-workflow](https://github.com/suzuki-shunsuke/go-test-full-workflow) | [1](https://github.com/suzuki-shunsuke/go-test-full-workflow/stargazers)
 [suzuki-shunsuke/guide-github-action-renovate](https://github.com/suzuki-shunsuke/guide-github-action-renovate) | [1](https://github.com/suzuki-shunsuke/guide-github-action-renovate/stargazers)
+[suzuki-shunsuke/matchfile-parser](https://github.com/suzuki-shunsuke/matchfile-parser) | [1](https://github.com/suzuki-shunsuke/matchfile-parser/stargazers)
 [suzuki-shunsuke/mkghtag](https://github.com/suzuki-shunsuke/mkghtag) | [1](https://github.com/suzuki-shunsuke/mkghtag/stargazers)
 [suzuki-shunsuke/test-circleci](https://github.com/suzuki-shunsuke/test-circleci) | [1](https://github.com/suzuki-shunsuke/test-circleci/stargazers)
 [suzuki-shunsuke/test-renovate-2](https://github.com/suzuki-shunsuke/test-renovate-2) | [1](https://github.com/suzuki-shunsuke/test-renovate-2/stargazers)
