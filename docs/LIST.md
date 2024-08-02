@@ -1,12 +1,12 @@
-_The last update: [2024-08-01T01:20:43Z](https://github.com/aquaproj/user-list/actions/runs/10190189518)_
+_The last update: [2024-08-02T01:12:40Z](https://github.com/aquaproj/user-list/actions/runs/10208231507)_
 
-The number of repositories: 480
+The number of repositories: 482
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22380](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1136](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [780](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22398](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1138](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [781](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [410](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [399](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [256](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -266,6 +266,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/test-renovate-2](https://github.com/suzuki-shunsuke/test-renovate-2) | [1](https://github.com/suzuki-shunsuke/test-renovate-2/stargazers)
 [suzuki-shunsuke/tfaction-go](https://github.com/suzuki-shunsuke/tfaction-go) | [1](https://github.com/suzuki-shunsuke/tfaction-go/stargazers)
 [suzuki-shunsuke/yodoc](https://github.com/suzuki-shunsuke/yodoc) | [1](https://github.com/suzuki-shunsuke/yodoc/stargazers)
+[suzuki-shunsuke/zsh.conf](https://github.com/suzuki-shunsuke/zsh.conf) | [1](https://github.com/suzuki-shunsuke/zsh.conf/stargazers)
 [tak23753/sandbox-terraform](https://github.com/tak23753/sandbox-terraform) | [1](https://github.com/tak23753/sandbox-terraform/stargazers)
 [takumin/ykmgr](https://github.com/takumin/ykmgr) | [1](https://github.com/takumin/ykmgr/stargazers)
 [thaim/ansible-roles](https://github.com/thaim/ansible-roles) | [1](https://github.com/thaim/ansible-roles/stargazers)
@@ -468,6 +469,7 @@ Repository | :star: The number of GitHub stars
 [torana-us/tfdir](https://github.com/torana-us/tfdir) | [0](https://github.com/torana-us/tfdir/stargazers)
 [ut61z/hono_blog](https://github.com/ut61z/hono_blog) | [0](https://github.com/ut61z/hono_blog/stargazers)
 [watarukura/dotfiles](https://github.com/watarukura/dotfiles) | [0](https://github.com/watarukura/dotfiles/stargazers)
+[watarukura/gostack](https://github.com/watarukura/gostack) | [0](https://github.com/watarukura/gostack/stargazers)
 [watarukura/zenn-content](https://github.com/watarukura/zenn-content) | [0](https://github.com/watarukura/zenn-content/stargazers)
 [wim-web/dotfiles](https://github.com/wim-web/dotfiles) | [0](https://github.com/wim-web/dotfiles/stargazers)
 [wim-web/my_zenn](https://github.com/wim-web/my_zenn) | [0](https://github.com/wim-web/my_zenn/stargazers)
