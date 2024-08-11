@@ -1,16 +1,16 @@
-_The last update: [2024-08-10T01:13:55Z](https://github.com/aquaproj/user-list/actions/runs/10327730483)_
+_The last update: [2024-08-11T01:18:11Z](https://github.com/aquaproj/user-list/actions/runs/10335876953)_
 
-The number of repositories: 488
+The number of repositories: 489
 
 Repository | :star: The number of GitHub stars
 --- | ---
 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22488](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1150](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [787](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [788](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [412](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [401](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [259](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [211](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [212](https://github.com/ddddddO/gtree/stargazers)
 [budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [209](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [96](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [91](https://github.com/megabyte-labs/install.doctor/stargazers)
@@ -432,6 +432,7 @@ Repository | :star: The number of GitHub stars
 [pyama2000/demo-opentelemetry](https://github.com/pyama2000/demo-opentelemetry) | [0](https://github.com/pyama2000/demo-opentelemetry/stargazers)
 [pyama2000/xoon-proto](https://github.com/pyama2000/xoon-proto) | [0](https://github.com/pyama2000/xoon-proto/stargazers)
 [qawatake/dynamodb-sandbox](https://github.com/qawatake/dynamodb-sandbox) | [0](https://github.com/qawatake/dynamodb-sandbox/stargazers)
+[reitzig/template-goapp](https://github.com/reitzig/template-goapp) | [0](https://github.com/reitzig/template-goapp/stargazers)
 [reiyw/dotfiles](https://github.com/reiyw/dotfiles) | [0](https://github.com/reiyw/dotfiles/stargazers)
 [rust84/dotfiles](https://github.com/rust84/dotfiles) | [0](https://github.com/rust84/dotfiles/stargazers)
 [ryuichi1208/go-cicd](https://github.com/ryuichi1208/go-cicd) | [0](https://github.com/ryuichi1208/go-cicd/stargazers)
