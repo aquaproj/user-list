@@ -10,22 +10,21 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-08-15T01:11:28Z](https://github.com/aquaproj/user-list/actions/runs/10397065594)_
+_The last update: [2024-08-16T01:11:55Z](https://github.com/aquaproj/user-list/actions/runs/10412951061)_
 
-The number of repositories: 495
+The number of repositories: 494
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22521](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22520](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1154](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [793](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [794](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [411](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [402](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [259](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [213](https://github.com/ddddddO/gtree/stargazers)
-[budimanjojo/dotfiles](https://github.com/budimanjojo/dotfiles) | [210](https://github.com/budimanjojo/dotfiles/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [96](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [92](https://github.com/megabyte-labs/install.doctor/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [93](https://github.com/megabyte-labs/install.doctor/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [89](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [83](https://github.com/DeNA/unity-meta-check/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [70](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
@@ -138,6 +137,7 @@ Repository | :star: The number of GitHub stars
 [evrone/terraform-yandex-postgres](https://github.com/evrone/terraform-yandex-postgres) | [3](https://github.com/evrone/terraform-yandex-postgres/stargazers)
 [i544c-me/buicha-social](https://github.com/i544c-me/buicha-social) | [3](https://github.com/i544c-me/buicha-social/stargazers)
 [itkq/dotfiles](https://github.com/itkq/dotfiles) | [3](https://github.com/itkq/dotfiles/stargazers)
+[kudoas/diff-check-bun-lockfile](https://github.com/kudoas/diff-check-bun-lockfile) | [3](https://github.com/kudoas/diff-check-bun-lockfile/stargazers)
 [kudoas/portfolio](https://github.com/kudoas/portfolio) | [3](https://github.com/kudoas/portfolio/stargazers)
 [lintnet-modules/terraform-aws](https://github.com/lintnet-modules/terraform-aws) | [3](https://github.com/lintnet-modules/terraform-aws/stargazers)
 [m-hamashita/dotfiles](https://github.com/m-hamashita/dotfiles) | [3](https://github.com/m-hamashita/dotfiles/stargazers)
@@ -165,7 +165,6 @@ Repository | :star: The number of GitHub stars
 [honahuku/k8s-hands-on](https://github.com/honahuku/k8s-hands-on) | [2](https://github.com/honahuku/k8s-hands-on/stargazers)
 [int128/actions-runner-controller-in-actions](https://github.com/int128/actions-runner-controller-in-actions) | [2](https://github.com/int128/actions-runner-controller-in-actions/stargazers)
 [kamesuke42/dotfiles](https://github.com/kamesuke42/dotfiles) | [2](https://github.com/kamesuke42/dotfiles/stargazers)
-[kudoas/diff-check-bun-lockfile](https://github.com/kudoas/diff-check-bun-lockfile) | [2](https://github.com/kudoas/diff-check-bun-lockfile/stargazers)
 [kyounger/dotfiles](https://github.com/kyounger/dotfiles) | [2](https://github.com/kyounger/dotfiles/stargazers)
 [lilpacy/github-trend-public](https://github.com/lilpacy/github-trend-public) | [2](https://github.com/lilpacy/github-trend-public/stargazers)
 [lintnet-modules/terraform](https://github.com/lintnet-modules/terraform) | [2](https://github.com/lintnet-modules/terraform/stargazers)
