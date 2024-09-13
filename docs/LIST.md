@@ -1,12 +1,12 @@
-_The last update: [2024-09-12T01:15:20Z](https://github.com/aquaproj/user-list/actions/runs/10822301972)_
+_The last update: [2024-09-13T01:17:22Z](https://github.com/aquaproj/user-list/actions/runs/10841292315)_
 
-The number of repositories: 522
+The number of repositories: 524
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22815](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1188](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [823](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22832](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1190](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [824](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [423](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [405](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [262](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -296,6 +296,7 @@ Repository | :star: The number of GitHub stars
 [844196/magpie](https://github.com/844196/magpie) | [0](https://github.com/844196/magpie/stargazers)
 [844196/man-hour](https://github.com/844196/man-hour) | [0](https://github.com/844196/man-hour/stargazers)
 [844196/typespec-laravel](https://github.com/844196/typespec-laravel) | [0](https://github.com/844196/typespec-laravel/stargazers)
+[AAAR-Salmon/dotfiles](https://github.com/AAAR-Salmon/dotfiles) | [0](https://github.com/AAAR-Salmon/dotfiles/stargazers)
 [Amir-Ahmad/k8s-jsonnet-playground](https://github.com/Amir-Ahmad/k8s-jsonnet-playground) | [0](https://github.com/Amir-Ahmad/k8s-jsonnet-playground/stargazers)
 [CASL0/dotfiles](https://github.com/CASL0/dotfiles) | [0](https://github.com/CASL0/dotfiles/stargazers)
 [Colt45s/tonic-sandbox](https://github.com/Colt45s/tonic-sandbox) | [0](https://github.com/Colt45s/tonic-sandbox/stargazers)
@@ -500,6 +501,7 @@ Repository | :star: The number of GitHub stars
 [tomoasleep/dotfiles](https://github.com/tomoasleep/dotfiles) | [0](https://github.com/tomoasleep/dotfiles/stargazers)
 [torana-us/terraform-modules](https://github.com/torana-us/terraform-modules) | [0](https://github.com/torana-us/terraform-modules/stargazers)
 [torana-us/tfdir](https://github.com/torana-us/tfdir) | [0](https://github.com/torana-us/tfdir/stargazers)
+[tyamada124/test_S](https://github.com/tyamada124/test_S) | [0](https://github.com/tyamada124/test_S/stargazers)
 [umi-ushi/go-project-template](https://github.com/umi-ushi/go-project-template) | [0](https://github.com/umi-ushi/go-project-template/stargazers)
 [umi-ushi/goblueprints-handwritten-copy](https://github.com/umi-ushi/goblueprints-handwritten-copy) | [0](https://github.com/umi-ushi/goblueprints-handwritten-copy/stargazers)
 [umi-ushi/k6-playground](https://github.com/umi-ushi/k6-playground) | [0](https://github.com/umi-ushi/k6-playground/stargazers)
