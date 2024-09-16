@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-09-15T01:23:35Z](https://github.com/aquaproj/user-list/actions/runs/10866992412)_
+_The last update: [2024-09-16T01:20:02Z](https://github.com/aquaproj/user-list/actions/runs/10875998596)_
 
-The number of repositories: 525
+The number of repositories: 526
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22859](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1191](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22865](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1192](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [824](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [423](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [405](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -110,7 +110,6 @@ Repository | :star: The number of GitHub stars
 [DelineaXPM/ansible-core-collection](https://github.com/DelineaXPM/ansible-core-collection) | [4](https://github.com/DelineaXPM/ansible-core-collection/stargazers)
 [Omochice/tataku.vim](https://github.com/Omochice/tataku.vim) | [4](https://github.com/Omochice/tataku.vim/stargazers)
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
-[d-issy/dotfiles](https://github.com/d-issy/dotfiles) | [4](https://github.com/d-issy/dotfiles/stargazers)
 [gaerfield/dotfiles](https://github.com/gaerfield/dotfiles) | [4](https://github.com/gaerfield/dotfiles/stargazers)
 [i544c-me/buicha-social](https://github.com/i544c-me/buicha-social) | [4](https://github.com/i544c-me/buicha-social/stargazers)
 [int128/typescript-k6](https://github.com/int128/typescript-k6) | [4](https://github.com/int128/typescript-k6/stargazers)
@@ -536,6 +535,8 @@ Repository | :star: The number of GitHub stars
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
 [yuya-takeyama/microsoft-graph-api-practice](https://github.com/yuya-takeyama/microsoft-graph-api-practice) | [0](https://github.com/yuya-takeyama/microsoft-graph-api-practice/stargazers)
+[yuya-takeyama/mobb](https://github.com/yuya-takeyama/mobb) | [0](https://github.com/yuya-takeyama/mobb/stargazers)
+[yuya-takeyama/mobb-sandbox](https://github.com/yuya-takeyama/mobb-sandbox) | [0](https://github.com/yuya-takeyama/mobb-sandbox/stargazers)
 [yuya-takeyama/self-hosted-renovate-practice](https://github.com/yuya-takeyama/self-hosted-renovate-practice) | [0](https://github.com/yuya-takeyama/self-hosted-renovate-practice/stargazers)
 [zhanglimao/trivy](https://github.com/zhanglimao/trivy) | [0](https://github.com/zhanglimao/trivy/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
