@@ -1,12 +1,12 @@
-_The last update: [2024-09-21T01:16:48Z](https://github.com/aquaproj/user-list/actions/runs/10968418281)_
+_The last update: [2024-09-22T01:23:40Z](https://github.com/aquaproj/user-list/actions/runs/10977150501)_
 
-The number of repositories: 530
+The number of repositories: 531
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22925](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22930](https://github.com/aquasecurity/trivy/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1199](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [829](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [830](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [423](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [407](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [262](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -382,6 +382,7 @@ Repository | :star: The number of GitHub stars
 [honahuku/kashiwagi](https://github.com/honahuku/kashiwagi) | [0](https://github.com/honahuku/kashiwagi/stargazers)
 [honahuku/nfs3bridge](https://github.com/honahuku/nfs3bridge) | [0](https://github.com/honahuku/nfs3bridge/stargazers)
 [htsh-tsyk/tfsample](https://github.com/htsh-tsyk/tfsample) | [0](https://github.com/htsh-tsyk/tfsample/stargazers)
+[i544c-me/buicha-social-on-sakura](https://github.com/i544c-me/buicha-social-on-sakura) | [0](https://github.com/i544c-me/buicha-social-on-sakura/stargazers)
 [ichisuke55/aqua-cfg](https://github.com/ichisuke55/aqua-cfg) | [0](https://github.com/ichisuke55/aqua-cfg/stargazers)
 [ishii1648/dotfiles](https://github.com/ishii1648/dotfiles) | [0](https://github.com/ishii1648/dotfiles/stargazers)
 [japan4415/discords-debug-container](https://github.com/japan4415/discords-debug-container) | [0](https://github.com/japan4415/discords-debug-container/stargazers)
