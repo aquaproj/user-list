@@ -10,15 +10,15 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-09-22T01:23:40Z](https://github.com/aquaproj/user-list/actions/runs/10977150501)_
+_The last update: [2024-09-23T01:20:06Z](https://github.com/aquaproj/user-list/actions/runs/10986070612)_
 
 The number of repositories: 531
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22930](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1199](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [830](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22935](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1200](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [829](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [423](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [407](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [262](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -34,8 +34,8 @@ Repository | :star: The number of GitHub stars
 [lintnet/lintnet](https://github.com/lintnet/lintnet) | [45](https://github.com/lintnet/lintnet/stargazers)
 [devxp-tech/gitops](https://github.com/devxp-tech/gitops) | [39](https://github.com/devxp-tech/gitops/stargazers)
 [cybozu-go/accurate](https://github.com/cybozu-go/accurate) | [38](https://github.com/cybozu-go/accurate/stargazers)
+[masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [36](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [tfmigrator/cli](https://github.com/tfmigrator/cli) | [36](https://github.com/tfmigrator/cli/stargazers)
-[masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) | [35](https://github.com/masterpointio/terraform-aws-tailscale/stargazers)
 [hirosassa/tfcmt-gitlab](https://github.com/hirosassa/tfcmt-gitlab) | [34](https://github.com/hirosassa/tfcmt-gitlab/stargazers)
 [fujiwara/cfft](https://github.com/fujiwara/cfft) | [27](https://github.com/fujiwara/cfft/stargazers)
 [masterpointio/terraform-aws-ssm-agent](https://github.com/masterpointio/terraform-aws-ssm-agent) | [26](https://github.com/masterpointio/terraform-aws-ssm-agent/stargazers)
@@ -374,7 +374,6 @@ Repository | :star: The number of GitHub stars
 [dungdm93/dotfiles](https://github.com/dungdm93/dotfiles) | [0](https://github.com/dungdm93/dotfiles/stargazers)
 [ebesson/dotfiles](https://github.com/ebesson/dotfiles) | [0](https://github.com/ebesson/dotfiles/stargazers)
 [elecdeer/dotfiles](https://github.com/elecdeer/dotfiles) | [0](https://github.com/elecdeer/dotfiles/stargazers)
-[fabriceT/dotfile-yadm](https://github.com/fabriceT/dotfile-yadm) | [0](https://github.com/fabriceT/dotfile-yadm/stargazers)
 [fuji8/learning-aqua-renovate-docker](https://github.com/fuji8/learning-aqua-renovate-docker) | [0](https://github.com/fuji8/learning-aqua-renovate-docker/stargazers)
 [fujiwara/homebrew-tap](https://github.com/fujiwara/homebrew-tap) | [0](https://github.com/fujiwara/homebrew-tap/stargazers)
 [git-ogawa/docserver-controller](https://github.com/git-ogawa/docserver-controller) | [0](https://github.com/git-ogawa/docserver-controller/stargazers)
@@ -452,6 +451,7 @@ Repository | :star: The number of GitHub stars
 [namipey/gha-usage-fetcher](https://github.com/namipey/gha-usage-fetcher) | [0](https://github.com/namipey/gha-usage-fetcher/stargazers)
 [naruse666/tfaction-sandbox](https://github.com/naruse666/tfaction-sandbox) | [0](https://github.com/naruse666/tfaction-sandbox/stargazers)
 [nemunemu3dev/terraform-merge-queue-sample](https://github.com/nemunemu3dev/terraform-merge-queue-sample) | [0](https://github.com/nemunemu3dev/terraform-merge-queue-sample/stargazers)
+[nepia0318/dotfiles](https://github.com/nepia0318/dotfiles) | [0](https://github.com/nepia0318/dotfiles/stargazers)
 [newbie1223/go_cli](https://github.com/newbie1223/go_cli) | [0](https://github.com/newbie1223/go_cli/stargazers)
 [newtestorgmahi/trivy-test](https://github.com/newtestorgmahi/trivy-test) | [0](https://github.com/newtestorgmahi/trivy-test/stargazers)
 [ntk221/gocms](https://github.com/ntk221/gocms) | [0](https://github.com/ntk221/gocms/stargazers)
