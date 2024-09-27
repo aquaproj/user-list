@@ -1,15 +1,15 @@
-_The last update: [2024-09-26T01:18:35Z](https://github.com/aquaproj/user-list/actions/runs/11043753444)_
+_The last update: [2024-09-27T01:21:13Z](https://github.com/aquaproj/user-list/actions/runs/11062814716)_
 
-The number of repositories: 531
+The number of repositories: 530
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22975](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1204](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [22988](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1206](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [830](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [426](https://github.com/so-dang-cool/dt/stargazers)
-[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [408](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
-[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [263](https://github.com/suzuki-shunsuke/tfaction/stargazers)
+[suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [409](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [264](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [217](https://github.com/ddddddO/gtree/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [100](https://github.com/megabyte-labs/install.doctor/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [98](https://github.com/suzuki-shunsuke/github-comment/stargazers)
@@ -466,7 +466,6 @@ Repository | :star: The number of GitHub stars
 [qawatake/dynamodb-sandbox](https://github.com/qawatake/dynamodb-sandbox) | [0](https://github.com/qawatake/dynamodb-sandbox/stargazers)
 [reitzig/template-goapp](https://github.com/reitzig/template-goapp) | [0](https://github.com/reitzig/template-goapp/stargazers)
 [reiyw/dotfiles](https://github.com/reiyw/dotfiles) | [0](https://github.com/reiyw/dotfiles/stargazers)
-[reyalka/dotfiles](https://github.com/reyalka/dotfiles) | [0](https://github.com/reyalka/dotfiles/stargazers)
 [rust84/dotfiles](https://github.com/rust84/dotfiles) | [0](https://github.com/rust84/dotfiles/stargazers)
 [ryuichi1208/go-cicd](https://github.com/ryuichi1208/go-cicd) | [0](https://github.com/ryuichi1208/go-cicd/stargazers)
 [s3mPr1linux/TRIVY_FORK](https://github.com/s3mPr1linux/TRIVY_FORK) | [0](https://github.com/s3mPr1linux/TRIVY_FORK/stargazers)
@@ -527,8 +526,8 @@ Repository | :star: The number of GitHub stars
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
 [yuya-takeyama/microsoft-graph-api-practice](https://github.com/yuya-takeyama/microsoft-graph-api-practice) | [0](https://github.com/yuya-takeyama/microsoft-graph-api-practice/stargazers)
-[yuya-takeyama/mobb](https://github.com/yuya-takeyama/mobb) | [0](https://github.com/yuya-takeyama/mobb/stargazers)
-[yuya-takeyama/mobb-sandbox](https://github.com/yuya-takeyama/mobb-sandbox) | [0](https://github.com/yuya-takeyama/mobb-sandbox/stargazers)
+[yuya-takeyama/modjo](https://github.com/yuya-takeyama/modjo) | [0](https://github.com/yuya-takeyama/modjo/stargazers)
+[yuya-takeyama/modjo-playground](https://github.com/yuya-takeyama/modjo-playground) | [0](https://github.com/yuya-takeyama/modjo-playground/stargazers)
 [yuya-takeyama/self-hosted-renovate-practice](https://github.com/yuya-takeyama/self-hosted-renovate-practice) | [0](https://github.com/yuya-takeyama/self-hosted-renovate-practice/stargazers)
 [zhanglimao/trivy](https://github.com/zhanglimao/trivy) | [0](https://github.com/zhanglimao/trivy/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
