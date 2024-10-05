@@ -10,24 +10,23 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-10-04T01:27:15Z](https://github.com/aquaproj/user-list/actions/runs/11172300618)_
+_The last update: [2024-10-05T01:18:06Z](https://github.com/aquaproj/user-list/actions/runs/11189181813)_
 
-The number of repositories: 533
+The number of repositories: 531
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23080](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1213](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23100](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1214](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [835](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [426](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [411](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [264](https://github.com/suzuki-shunsuke/tfaction/stargazers)
-[ddddddO/gtree](https://github.com/ddddddO/gtree) | [236](https://github.com/ddddddO/gtree/stargazers)
+[ddddddO/gtree](https://github.com/ddddddO/gtree) | [237](https://github.com/ddddddO/gtree/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [101](https://github.com/megabyte-labs/install.doctor/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [99](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [96](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [83](https://github.com/DeNA/unity-meta-check/stargazers)
-[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [71](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [69](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [67](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [58](https://github.com/suzuki-shunsuke/ghalint/stargazers)
@@ -456,7 +455,6 @@ Repository | :star: The number of GitHub stars
 [nepia0318/dotfiles](https://github.com/nepia0318/dotfiles) | [0](https://github.com/nepia0318/dotfiles/stargazers)
 [newbie1223/go_cli](https://github.com/newbie1223/go_cli) | [0](https://github.com/newbie1223/go_cli/stargazers)
 [newtestorgmahi/trivy-test](https://github.com/newtestorgmahi/trivy-test) | [0](https://github.com/newtestorgmahi/trivy-test/stargazers)
-[ntk221/gocms](https://github.com/ntk221/gocms) | [0](https://github.com/ntk221/gocms/stargazers)
 [officel/config_aqua](https://github.com/officel/config_aqua) | [0](https://github.com/officel/config_aqua/stargazers)
 [orangekame3/dotfiles](https://github.com/orangekame3/dotfiles) | [0](https://github.com/orangekame3/dotfiles/stargazers)
 [otakakot/astrotbls](https://github.com/otakakot/astrotbls) | [0](https://github.com/otakakot/astrotbls/stargazers)
