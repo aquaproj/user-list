@@ -1,12 +1,12 @@
-_The last update: [2024-10-11T01:26:08Z](https://github.com/aquaproj/user-list/actions/runs/11284584009)_
+_The last update: [2024-10-12T01:16:55Z](https://github.com/aquaproj/user-list/actions/runs/11301422364)_
 
-The number of repositories: 538
+The number of repositories: 539
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23157](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1223](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [840](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23183](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1224](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [841](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [427](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [411](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [265](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -15,7 +15,6 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [100](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [96](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [83](https://github.com/DeNA/unity-meta-check/stargazers)
-[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [72](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
 [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [70](https://github.com/suzuki-shunsuke/pinact/stargazers)
 [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) | [67](https://github.com/zoetrope/kubebuilder-training/stargazers)
 [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) | [58](https://github.com/suzuki-shunsuke/ghalint/stargazers)
@@ -419,6 +418,7 @@ Repository | :star: The number of GitHub stars
 [matchan26/wordpress-infra](https://github.com/matchan26/wordpress-infra) | [0](https://github.com/matchan26/wordpress-infra/stargazers)
 [matukoto/dotfiles](https://github.com/matukoto/dotfiles) | [0](https://github.com/matukoto/dotfiles/stargazers)
 [merlindorin/go-shared](https://github.com/merlindorin/go-shared) | [0](https://github.com/merlindorin/go-shared/stargazers)
+[merlindorin/tk](https://github.com/merlindorin/tk) | [0](https://github.com/merlindorin/tk/stargazers)
 [micro-service-lab/recs-seem-web](https://github.com/micro-service-lab/recs-seem-web) | [0](https://github.com/micro-service-lab/recs-seem-web/stargazers)
 [mikutas/dotfiles](https://github.com/mikutas/dotfiles) | [0](https://github.com/mikutas/dotfiles/stargazers)
 [mikutas/grpc-go-helloworld](https://github.com/mikutas/grpc-go-helloworld) | [0](https://github.com/mikutas/grpc-go-helloworld/stargazers)
@@ -529,6 +529,7 @@ Repository | :star: The number of GitHub stars
 [ymm10ak1/dotfiles](https://github.com/ymm10ak1/dotfiles) | [0](https://github.com/ymm10ak1/dotfiles/stargazers)
 [yqYo1/dotfiles](https://github.com/yqYo1/dotfiles) | [0](https://github.com/yqYo1/dotfiles/stargazers)
 [yukiyamamuro/remix_shadcn_ui](https://github.com/yukiyamamuro/remix_shadcn_ui) | [0](https://github.com/yukiyamamuro/remix_shadcn_ui/stargazers)
+[yumafuu/dotfiles](https://github.com/yumafuu/dotfiles) | [0](https://github.com/yumafuu/dotfiles/stargazers)
 [yumafuu/editor](https://github.com/yumafuu/editor) | [0](https://github.com/yumafuu/editor/stargazers)
 [yumafuu/resume](https://github.com/yumafuu/resume) | [0](https://github.com/yumafuu/resume/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
