@@ -1,11 +1,11 @@
-_The last update: [2024-10-27T01:26:41Z](https://github.com/aquaproj/user-list/actions/runs/11536460047)_
+_The last update: [2024-10-28T01:24:53Z](https://github.com/aquaproj/user-list/actions/runs/11545602109)_
 
-The number of repositories: 545
+The number of repositories: 546
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23382](https://github.com/aquasecurity/trivy/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1250](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23393](https://github.com/aquasecurity/trivy/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1252](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [853](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [426](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [413](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
@@ -166,6 +166,7 @@ Repository | :star: The number of GitHub stars
 [mab/dotfiles](https://github.com/mab/dotfiles) | [2](https://github.com/mab/dotfiles/stargazers)
 [nakamasato/github-actions-practice](https://github.com/nakamasato/github-actions-practice) | [2](https://github.com/nakamasato/github-actions-practice/stargazers)
 [nipuna-perera/dotfiles](https://github.com/nipuna-perera/dotfiles) | [2](https://github.com/nipuna-perera/dotfiles/stargazers)
+[piny940/infra](https://github.com/piny940/infra) | [2](https://github.com/piny940/infra/stargazers)
 [potsbo/dotfiles](https://github.com/potsbo/dotfiles) | [2](https://github.com/potsbo/dotfiles/stargazers)
 [pyama2000/example-cqrs-event-store](https://github.com/pyama2000/example-cqrs-event-store) | [2](https://github.com/pyama2000/example-cqrs-event-store/stargazers)
 [sheldonhull/az-pr](https://github.com/sheldonhull/az-pr) | [2](https://github.com/sheldonhull/az-pr/stargazers)
