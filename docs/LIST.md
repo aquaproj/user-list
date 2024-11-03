@@ -1,11 +1,11 @@
-_The last update: [2024-11-02T01:20:23Z](https://github.com/aquaproj/user-list/actions/runs/11638629933)_
+_The last update: [2024-11-03T01:25:20Z](https://github.com/aquaproj/user-list/actions/runs/11647330836)_
 
 The number of repositories: 550
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23460](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [17787](https://github.com/vectordotdev/vector/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23473](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [17792](https://github.com/vectordotdev/vector/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1256](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [857](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [427](https://github.com/so-dang-cool/dt/stargazers)
@@ -100,7 +100,6 @@ Repository | :star: The number of GitHub stars
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
 [gaerfield/dotfiles](https://github.com/gaerfield/dotfiles) | [4](https://github.com/gaerfield/dotfiles/stargazers)
 [i544c-me/buicha-social](https://github.com/i544c-me/buicha-social) | [4](https://github.com/i544c-me/buicha-social/stargazers)
-[int128/typescript-k6](https://github.com/int128/typescript-k6) | [4](https://github.com/int128/typescript-k6/stargazers)
 [jenkinsci/thycotic-devops-secrets-vault-plugin](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin) | [4](https://github.com/jenkinsci/thycotic-devops-secrets-vault-plugin/stargazers)
 [kkk777-7/k8s-slack-notifier](https://github.com/kkk777-7/k8s-slack-notifier) | [4](https://github.com/kkk777-7/k8s-slack-notifier/stargazers)
 [lkmgr/dotfiles](https://github.com/lkmgr/dotfiles) | [4](https://github.com/lkmgr/dotfiles/stargazers)
@@ -127,6 +126,7 @@ Repository | :star: The number of GitHub stars
 [aquaproj/update-checksum-action](https://github.com/aquaproj/update-checksum-action) | [3](https://github.com/aquaproj/update-checksum-action/stargazers)
 [evrone/terraform-yandex-postgres](https://github.com/evrone/terraform-yandex-postgres) | [3](https://github.com/evrone/terraform-yandex-postgres/stargazers)
 [frezbo/dotfiles](https://github.com/frezbo/dotfiles) | [3](https://github.com/frezbo/dotfiles/stargazers)
+[int128/typescript-k6](https://github.com/int128/typescript-k6) | [3](https://github.com/int128/typescript-k6/stargazers)
 [itkq/dotfiles](https://github.com/itkq/dotfiles) | [3](https://github.com/itkq/dotfiles/stargazers)
 [kudoas/diff-check-bun-lockfile](https://github.com/kudoas/diff-check-bun-lockfile) | [3](https://github.com/kudoas/diff-check-bun-lockfile/stargazers)
 [kudoas/portfolio](https://github.com/kudoas/portfolio) | [3](https://github.com/kudoas/portfolio/stargazers)
