@@ -10,14 +10,14 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-11-03T01:25:20Z](https://github.com/aquaproj/user-list/actions/runs/11647330836)_
+_The last update: [2024-11-04T01:22:10Z](https://github.com/aquaproj/user-list/actions/runs/11656451340)_
 
 The number of repositories: 550
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23473](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [17792](https://github.com/vectordotdev/vector/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23482](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [17799](https://github.com/vectordotdev/vector/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1256](https://github.com/aquasecurity/trivy-operator/stargazers)
 [aquaproj/aqua](https://github.com/aquaproj/aqua) | [857](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [427](https://github.com/so-dang-cool/dt/stargazers)
@@ -59,9 +59,9 @@ Repository | :star: The number of GitHub stars
 [yuyaban/gitlab-comment](https://github.com/yuyaban/gitlab-comment) | [14](https://github.com/yuyaban/gitlab-comment/stargazers)
 [odanado/dotfiles](https://github.com/odanado/dotfiles) | [13](https://github.com/odanado/dotfiles/stargazers)
 [zoetrope/website-operator](https://github.com/zoetrope/website-operator) | [13](https://github.com/zoetrope/website-operator/stargazers)
+[Omochice/renovate-config](https://github.com/Omochice/renovate-config) | [12](https://github.com/Omochice/renovate-config/stargazers)
 [suzuki-shunsuke/ci-info](https://github.com/suzuki-shunsuke/ci-info) | [12](https://github.com/suzuki-shunsuke/ci-info/stargazers)
 [suzuki-shunsuke/circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [12](https://github.com/suzuki-shunsuke/circleci-config-merge/stargazers)
-[Omochice/renovate-config](https://github.com/Omochice/renovate-config) | [11](https://github.com/Omochice/renovate-config/stargazers)
 [mimikun/dotfiles](https://github.com/mimikun/dotfiles) | [11](https://github.com/mimikun/dotfiles/stargazers)
 [arrow2nd/dotfiles](https://github.com/arrow2nd/dotfiles) | [10](https://github.com/arrow2nd/dotfiles/stargazers)
 [sheldonhull/magetools](https://github.com/sheldonhull/magetools) | [10](https://github.com/sheldonhull/magetools/stargazers)
