@@ -1,13 +1,13 @@
-_The last update: [2024-11-10T01:22:22Z](https://github.com/aquaproj/user-list/actions/runs/11760999445)_
+_The last update: [2024-11-11T01:19:21Z](https://github.com/aquaproj/user-list/actions/runs/11770326936)_
 
-The number of repositories: 560
+The number of repositories: 561
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23583](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18027](https://github.com/vectordotdev/vector/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23592](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18051](https://github.com/vectordotdev/vector/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1271](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [862](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [863](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [428](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [417](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [273](https://github.com/suzuki-shunsuke/tfaction/stargazers)
@@ -78,6 +78,7 @@ Repository | :star: The number of GitHub stars
 [DelineaXPM/terraform-provider-dsv](https://github.com/DelineaXPM/terraform-provider-dsv) | [6](https://github.com/DelineaXPM/terraform-provider-dsv/stargazers)
 [ShotaKitazawa/dotfiles](https://github.com/ShotaKitazawa/dotfiles) | [6](https://github.com/ShotaKitazawa/dotfiles/stargazers)
 [adyranov/dotfiles](https://github.com/adyranov/dotfiles) | [6](https://github.com/adyranov/dotfiles/stargazers)
+[aquaproj/user-list](https://github.com/aquaproj/user-list) | [6](https://github.com/aquaproj/user-list/stargazers)
 [castaneai/openmatch-local-dev](https://github.com/castaneai/openmatch-local-dev) | [6](https://github.com/castaneai/openmatch-local-dev/stargazers)
 [mgi166/dotfiles](https://github.com/mgi166/dotfiles) | [6](https://github.com/mgi166/dotfiles/stargazers)
 [miscord-dev/tetrapod](https://github.com/miscord-dev/tetrapod) | [6](https://github.com/miscord-dev/tetrapod/stargazers)
@@ -90,7 +91,6 @@ Repository | :star: The number of GitHub stars
 [DelineaXPM/dsv-k8s-sidecar](https://github.com/DelineaXPM/dsv-k8s-sidecar) | [5](https://github.com/DelineaXPM/dsv-k8s-sidecar/stargazers)
 [Kesin11/dotfiles](https://github.com/Kesin11/dotfiles) | [5](https://github.com/Kesin11/dotfiles/stargazers)
 [aquaproj/aquaproj.github.io](https://github.com/aquaproj/aquaproj.github.io) | [5](https://github.com/aquaproj/aquaproj.github.io/stargazers)
-[aquaproj/user-list](https://github.com/aquaproj/user-list) | [5](https://github.com/aquaproj/user-list/stargazers)
 [cappyzawa/dotfiles](https://github.com/cappyzawa/dotfiles) | [5](https://github.com/cappyzawa/dotfiles/stargazers)
 [guni1192/minecraft-operator](https://github.com/guni1192/minecraft-operator) | [5](https://github.com/guni1192/minecraft-operator/stargazers)
 [kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [5](https://github.com/kmdkuk/MCing/stargazers)
@@ -536,6 +536,7 @@ Repository | :star: The number of GitHub stars
 [umi-ushi/go-project-template](https://github.com/umi-ushi/go-project-template) | [0](https://github.com/umi-ushi/go-project-template/stargazers)
 [umi-ushi/goblueprints-handwritten-copy](https://github.com/umi-ushi/goblueprints-handwritten-copy) | [0](https://github.com/umi-ushi/goblueprints-handwritten-copy/stargazers)
 [umi-ushi/k6-playground](https://github.com/umi-ushi/k6-playground) | [0](https://github.com/umi-ushi/k6-playground/stargazers)
+[ushitora-anqou/vahkane](https://github.com/ushitora-anqou/vahkane) | [0](https://github.com/ushitora-anqou/vahkane/stargazers)
 [ut61z/hono_blog](https://github.com/ut61z/hono_blog) | [0](https://github.com/ut61z/hono_blog/stargazers)
 [watarukura/dotfiles](https://github.com/watarukura/dotfiles) | [0](https://github.com/watarukura/dotfiles/stargazers)
 [watarukura/zenn-content](https://github.com/watarukura/zenn-content) | [0](https://github.com/watarukura/zenn-content/stargazers)
