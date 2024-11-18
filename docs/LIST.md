@@ -1,19 +1,19 @@
-_The last update: [2024-11-17T01:27:56Z](https://github.com/aquaproj/user-list/actions/runs/11874805574)_
+_The last update: [2024-11-18T01:25:10Z](https://github.com/aquaproj/user-list/actions/runs/11884048548)_
 
-The number of repositories: 569
+The number of repositories: 570
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23692](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18124](https://github.com/vectordotdev/vector/stargazers)
-[jdx/mise](https://github.com/jdx/mise) | [10106](https://github.com/jdx/mise/stargazers)
-[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1278](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [876](https://github.com/aquaproj/aqua/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23702](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18128](https://github.com/vectordotdev/vector/stargazers)
+[jdx/mise](https://github.com/jdx/mise) | [10115](https://github.com/jdx/mise/stargazers)
+[aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1279](https://github.com/aquasecurity/trivy-operator/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [877](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [428](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [417](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [276](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [246](https://github.com/ddddddO/gtree/stargazers)
-[suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [104](https://github.com/suzuki-shunsuke/github-comment/stargazers)
+[suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [105](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [103](https://github.com/megabyte-labs/install.doctor/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [102](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [84](https://github.com/DeNA/unity-meta-check/stargazers)
@@ -90,6 +90,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/renovate-autoclose-action](https://github.com/suzuki-shunsuke/renovate-autoclose-action) | [6](https://github.com/suzuki-shunsuke/renovate-autoclose-action/stargazers)
 [walnuts1018/infra](https://github.com/walnuts1018/infra) | [6](https://github.com/walnuts1018/infra/stargazers)
 [zoetrope/kubbernecker](https://github.com/zoetrope/kubbernecker) | [6](https://github.com/zoetrope/kubbernecker/stargazers)
+[Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) | [5](https://github.com/Alexsaphir/K3s-Flux/stargazers)
 [DelineaXPM/dsv-k8s-sidecar](https://github.com/DelineaXPM/dsv-k8s-sidecar) | [5](https://github.com/DelineaXPM/dsv-k8s-sidecar/stargazers)
 [Kesin11/dotfiles](https://github.com/Kesin11/dotfiles) | [5](https://github.com/Kesin11/dotfiles/stargazers)
 [aquaproj/aquaproj.github.io](https://github.com/aquaproj/aquaproj.github.io) | [5](https://github.com/aquaproj/aquaproj.github.io/stargazers)
@@ -98,7 +99,6 @@ Repository | :star: The number of GitHub stars
 [kmdkuk/MCing](https://github.com/kmdkuk/MCing) | [5](https://github.com/kmdkuk/MCing/stargazers)
 [lkmgr/dotfiles](https://github.com/lkmgr/dotfiles) | [5](https://github.com/lkmgr/dotfiles/stargazers)
 [srynot4sale/dotfiles](https://github.com/srynot4sale/dotfiles) | [5](https://github.com/srynot4sale/dotfiles/stargazers)
-[Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) | [4](https://github.com/Alexsaphir/K3s-Flux/stargazers)
 [DelineaXPM/ansible-core-collection](https://github.com/DelineaXPM/ansible-core-collection) | [4](https://github.com/DelineaXPM/ansible-core-collection/stargazers)
 [Omochice/tataku.vim](https://github.com/Omochice/tataku.vim) | [4](https://github.com/Omochice/tataku.vim/stargazers)
 [cybozu-go/pod-security-admission](https://github.com/cybozu-go/pod-security-admission) | [4](https://github.com/cybozu-go/pod-security-admission/stargazers)
@@ -517,6 +517,7 @@ Repository | :star: The number of GitHub stars
 [tacit-tanuki/dotfiles](https://github.com/tacit-tanuki/dotfiles) | [0](https://github.com/tacit-tanuki/dotfiles/stargazers)
 [tadayosi/issues](https://github.com/tadayosi/issues) | [0](https://github.com/tadayosi/issues/stargazers)
 [takapg/terraform-cicd-test](https://github.com/takapg/terraform-cicd-test) | [0](https://github.com/takapg/terraform-cicd-test/stargazers)
+[takehiro1111/aws_terraform](https://github.com/takehiro1111/aws_terraform) | [0](https://github.com/takehiro1111/aws_terraform/stargazers)
 [takokun778/gotagnews](https://github.com/takokun778/gotagnews) | [0](https://github.com/takokun778/gotagnews/stargazers)
 [takokun778/playgoround](https://github.com/takokun778/playgoround) | [0](https://github.com/takokun778/playgoround/stargazers)
 [takokun778/template-module](https://github.com/takokun778/template-module) | [0](https://github.com/takokun778/template-module/stargazers)
