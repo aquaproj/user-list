@@ -1,20 +1,20 @@
-_The last update: [2024-11-19T01:23:08Z](https://github.com/aquaproj/user-list/actions/runs/11904348708)_
+_The last update: [2024-11-20T01:24:41Z](https://github.com/aquaproj/user-list/actions/runs/11924873412)_
 
 The number of repositories: 570
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23719](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18139](https://github.com/vectordotdev/vector/stargazers)
-[jdx/mise](https://github.com/jdx/mise) | [10132](https://github.com/jdx/mise/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23738](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18158](https://github.com/vectordotdev/vector/stargazers)
+[jdx/mise](https://github.com/jdx/mise) | [10142](https://github.com/jdx/mise/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1281](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [877](https://github.com/aquaproj/aqua/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [428](https://github.com/so-dang-cool/dt/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [878](https://github.com/aquaproj/aqua/stargazers)
+[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [429](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [418](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [276](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [246](https://github.com/ddddddO/gtree/stargazers)
-[suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [105](https://github.com/suzuki-shunsuke/github-comment/stargazers)
-[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [103](https://github.com/megabyte-labs/install.doctor/stargazers)
+[suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [106](https://github.com/suzuki-shunsuke/github-comment/stargazers)
+[megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [104](https://github.com/megabyte-labs/install.doctor/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [102](https://github.com/aquaproj/aqua-registry/stargazers)
 [DeNA/unity-meta-check](https://github.com/DeNA/unity-meta-check) | [84](https://github.com/DeNA/unity-meta-check/stargazers)
 [suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [76](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
