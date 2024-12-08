@@ -10,21 +10,23 @@ The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
 
-_The last update: [2024-12-07T01:25:12Z](https://github.com/aquaproj/user-list/actions/runs/12208662958)_
+_The last update: [2024-12-08T01:39:23Z](https://github.com/aquaproj/user-list/actions/runs/12217769068)_
 
-The number of repositories: 581
+The number of repositories: 585
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23935](https://github.com/aquasecurity/trivy/stargazers)
-[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18333](https://github.com/vectordotdev/vector/stargazers)
-[jdx/mise](https://github.com/jdx/mise) | [10505](https://github.com/jdx/mise/stargazers)
+[aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [23939](https://github.com/aquasecurity/trivy/stargazers)
+[vectordotdev/vector](https://github.com/vectordotdev/vector) | [18340](https://github.com/vectordotdev/vector/stargazers)
+[jdx/mise](https://github.com/jdx/mise) | [10523](https://github.com/jdx/mise/stargazers)
 [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) | [1297](https://github.com/aquasecurity/trivy-operator/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [905](https://github.com/aquaproj/aqua/stargazers)
+[aquaproj/aqua](https://github.com/aquaproj/aqua) | [910](https://github.com/aquaproj/aqua/stargazers)
 [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [430](https://github.com/so-dang-cool/dt/stargazers)
 [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [420](https://github.com/suzuki-shunsuke/tfcmt/stargazers)
+[koki-develop/clive](https://github.com/koki-develop/clive) | [341](https://github.com/koki-develop/clive/stargazers)
 [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) | [278](https://github.com/suzuki-shunsuke/tfaction/stargazers)
 [ddddddO/gtree](https://github.com/ddddddO/gtree) | [246](https://github.com/ddddddO/gtree/stargazers)
+[koki-develop/gat](https://github.com/koki-develop/gat) | [217](https://github.com/koki-develop/gat/stargazers)
 [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) | [109](https://github.com/suzuki-shunsuke/github-comment/stargazers)
 [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) | [108](https://github.com/megabyte-labs/install.doctor/stargazers)
 [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | [107](https://github.com/aquaproj/aqua-registry/stargazers)
@@ -77,6 +79,7 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) | [8](https://github.com/suzuki-shunsuke/pinact-action/stargazers)
 [DelineaXPM/dsv-sdk-go](https://github.com/DelineaXPM/dsv-sdk-go) | [7](https://github.com/DelineaXPM/dsv-sdk-go/stargazers)
 [gamoutatsumi/dotfiles](https://github.com/gamoutatsumi/dotfiles) | [7](https://github.com/gamoutatsumi/dotfiles/stargazers)
+[isboyjc/github-trending-api](https://github.com/isboyjc/github-trending-api) | [7](https://github.com/isboyjc/github-trending-api/stargazers)
 [koyashiro/dotfiles](https://github.com/koyashiro/dotfiles) | [7](https://github.com/koyashiro/dotfiles/stargazers)
 [masterpointio/masterpoint.io](https://github.com/masterpointio/masterpoint.io) | [7](https://github.com/masterpointio/masterpoint.io/stargazers)
 [rwaltr/dotfiles](https://github.com/rwaltr/dotfiles) | [7](https://github.com/rwaltr/dotfiles/stargazers)
@@ -162,7 +165,6 @@ Repository | :star: The number of GitHub stars
 [zoetrope/k8s-tools](https://github.com/zoetrope/k8s-tools) | [3](https://github.com/zoetrope/k8s-tools/stargazers)
 [4513ECHO/aqua-picker](https://github.com/4513ECHO/aqua-picker) | [2](https://github.com/4513ECHO/aqua-picker/stargazers)
 [4513ECHO/sqlc-gen-deno-postgres](https://github.com/4513ECHO/sqlc-gen-deno-postgres) | [2](https://github.com/4513ECHO/sqlc-gen-deno-postgres/stargazers)
-[Allianaab2m/dotfiles](https://github.com/Allianaab2m/dotfiles) | [2](https://github.com/Allianaab2m/dotfiles/stargazers)
 [DelineaXPM/github-workflows](https://github.com/DelineaXPM/github-workflows) | [2](https://github.com/DelineaXPM/github-workflows/stargazers)
 [Omochice/podeno](https://github.com/Omochice/podeno) | [2](https://github.com/Omochice/podeno/stargazers)
 [RyosukeDTomita/devsecops-demo-aws-ecs](https://github.com/RyosukeDTomita/devsecops-demo-aws-ecs) | [2](https://github.com/RyosukeDTomita/devsecops-demo-aws-ecs/stargazers)
@@ -476,6 +478,7 @@ Repository | :star: The number of GitHub stars
 [murn0/renovate-auto-merge-test](https://github.com/murn0/renovate-auto-merge-test) | [0](https://github.com/murn0/renovate-auto-merge-test/stargazers)
 [murn0/renovate-automerge-workflow](https://github.com/murn0/renovate-automerge-workflow) | [0](https://github.com/murn0/renovate-automerge-workflow/stargazers)
 [murn0/test-auto-draft-release](https://github.com/murn0/test-auto-draft-release) | [0](https://github.com/murn0/test-auto-draft-release/stargazers)
+[n-tanaka-idcf/dotfiles](https://github.com/n-tanaka-idcf/dotfiles) | [0](https://github.com/n-tanaka-idcf/dotfiles/stargazers)
 [naari3/yaru-minna](https://github.com/naari3/yaru-minna) | [0](https://github.com/naari3/yaru-minna/stargazers)
 [nakatanakatana/dotfiles](https://github.com/nakatanakatana/dotfiles) | [0](https://github.com/nakatanakatana/dotfiles/stargazers)
 [namipey/gha-usage-fetcher](https://github.com/namipey/gha-usage-fetcher) | [0](https://github.com/namipey/gha-usage-fetcher/stargazers)
@@ -590,6 +593,7 @@ Repository | :star: The number of GitHub stars
 [yumafuu/editor](https://github.com/yumafuu/editor) | [0](https://github.com/yumafuu/editor/stargazers)
 [yumafuu/resume](https://github.com/yumafuu/resume) | [0](https://github.com/yumafuu/resume/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
+[yuriscott/Vector](https://github.com/yuriscott/Vector) | [0](https://github.com/yuriscott/Vector/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
 [yuya-takeyama/microsoft-graph-api-practice](https://github.com/yuya-takeyama/microsoft-graph-api-practice) | [0](https://github.com/yuya-takeyama/microsoft-graph-api-practice/stargazers)
 [yuya-takeyama/modjo](https://github.com/yuya-takeyama/modjo) | [0](https://github.com/yuya-takeyama/modjo/stargazers)
