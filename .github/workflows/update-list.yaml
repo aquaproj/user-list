@@ -15,7 +15,7 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-go@3041bf56c941b39c61721a86cd11f3bb1338122a # v5.2.0
         with:
-          go-version: 1.23.4
+          go-version: 1.23.5
 
       - id: generate_token
         uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v2.1.0
