@@ -2,7 +2,7 @@ module github.com/aquaproj/user-list
 
 go 1.23.0
 
-toolchain go1.24.0
+toolchain go1.24.1
 
 require (
 	github.com/google/go-github/v69 v69.2.0
