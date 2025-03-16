@@ -3,112 +3,20 @@ name: test
 on: pull_request
 permissions: {}
 jobs:
-  path-filter:
-    # Get changed files to filter jobs
+  status-check:
+    runs-on: ubuntu-24.04
+    if: failure()
     timeout-minutes: 10
-    outputs:
-      update-aqua-checksums: ${{steps.changes.outputs.update-aqua-checksums}}
-      renovate-config-validator: ${{steps.changes.outputs.renovate-config-validator}}
-      ghalint: ${{steps.changes.outputs.ghalint}}
-      go-mod-tidy: ${{steps.changes.outputs.go-mod-tidy}}
-      test: ${{steps.changes.outputs.test}}
-      update-readme: ${{steps.changes.outputs.update-readme}}
-    runs-on: ubuntu-latest
     permissions: {}
+    needs:
+      - test
     steps:
-      - uses: dorny/paths-filter@de90cc6fb38fc0963ad72b210f1f284cd68cea36 # v3.0.2
-        id: changes
-        with:
-          filters: |
-            update-aqua-checksums:
-              - aqua/aqua.yaml
-              - aqua/imports/*.yaml
-              - aqua/aqua-checksums.json
-              - .github/workflows/test.yaml
-              - .github/workflows/wc-update-aqua-checksums.yaml
-            renovate-config-validator:
-              - renovate.json5
-              - .github/workflows/test.yaml
-              - .github/workflows/wc-renovate-config-validator.yaml
-            ghalint:
-              - .github/workflows/*.yaml
-              - aqua/aqua.yaml
-              - aqua/imports/ghalint.yaml
-              - ghalint.yaml
-            go-mod-tidy:
-              - go.mod
-              - go.sum
-              - "**.go"
-              - .github/workflows/test.yaml
-              - .github/workflows/wc-go-mod-tidy.yaml
-            test:
-              - go.mod
-              - go.sum
-              - "**.go"
-              - aqua/imports/golangci-lint.yaml
-              - .github/workflows/test.yaml
-              - .github/workflows/wc-test.yaml
-            update-readme:
-              - README.md
-              - docs/HEADER.md
-              - docs/LIST.md
-              - docs/FOOTER.md
-
-  enable-automerge-update-list:
-    uses: ./.github/workflows/wc-enable-auto-merge.yaml
-    permissions:
-      contents: write # For enable automerge
-      pull-requests: write # For enable automerge
-    if: |
-      startsWith(github.head_ref, 'update-list-')
-    secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
-
-  renovate-config-validator:
-    uses: ./.github/workflows/wc-renovate-config-validator.yaml
-    needs: path-filter
-    if: needs.path-filter.outputs.renovate-config-validator == 'true'
-    permissions:
-      contents: read
-
-  update-aqua-checksums:
-    needs: path-filter
-    if: needs.path-filter.outputs.update-aqua-checksums == 'true'
-    uses: ./.github/workflows/wc-update-aqua-checksums.yaml
-    permissions:
-      contents: read
-    secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
-
-  ghalint:
-    needs: path-filter
-    if: needs.path-filter.outputs.ghalint == 'true'
-    uses: ./.github/workflows/wc-ghalint.yaml
-    permissions: {}
-
+      - run: exit 1
   test:
-    uses: ./.github/workflows/wc-test.yaml
-    if: needs.path-filter.outputs.test == 'true'
-    needs: path-filter
-    permissions: {}
-
-  update-readme:
-    uses: ./.github/workflows/wc-update-readme.yaml
-    if: needs.path-filter.outputs.update-readme == 'true'
-    needs: path-filter
-    permissions: {}
-    secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
-
-  go-mod-tidy:
-    uses: ./.github/workflows/wc-go-mod-tidy.yaml
-    needs: path-filter
-    if: needs.path-filter.outputs.go-mod-tidy == 'true'
-    secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+    uses: ./.github/workflows/workflow_call_test.yaml
     permissions:
-      contents: read
+      contents: write
+      pull-requests: write
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}

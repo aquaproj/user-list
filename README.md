@@ -9,7 +9,6 @@ The list of GitHub public repositories that use [aqua](https://aquaproj.github.i
 The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
-
 _The last update: [2025-03-16T01:28:37Z](https://github.com/aquaproj/user-list/actions/runs/13878540415)_
 
 The number of repositories: 602
@@ -618,7 +617,6 @@ Repository | :star: The number of GitHub stars
 [zoetrope/noisy-controller](https://github.com/zoetrope/noisy-controller) | [0](https://github.com/zoetrope/noisy-controller/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
 [zuckeyM-17/learning-terraform](https://github.com/zuckeyM-17/learning-terraform) | [0](https://github.com/zuckeyM-17/learning-terraform/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
