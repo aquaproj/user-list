@@ -50,8 +50,8 @@ jobs:
     if: |
       startsWith(github.head_ref, 'update-list-')
     secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+      gh_app_id: ${{secrets.gh_app_id}}
+      gh_app_private_key: ${{secrets.gh_app_private_key}}
 
   renovate-config-validator:
     uses: ./.github/workflows/wc-renovate-config-validator.yaml
@@ -78,5 +78,5 @@ jobs:
     needs: path-filter
     permissions: {}
     secrets:
-      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
-      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
+      gh_app_id: ${{secrets.gh_app_id}}
+      gh_app_private_key: ${{secrets.gh_app_private_key}}

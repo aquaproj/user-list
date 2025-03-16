@@ -17,3 +17,6 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    secrets:
+      gh_app_id: ${{secrets.APP_ID_AQUAPROJ_AQUA}}
+      gh_app_private_key: ${{secrets.APP_PRIVATE_KEY_AQUAPROJ_AQUA}}
