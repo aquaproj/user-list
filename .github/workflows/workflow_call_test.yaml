@@ -1,6 +1,13 @@
 ---
 name: test (workflow_call)
-on: workflow_call
+on:
+  workflow_call:
+    secrets:
+      gh_app_id:
+        required: true
+      gh_app_private_key:
+        required: true
+
 permissions: {}
 jobs:
   path-filter:
