@@ -285,7 +285,6 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/modjo-playground](https://github.com/yuya-takeyama/modjo-playground) | [0](https://github.com/yuya-takeyama/modjo-playground/stargazers)
 [yuya-takeyama/self-hosted-renovate-practice](https://github.com/yuya-takeyama/self-hosted-renovate-practice) | [0](https://github.com/yuya-takeyama/self-hosted-renovate-practice/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
