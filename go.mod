@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/google/go-github/v70 v70.0.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/shurcooL/githubv4 v0.0.0-20240429030203-be2daab69064
 	golang.org/x/oauth2 v0.28.0
 )
