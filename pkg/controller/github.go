@@ -110,7 +110,7 @@ func (gh *GitHub) SearchRepos(ctx context.Context, logger zerolog.Logger, query 
 		if len(result.CodeResults) < opts.PerPage {
 			break
 		}
-		opts.ListOptions.Page++
+		opts.Page++
 	}
 	return resultMap, nil
 }
