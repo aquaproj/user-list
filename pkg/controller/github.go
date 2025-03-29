@@ -53,11 +53,11 @@ func (gh *GitHub) SearchRepos(ctx context.Context, logger zerolog.Logger, query 
 		},
 	}
 	resultMap := map[string]*Result{}
-	for range 30 {
+	for range 50 {
 		// API rate limit
 		// https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#considerations-for-code-search
 		// This endpoint requires you to authenticate and limits you to 10 requests per minute.
-		result, _, err := gh.search.Code(ctx, query, opts)
+		result, resp, err := gh.search.Code(ctx, query, opts)
 		if err != nil { //nolint:nestif
 			rateLimitError := &github.RateLimitError{}
 			if ok := errors.As(err, &rateLimitError); ok {
@@ -107,10 +107,10 @@ func (gh *GitHub) SearchRepos(ctx context.Context, logger zerolog.Logger, query 
 				Star: repo.Star,
 			}
 		}
-		if len(result.CodeResults) < opts.PerPage {
+		if resp.NextPage == 0 {
 			break
 		}
-		opts.Page++
+		opts.Page = resp.NextPage
 	}
 	return resultMap, nil
 }
