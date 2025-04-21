@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: suzuki-shunsuke/go-autofix-action@1e0363f4c4ad941461888be47dc06aa49203dea1 # v0.1.6
         with:
-          aqua_version: v2.48.1
+          aqua_version: v2.50.0
       - uses: suzuki-shunsuke/autofixci-action@a148ca710fd8bf5d9959d5d7604018ce8a77bad0 # v1.3.2-1
