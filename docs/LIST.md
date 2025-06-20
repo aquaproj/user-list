@@ -98,4 +98,3 @@ Repository | :star: The number of GitHub stars
 [ylf881011/vector](https://github.com/ylf881011/vector) | [0](https://github.com/ylf881011/vector/stargazers)
 [yukiyamamuro/ai_agent_sample](https://github.com/yukiyamamuro/ai_agent_sample) | [0](https://github.com/yukiyamamuro/ai_agent_sample/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
-
