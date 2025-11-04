@@ -92,4 +92,3 @@ Repository | :star: The number of GitHub stars
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
 [yuya-takeyama/monotonix-playground](https://github.com/yuya-takeyama/monotonix-playground) | [0](https://github.com/yuya-takeyama/monotonix-playground/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
-
