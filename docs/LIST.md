@@ -99,4 +99,3 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/cchh](https://github.com/yuya-takeyama/cchh) | [0](https://github.com/yuya-takeyama/cchh/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
 [yuya-takeyama/dok](https://github.com/yuya-takeyama/dok) | [0](https://github.com/yuya-takeyama/dok/stargazers)
-
