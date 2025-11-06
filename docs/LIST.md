@@ -101,4 +101,3 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/cchh](https://github.com/yuya-takeyama/cchh) | [0](https://github.com/yuya-takeyama/cchh/stargazers)
 [yuya-takeyama/microsoft-graph-api-practice](https://github.com/yuya-takeyama/microsoft-graph-api-practice) | [0](https://github.com/yuya-takeyama/microsoft-graph-api-practice/stargazers)
 [yuya-takeyama/modjo-playground](https://github.com/yuya-takeyama/modjo-playground) | [0](https://github.com/yuya-takeyama/modjo-playground/stargazers)
-
