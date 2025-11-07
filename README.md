@@ -113,7 +113,6 @@ Repository | :star: The number of GitHub stars
 [yashikota/github-trending-ja](https://github.com/yashikota/github-trending-ja) | [0](https://github.com/yashikota/github-trending-ja/stargazers)
 [yuya-takeyama/microsoft-graph-api-practice](https://github.com/yuya-takeyama/microsoft-graph-api-practice) | [0](https://github.com/yuya-takeyama/microsoft-graph-api-practice/stargazers)
 [yuya-takeyama/self-hosted-renovate-practice](https://github.com/yuya-takeyama/self-hosted-renovate-practice) | [0](https://github.com/yuya-takeyama/self-hosted-renovate-practice/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
