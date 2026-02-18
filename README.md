@@ -701,7 +701,6 @@ Repository | :star: The number of GitHub stars
 [zoetrope/noisy-controller](https://github.com/zoetrope/noisy-controller) | [0](https://github.com/zoetrope/noisy-controller/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
 [zuckeyM-17/learning-terraform](https://github.com/zuckeyM-17/learning-terraform) | [0](https://github.com/zuckeyM-17/learning-terraform/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
