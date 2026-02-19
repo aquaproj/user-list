@@ -15,7 +15,6 @@ The number of repositories: 0
 
 Repository | :star: The number of GitHub stars
 --- | ---
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
