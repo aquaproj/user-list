@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v80/github"
+	"github.com/google/go-github/v82/github"
 	"github.com/rs/zerolog"
 	"github.com/shurcooL/githubv4"
 	"golang.org/x/oauth2"
