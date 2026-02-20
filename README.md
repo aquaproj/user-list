@@ -9,7 +9,7 @@ The list of GitHub public repositories that use [aqua](https://aquaproj.github.i
 The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
-_The last update: [2026-02-19T02:10:47Z](https://github.com/aquaproj/user-list/actions/runs/22165730861)_
+_The last update: [2026-02-20T02:07:01Z](https://github.com/aquaproj/user-list/actions/runs/22208397008)_
 
 The number of repositories: 0
 
