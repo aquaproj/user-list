@@ -111,7 +111,6 @@ Repository | :star: The number of GitHub stars
 [upamune/openhands-custom-sandbox](https://github.com/upamune/openhands-custom-sandbox) | [0](https://github.com/upamune/openhands-custom-sandbox/stargazers)
 [uu64/nimbus](https://github.com/uu64/nimbus) | [0](https://github.com/uu64/nimbus/stargazers)
 [yukiyamamuro/ai_agent_sample](https://github.com/yukiyamamuro/ai_agent_sample) | [0](https://github.com/yukiyamamuro/ai_agent_sample/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
