@@ -181,7 +181,6 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/yoinoyoi-2026](https://github.com/yuya-takeyama/yoinoyoi-2026) | [0](https://github.com/yuya-takeyama/yoinoyoi-2026/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
 [zuckeyM-17/learning-terraform](https://github.com/zuckeyM-17/learning-terraform) | [0](https://github.com/zuckeyM-17/learning-terraform/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
