@@ -259,4 +259,3 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/monotonix-playground](https://github.com/yuya-takeyama/monotonix-playground) | [0](https://github.com/yuya-takeyama/monotonix-playground/stargazers)
 [yuya-takeyama/self-hosted-renovate-practice](https://github.com/yuya-takeyama/self-hosted-renovate-practice) | [0](https://github.com/yuya-takeyama/self-hosted-renovate-practice/stargazers)
 [yuya-takeyama/yoinoyoi-2026](https://github.com/yuya-takeyama/yoinoyoi-2026) | [0](https://github.com/yuya-takeyama/yoinoyoi-2026/stargazers)
-
