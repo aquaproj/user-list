@@ -112,7 +112,6 @@ Repository | :star: The number of GitHub stars
 [yumafuu/resume](https://github.com/yumafuu/resume) | [0](https://github.com/yumafuu/resume/stargazers)
 [yuya-takeyama/dok](https://github.com/yuya-takeyama/dok) | [0](https://github.com/yuya-takeyama/dok/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
