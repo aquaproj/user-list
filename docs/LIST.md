@@ -4,4 +4,3 @@ The number of repositories: 0
 
 Repository | :star: The number of GitHub stars
 --- | ---
-
