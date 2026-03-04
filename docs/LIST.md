@@ -96,4 +96,3 @@ Repository | :star: The number of GitHub stars
 [windsorcli/git-livereload](https://github.com/windsorcli/git-livereload) | [0](https://github.com/windsorcli/git-livereload/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
 [yuya-takeyama/dok](https://github.com/yuya-takeyama/dok) | [0](https://github.com/yuya-takeyama/dok/stargazers)
-
