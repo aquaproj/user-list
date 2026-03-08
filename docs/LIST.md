@@ -163,4 +163,3 @@ Repository | :star: The number of GitHub stars
 [yudai-nkt/dotfiles](https://github.com/yudai-nkt/dotfiles) | [0](https://github.com/yudai-nkt/dotfiles/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
 [yuya-takeyama/monotonix-playground](https://github.com/yuya-takeyama/monotonix-playground) | [0](https://github.com/yuya-takeyama/monotonix-playground/stargazers)
-
