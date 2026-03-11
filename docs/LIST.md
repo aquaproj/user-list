@@ -86,4 +86,3 @@ Repository | :star: The number of GitHub stars
 [yukiyamamuro/mcp_playground](https://github.com/yukiyamamuro/mcp_playground) | [0](https://github.com/yukiyamamuro/mcp_playground/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
-
