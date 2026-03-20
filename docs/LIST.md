@@ -67,4 +67,3 @@ Repository | :star: The number of GitHub stars
 [redjax/Mothership](https://github.com/redjax/Mothership) | [0](https://github.com/redjax/Mothership/stargazers)
 [scepman/terraform-provider-scepman](https://github.com/scepman/terraform-provider-scepman) | [0](https://github.com/scepman/terraform-provider-scepman/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
-
