@@ -55,7 +55,6 @@ Repository | :star: The number of GitHub stars
 [redjax/Ansible](https://github.com/redjax/Ansible) | [0](https://github.com/redjax/Ansible/stargazers)
 [scepman/terraform-provider-scepman](https://github.com/scepman/terraform-provider-scepman) | [0](https://github.com/scepman/terraform-provider-scepman/stargazers)
 [upamune/openhands-custom-sandbox](https://github.com/upamune/openhands-custom-sandbox) | [0](https://github.com/upamune/openhands-custom-sandbox/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
