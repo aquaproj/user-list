@@ -562,7 +562,6 @@ Repository | :star: The number of GitHub stars
 [zhanglimao/trivy](https://github.com/zhanglimao/trivy) | [0](https://github.com/zhanglimao/trivy/stargazers)
 [zoetrope/noisy-controller](https://github.com/zoetrope/noisy-controller) | [0](https://github.com/zoetrope/noisy-controller/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
