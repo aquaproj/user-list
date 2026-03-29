@@ -15,4 +15,3 @@ Repository | :star: The number of GitHub stars
 [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) | [101](https://github.com/suzuki-shunsuke/ghtkn/stargazers)
 [bmwiedemann/openSUSE](https://github.com/bmwiedemann/openSUSE) | [43](https://github.com/bmwiedemann/openSUSE/stargazers)
 [lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn) | [24](https://github.com/lzwme/homebrew-cn/stargazers)
-
