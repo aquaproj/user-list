@@ -37,4 +37,3 @@ Repository | :star: The number of GitHub stars
 [redjax/Mothership](https://github.com/redjax/Mothership) | [0](https://github.com/redjax/Mothership/stargazers)
 [takeru403/obsidian_share](https://github.com/takeru403/obsidian_share) | [0](https://github.com/takeru403/obsidian_share/stargazers)
 [terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
-
