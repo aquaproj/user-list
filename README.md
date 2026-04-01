@@ -463,7 +463,6 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/slack2md](https://github.com/yuya-takeyama/slack2md) | [0](https://github.com/yuya-takeyama/slack2md/stargazers)
 [yuya-takeyama/yoinoyoi-2026](https://github.com/yuya-takeyama/yoinoyoi-2026) | [0](https://github.com/yuya-takeyama/yoinoyoi-2026/stargazers)
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
