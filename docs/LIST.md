@@ -14,4 +14,3 @@ Repository | :star: The number of GitHub stars
 [kayac/go-katsubushi](https://github.com/kayac/go-katsubushi) | [193](https://github.com/kayac/go-katsubushi/stargazers)
 [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) | [102](https://github.com/suzuki-shunsuke/ghtkn/stargazers)
 [bmwiedemann/openSUSE](https://github.com/bmwiedemann/openSUSE) | [43](https://github.com/bmwiedemann/openSUSE/stargazers)
-
