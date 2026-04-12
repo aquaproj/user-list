@@ -54,4 +54,3 @@ Repository | :star: The number of GitHub stars
 [terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
 [wim-web/my_zenn](https://github.com/wim-web/my_zenn) | [0](https://github.com/wim-web/my_zenn/stargazers)
 [yuya-takeyama/show-claude-sse](https://github.com/yuya-takeyama/show-claude-sse) | [0](https://github.com/yuya-takeyama/show-claude-sse/stargazers)
-
