@@ -66,7 +66,6 @@ Repository | :star: The number of GitHub stars
 [upamune/openhands-custom-sandbox](https://github.com/upamune/openhands-custom-sandbox) | [0](https://github.com/upamune/openhands-custom-sandbox/stargazers)
 [watarukura/zenn-content](https://github.com/watarukura/zenn-content) | [0](https://github.com/watarukura/zenn-content/stargazers)
 [westonplatter/aws-lambda-dashapp-template](https://github.com/westonplatter/aws-lambda-dashapp-template) | [0](https://github.com/westonplatter/aws-lambda-dashapp-template/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
