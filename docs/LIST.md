@@ -55,4 +55,3 @@ Repository | :star: The number of GitHub stars
 [szksh-lab-2/example-terraform-init-private-module](https://github.com/szksh-lab-2/example-terraform-init-private-module) | [0](https://github.com/szksh-lab-2/example-terraform-init-private-module/stargazers)
 [terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
 [tomku/dotfiles](https://github.com/tomku/dotfiles) | [0](https://github.com/tomku/dotfiles/stargazers)
-
