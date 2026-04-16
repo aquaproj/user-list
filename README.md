@@ -9,63 +9,13 @@ The list of GitHub public repositories that use [aqua](https://aquaproj.github.i
 The list is updated daily.
 
 [How is the list generated?](#how-is-the-list-generated) | [MIT LICENSE](https://github.com/aquaproj/user-list/blob/main/LICENSE)
-_The last update: [2026-04-15T02:34:43Z](https://github.com/aquaproj/user-list/actions/runs/24433426617)_
+_The last update: [2026-04-16T02:42:10Z](https://github.com/aquaproj/user-list/actions/runs/24489124339)_
 
-The number of repositories: 51
+The number of repositories: 0
 
 Repository | :star: The number of GitHub stars
 --- | ---
-[jdx/mise](https://github.com/jdx/mise) | [26697](https://github.com/jdx/mise/stargazers)
-[Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | [15210](https://github.com/Homebrew/homebrew-core/stargazers)
-[aquaproj/aqua](https://github.com/aquaproj/aqua) | [1603](https://github.com/aquaproj/aqua/stargazers)
-[cloudposse/atmos](https://github.com/cloudposse/atmos) | [1281](https://github.com/cloudposse/atmos/stargazers)
-[suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) | [908](https://github.com/suzuki-shunsuke/pinact/stargazers)
-[jdx/hk](https://github.com/jdx/hk) | [751](https://github.com/jdx/hk/stargazers)
-[mercari/tfnotify](https://github.com/mercari/tfnotify) | [646](https://github.com/mercari/tfnotify/stargazers)
-[so-dang-cool/dt](https://github.com/so-dang-cool/dt) | [458](https://github.com/so-dang-cool/dt/stargazers)
-[open-policy-agent/regal](https://github.com/open-policy-agent/regal) | [373](https://github.com/open-policy-agent/regal/stargazers)
-[kayac/go-katsubushi](https://github.com/kayac/go-katsubushi) | [194](https://github.com/kayac/go-katsubushi/stargazers)
-[takaishi/tfclean](https://github.com/takaishi/tfclean) | [111](https://github.com/takaishi/tfclean/stargazers)
-[suzuki-shunsuke/tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [88](https://github.com/suzuki-shunsuke/tfprovidercheck/stargazers)
-[bmwiedemann/openSUSE](https://github.com/bmwiedemann/openSUSE) | [43](https://github.com/bmwiedemann/openSUSE/stargazers)
-[DelineaXPM/dsv-cli](https://github.com/DelineaXPM/dsv-cli) | [25](https://github.com/DelineaXPM/dsv-cli/stargazers)
-[terraform-linters/tflint-plugin-sdk](https://github.com/terraform-linters/tflint-plugin-sdk) | [21](https://github.com/terraform-linters/tflint-plugin-sdk/stargazers)
-[DelineaXPM/dsv-k8s](https://github.com/DelineaXPM/dsv-k8s) | [15](https://github.com/DelineaXPM/dsv-k8s/stargazers)
-[pacphi/sindri](https://github.com/pacphi/sindri) | [12](https://github.com/pacphi/sindri/stargazers)
-[RyosukeDTomita/airis-burp-extensions](https://github.com/RyosukeDTomita/airis-burp-extensions) | [9](https://github.com/RyosukeDTomita/airis-burp-extensions/stargazers)
-[laurigates/dotfiles](https://github.com/laurigates/dotfiles) | [9](https://github.com/laurigates/dotfiles/stargazers)
-[aereal/go-http-replay](https://github.com/aereal/go-http-replay) | [8](https://github.com/aereal/go-http-replay/stargazers)
-[attakei/age](https://github.com/attakei/age) | [8](https://github.com/attakei/age/stargazers)
-[ianlewis/qmk-keymap](https://github.com/ianlewis/qmk-keymap) | [6](https://github.com/ianlewis/qmk-keymap/stargazers)
-[ophidiarium/cribo](https://github.com/ophidiarium/cribo) | [5](https://github.com/ophidiarium/cribo/stargazers)
-[aquaproj/aqua-registry-updater](https://github.com/aquaproj/aqua-registry-updater) | [4](https://github.com/aquaproj/aqua-registry-updater/stargazers)
-[sheldonhull/dotfiles-starter](https://github.com/sheldonhull/dotfiles-starter) | [4](https://github.com/sheldonhull/dotfiles-starter/stargazers)
-[merlindorin/exporter-unifi-protect](https://github.com/merlindorin/exporter-unifi-protect) | [3](https://github.com/merlindorin/exporter-unifi-protect/stargazers)
-[suzuki-shunsuke/sort-issue-template](https://github.com/suzuki-shunsuke/sort-issue-template) | [3](https://github.com/suzuki-shunsuke/sort-issue-template/stargazers)
-[4513ECHO/aqua-picker](https://github.com/4513ECHO/aqua-picker) | [2](https://github.com/4513ECHO/aqua-picker/stargazers)
-[techblog-szksh-cloud/techblog-szksh-cloud.github.io](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io) | [2](https://github.com/techblog-szksh-cloud/techblog-szksh-cloud.github.io/stargazers)
-[CrystalMethod/aqua-meets-updatecli](https://github.com/CrystalMethod/aqua-meets-updatecli) | [1](https://github.com/CrystalMethod/aqua-meets-updatecli/stargazers)
-[guitarrapc/blog](https://github.com/guitarrapc/blog) | [1](https://github.com/guitarrapc/blog/stargazers)
-[honahuku/ansible](https://github.com/honahuku/ansible) | [1](https://github.com/honahuku/ansible/stargazers)
-[matsuand/docker.docs-ja](https://github.com/matsuand/docker.docs-ja) | [1](https://github.com/matsuand/docker.docs-ja/stargazers)
-[srz-zumix/book-image-check-actions](https://github.com/srz-zumix/book-image-check-actions) | [1](https://github.com/srz-zumix/book-image-check-actions/stargazers)
-[Navirl/sonoQuartz](https://github.com/Navirl/sonoQuartz) | [0](https://github.com/Navirl/sonoQuartz/stargazers)
-[SAILResearch/replication-25-ali-sbom_tools_ecosystem](https://github.com/SAILResearch/replication-25-ali-sbom_tools_ecosystem) | [0](https://github.com/SAILResearch/replication-25-ali-sbom_tools_ecosystem/stargazers)
-[WarrDoge/tuncat](https://github.com/WarrDoge/tuncat) | [0](https://github.com/WarrDoge/tuncat/stargazers)
-[aereal/mediatype](https://github.com/aereal/mediatype) | [0](https://github.com/aereal/mediatype/stargazers)
-[aereal/mt](https://github.com/aereal/mt) | [0](https://github.com/aereal/mt/stargazers)
-[hituzi-no-sippo/djot-preview](https://github.com/hituzi-no-sippo/djot-preview) | [0](https://github.com/hituzi-no-sippo/djot-preview/stargazers)
-[hituzi-no-sippo/template-repository](https://github.com/hituzi-no-sippo/template-repository) | [0](https://github.com/hituzi-no-sippo/template-repository/stargazers)
-[japan4415/discords-debug-container](https://github.com/japan4415/discords-debug-container) | [0](https://github.com/japan4415/discords-debug-container/stargazers)
-[korosuke613/zenn-articles](https://github.com/korosuke613/zenn-articles) | [0](https://github.com/korosuke613/zenn-articles/stargazers)
-[mashiike/oteleport](https://github.com/mashiike/oteleport) | [0](https://github.com/mashiike/oteleport/stargazers)
-[redjax/Ansible](https://github.com/redjax/Ansible) | [0](https://github.com/redjax/Ansible/stargazers)
-[reitzig/template-goapp](https://github.com/reitzig/template-goapp) | [0](https://github.com/reitzig/template-goapp/stargazers)
-[sota1235/renovate-config](https://github.com/sota1235/renovate-config) | [0](https://github.com/sota1235/renovate-config/stargazers)
-[srz-zumix/retry-run-action](https://github.com/srz-zumix/retry-run-action) | [0](https://github.com/srz-zumix/retry-run-action/stargazers)
-[szksh-lab-2/example-terraform-init-private-module](https://github.com/szksh-lab-2/example-terraform-init-private-module) | [0](https://github.com/szksh-lab-2/example-terraform-init-private-module/stargazers)
-[terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
-[tomku/dotfiles](https://github.com/tomku/dotfiles) | [0](https://github.com/tomku/dotfiles/stargazers)
+
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
