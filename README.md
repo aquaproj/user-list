@@ -77,7 +77,6 @@ Repository | :star: The number of GitHub stars
 [terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
 [vspo-lab/config](https://github.com/vspo-lab/config) | [0](https://github.com/vspo-lab/config/stargazers)
 [yumafuu/zenn](https://github.com/yumafuu/zenn) | [0](https://github.com/yumafuu/zenn/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
