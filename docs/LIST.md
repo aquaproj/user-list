@@ -32,4 +32,3 @@ Repository | :star: The number of GitHub stars
 [hituzi-no-sippo/template-repository](https://github.com/hituzi-no-sippo/template-repository) | [0](https://github.com/hituzi-no-sippo/template-repository/stargazers)
 [mkramers/dotfiles](https://github.com/mkramers/dotfiles) | [0](https://github.com/mkramers/dotfiles/stargazers)
 [reitzig/template-goapp](https://github.com/reitzig/template-goapp) | [0](https://github.com/reitzig/template-goapp/stargazers)
-
