@@ -177,7 +177,6 @@ Repository | :star: The number of GitHub stars
 [walnuts1018/kubebuilder-devcontainer-image](https://github.com/walnuts1018/kubebuilder-devcontainer-image) | [0](https://github.com/walnuts1018/kubebuilder-devcontainer-image/stargazers)
 [yumafuu/editor](https://github.com/yumafuu/editor) | [0](https://github.com/yumafuu/editor/stargazers)
 [yuya-takeyama/monotonix-playground](https://github.com/yuya-takeyama/monotonix-playground) | [0](https://github.com/yuya-takeyama/monotonix-playground/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
