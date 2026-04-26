@@ -24,4 +24,3 @@ Repository | :star: The number of GitHub stars
 [takeru403/ccxt_crypt](https://github.com/takeru403/ccxt_crypt) | [0](https://github.com/takeru403/ccxt_crypt/stargazers)
 [terassyi/tomei](https://github.com/terassyi/tomei) | [0](https://github.com/terassyi/tomei/stargazers)
 [yuya-takeyama/deno-lambda-practice](https://github.com/yuya-takeyama/deno-lambda-practice) | [0](https://github.com/yuya-takeyama/deno-lambda-practice/stargazers)
-
