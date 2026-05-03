@@ -98,8 +98,12 @@ func (gh *GitHub) SearchRepos(ctx context.Context, logger zerolog.Logger, query 
 			repoName := codeResult.Repository.GetName()
 			repo, err := gh.GetRepo(ctx, owner, repoName)
 			if err != nil {
-				// logger.Warn().Err(err).Msg("get a repository by GraphQL API")
-				return resultMap, fmt.Errorf("get a repository by GraphQL API: %w", err)
+				logger.Warn().Err(err).Msg("get a repository by GraphQL API")
+				resultMap[repoFullName] = &Result{
+					Repo: repoFullName,
+					Star: -1,
+				}
+				continue
 			}
 			logger.Info().Str("repo", repoFullName).Int("star", repo.Star).Send()
 			resultMap[repoFullName] = &Result{
