@@ -20,7 +20,7 @@ func (c *Controller) Run(ctx context.Context, logger zerolog.Logger) error {
 	gh := NewGitHub(ctx)
 	// query := "-user:suzuki-shunsuke -org:aquaproj aquaproj"
 	// Exclude aquasecurity due to IP restriction: https://github.com/aquaproj/user-list/issues/2101
-	query := "aquaproj/aqua-registry -owner:aquasecurity"
+	query := "aquaproj/aqua-registry -org:aquasecurity"
 	excludedOwners := map[string]struct{}{}
 
 	resultMap, err := gh.SearchRepos(ctx, logger, query, excludedOwners)
