@@ -131,8 +131,8 @@ func (gh *GitHub) GetRepo(ctx context.Context, repoOwner, repoName string) (Repo
 		} `graphql:"repository(owner: $owner, name: $name)"`
 	}
 	variables := map[string]any{
-		"owner": new(repoOwner),
-		"name":  new(repoName),
+		"owner": githubv4.String(repoOwner),
+		"name":  githubv4.String(repoName),
 	}
 
 	if err := gh.v4Client.Query(ctx, &q, variables); err != nil {
