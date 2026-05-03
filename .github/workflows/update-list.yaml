@@ -42,7 +42,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{github.token}}
 
-      - run: go run ./cmd/list-aqua-users | tee docs/LIST.md
+      - run: |
+          set -euo pipefail
+          go run ./cmd/list-aqua-users | tee docs/LIST.md
         env:
           GITHUB_TOKEN: ${{github.token}}
       - run: cat docs/HEADER.md docs/LIST.md docs/FOOTER.md > README.md
