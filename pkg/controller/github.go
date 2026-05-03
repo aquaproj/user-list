@@ -130,9 +130,9 @@ func (gh *GitHub) GetRepo(ctx context.Context, repoOwner, repoName string) (Repo
 			StargazerCount githubv4.Int
 		} `graphql:"repository(owner: $owner, name: $name)"`
 	}
-	variables := map[string]interface{}{
-		"owner": githubv4.String(repoOwner),
-		"name":  githubv4.String(repoName),
+	variables := map[string]any{
+		"owner": new(repoOwner),
+		"name":  new(repoName),
 	}
 
 	if err := gh.v4Client.Query(ctx, &q, variables); err != nil {
