@@ -1,6 +1,6 @@
 module github.com/aquaproj/user-list
 
-go 1.25.1
+go 1.26.2
 
 require (
 	github.com/google/go-github/v85 v85.0.0
