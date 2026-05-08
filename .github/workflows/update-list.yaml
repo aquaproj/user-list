@@ -40,7 +40,9 @@ jobs:
           commit_message: "docs: update the user list"
 
       - run: |
-          gh pr create -t "docs: update the user list" -H "$BRANCH" -b "$BODY"
+          set -eu
+          url=$(gh pr create -t "docs: update the user list" -H "$BRANCH" -b "$BODY")
+          gh pr merge "$url" -s --auto
         env:
           BRANCH: update-list-${{github.run_id}}
           GH_TOKEN: ${{steps.token.outputs.token}}
