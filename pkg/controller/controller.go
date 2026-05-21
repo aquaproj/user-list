@@ -17,7 +17,10 @@ func New() *Controller {
 }
 
 func (c *Controller) Run(ctx context.Context, logger zerolog.Logger) error {
-	gh := NewGitHub(ctx)
+	gh, err := NewGitHub(ctx)
+	if err != nil {
+		return err
+	}
 	// query := "-user:suzuki-shunsuke -org:aquaproj aquaproj"
 	// Exclude aquasecurity due to IP restriction: https://github.com/aquaproj/user-list/issues/2101
 	query := "aquaproj/aqua-registry -org:aquasecurity"
