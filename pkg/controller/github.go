@@ -25,12 +25,16 @@ type GitHub struct {
 	v4Client *githubv4.Client
 }
 
-func NewGitHub(ctx context.Context) *GitHub {
+func NewGitHub(ctx context.Context) (*GitHub, error) {
 	httpClient := getHTTPClientForGitHub(ctx, getGitHubToken())
-	return &GitHub{
-		search:   github.NewClient(httpClient).Search,
-		v4Client: githubv4.NewClient(httpClient),
+	gh, err := github.NewClient(github.WithHTTPClient(httpClient))
+	if err != nil {
+		return nil, fmt.Errorf("create a GitHub client: %w", err)
 	}
+	return &GitHub{
+		search:   gh.Search,
+		v4Client: githubv4.NewClient(httpClient),
+	}, nil
 }
 
 func getGitHubToken() string {
