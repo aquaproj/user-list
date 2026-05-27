@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: suzuki-shunsuke/go-autofix-action@ba716cebb7767055bdde0e62bb91d715bde39ab2 # v0.1.12
         with:
-          aqua_version: v2.59.0
+          aqua_version: v2.59.1
       - run: cat docs/HEADER.md docs/LIST.md docs/FOOTER.md > README.md
       - uses: autofix-ci/action@c5b2d67aa2274e7b5a18224e8171550871fc7e4a # v1.3.4
