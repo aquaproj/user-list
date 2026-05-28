@@ -706,4 +706,3 @@ Repository | :star: The number of GitHub stars
 [zoetrope/teleport-demo](https://github.com/zoetrope/teleport-demo) | [0](https://github.com/zoetrope/teleport-demo/stargazers)
 [zuckeyM-17/learning-terraform](https://github.com/zuckeyM-17/learning-terraform) | [0](https://github.com/zuckeyM-17/learning-terraform/stargazers)
 [tecton-ai/gen-ai](https://github.com/tecton-ai/gen-ai) | [-1](https://github.com/tecton-ai/gen-ai/stargazers)
-
