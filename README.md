@@ -709,7 +709,6 @@ Repository | :star: The number of GitHub stars
 [zhanglimao/trivy](https://github.com/zhanglimao/trivy) | [0](https://github.com/zhanglimao/trivy/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
 [tecton-ai/gen-ai](https://github.com/tecton-ai/gen-ai) | [-1](https://github.com/tecton-ai/gen-ai/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
