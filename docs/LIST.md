@@ -630,4 +630,3 @@ Repository | :star: The number of GitHub stars
 [zhcndoc/mise](https://github.com/zhcndoc/mise) | [0](https://github.com/zhcndoc/mise/stargazers)
 [zoetrope/gh-mop](https://github.com/zoetrope/gh-mop) | [0](https://github.com/zoetrope/gh-mop/stargazers)
 [tecton-ai/gen-ai](https://github.com/tecton-ai/gen-ai) | [-1](https://github.com/tecton-ai/gen-ai/stargazers)
-
