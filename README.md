@@ -443,7 +443,6 @@ Repository | :star: The number of GitHub stars
 [yuya-takeyama/show-claude-sse](https://github.com/yuya-takeyama/show-claude-sse) | [0](https://github.com/yuya-takeyama/show-claude-sse/stargazers)
 [zhcndoc/mise](https://github.com/zhcndoc/mise) | [0](https://github.com/zhcndoc/mise/stargazers)
 [tecton-ai/gen-ai](https://github.com/tecton-ai/gen-ai) | [-1](https://github.com/tecton-ai/gen-ai/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
