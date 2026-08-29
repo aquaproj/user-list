@@ -240,4 +240,3 @@ Repository | :star: The number of GitHub stars
 [yashikota/dotfiles](https://github.com/yashikota/dotfiles) | [0](https://github.com/yashikota/dotfiles/stargazers)
 [yqYo1/dotfiles](https://github.com/yqYo1/dotfiles) | [0](https://github.com/yqYo1/dotfiles/stargazers)
 [zhcndoc/mise](https://github.com/zhcndoc/mise) | [0](https://github.com/zhcndoc/mise/stargazers)
-
