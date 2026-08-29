@@ -10,6 +10,7 @@ linters:
     - forbidigo
     - godot
     - godox
+    - gomodguard
     - ireturn
     - lll
     - mnd
