@@ -246,7 +246,6 @@ Repository | :star: The number of GitHub stars
 [windsorcli/git-livereload](https://github.com/windsorcli/git-livereload) | [0](https://github.com/windsorcli/git-livereload/stargazers)
 [yqYo1/dotfiles](https://github.com/yqYo1/dotfiles) | [0](https://github.com/yqYo1/dotfiles/stargazers)
 [zhcndoc/mise](https://github.com/zhcndoc/mise) | [0](https://github.com/zhcndoc/mise/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
