@@ -292,7 +292,6 @@ Repository | :star: The number of GitHub stars
 [yashikota/minis3](https://github.com/yashikota/minis3) | [0](https://github.com/yashikota/minis3/stargazers)
 [yqYo1/dotfiles](https://github.com/yqYo1/dotfiles) | [0](https://github.com/yqYo1/dotfiles/stargazers)
 [zhcndoc/mise](https://github.com/zhcndoc/mise) | [0](https://github.com/zhcndoc/mise/stargazers)
-
 ## How is the list generated?
 
 The list is updated by GitHub Actions daily.
