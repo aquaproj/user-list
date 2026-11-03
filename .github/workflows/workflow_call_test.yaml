@@ -20,7 +20,7 @@ jobs:
       go-mod-tidy: ${{steps.changes.outputs.go-mod-tidy}}
       test: ${{steps.changes.outputs.test}}
       update-readme: ${{steps.changes.outputs.update-readme}}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     permissions: {}
     steps:
       - uses: dorny/paths-filter@ceb8a2b8f2d89434be7ff52d3de7ec3738c5cc9d # v4.0.3
